@@ -1,0 +1,18 @@
+.single {
+    .wrap {
+        font-size:1.4em;
+    }
+
+    .card {
+        margin:0 auto 4em;
+    }
+
+    .card-aside {
+        font-size:6px;
+
+        .card:hover {
+            transition: .15s all;
+            transform:scale(1.5);
+        }
+    }
+}

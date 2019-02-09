@@ -1,0 +1,26 @@
+baseURL = "https://facilitator.cards"
+languageCode = "en-us"
+title = "Facilitator Cards"
+theme = "facilitator-cards-theme"
+
+[author]
+    name = "Sam Killermann"
+
+[params]
+    description = "A deck for planning, responding, and improvising -- for every facilitator, not your participants."
+    keywords = "sam killermann, killermann, patreon, sam, sam killerman, sam killermann gender"
+    images = [""] # your site-wide thumbnail image used in Twitter card and opengraph
+
+# main menu
+[[menu.main]]
+    name = "Cards"
+    url = "/cards/"
+    weight = 1
+[[menu.main]]
+    name = "Story"
+    url = "/story/"
+    weight = 2
+[[menu.main]]
+    name = "Get Your deck"
+    url = "/get/"
+    weight = 3

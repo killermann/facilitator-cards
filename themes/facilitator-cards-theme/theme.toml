@@ -1,0 +1,21 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Facilitator Cards Theme"
+license = "MIT"
+licenselink = "https://github.com/killermann/bemybosses/master/LICENSE"
+description = "A custom hugo theme for creating a Patreon splash page"
+homepage = "https://github.com/killermann/bemybosses"
+tags = ["personal", "portfolio", "patreon", "grid", "documentation"]
+features = ["disqus", "Font Awesome", "favicon", "Twitter card", "opengraph"]
+min_version = "0.45"
+
+[author]
+  name = "Sam Killermann"
+  homepage = "https://samuelkillermann.com"
+
+# If porting an existing theme
+[original]
+  name = "Saito Boilerplate"
+  homepage = "https://github.com/hakuoku/saito-boilerplate"
+  repo = "https://github.com/hakuoku/saito-boilerplate"

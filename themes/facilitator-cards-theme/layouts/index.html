@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<!-- intro section
+================================================== -->
+<section id="intro" class="main-carousel">
+    {{ range sort ( where .Data.Pages "Section" "cards" ) }}
+    <div class="carousel-cell">
+        <article class="flip-container ">
+            <a class="flipper" href="{{ .Permalink }}">
+                {{ partial "card.html" . }}
+            </a>
+        </article>
+    </div>
+    {{ end }}
+</section> <!-- /intro -->
+
+{{ end }}

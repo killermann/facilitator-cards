@@ -1,0 +1,13 @@
+<div class="cards">
+
+    {{ range (where .Data.Pages "Section" "cards") }}
+
+    <article class="flip-container">
+        <a class="flipper" href="{{ .Permalink }}">
+            {{ partial "card.html" . }}
+        </a>
+    </article>
+
+    {{ end }}
+    {{ partial "pagination.html" . }}
+</div>

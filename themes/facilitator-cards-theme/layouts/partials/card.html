@@ -1,0 +1,45 @@
+<div class="card front {{ .Params.category }} wow">
+    <header class="card-header">
+		<ul class="icon-list">
+			<li class="icon group-size">
+				<i class="fci fci-{{ .Params.group }}"></i>
+			</li>
+			<li class="icon category">
+				<i class="fci fci-{{ .Params.category }}"></i>
+			</li>
+			<li class="icon props">
+                {{ range .Params.props }}
+                <i class="fci fci-{{ . }}"></i>
+                {{ end }}
+			</li>
+		</ul>
+        <span class="title">
+            {{ .Title }}
+        </span>
+    </header>
+	<footer class="card-description">
+	</footer>
+</div>
+<div class="card back {{ .Params.category }} wow">
+    <header class="card-header">
+		<ul class="icon-list">
+			<li class="icon group-size">
+				<i class="fci fci-{{ .Params.group }}"></i>
+			</li>
+			<li class="icon category">
+				<i class="fci fci-{{ .Params.category }}"></i>
+			</li>
+			<li class="icon props">
+                {{ range .Params.props }}
+                <i class="fci fci-{{ . }}"></i>
+                {{ end }}
+			</li>
+		</ul>
+        <span class="title">
+            {{ .Title }}
+        </span>
+    </header>
+	<footer class="card-description">
+		<p>{{ .Params.description }}</p>
+	</footer>
+</div>

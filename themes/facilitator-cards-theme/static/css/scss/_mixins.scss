@@ -1,0 +1,54 @@
+/* Easy Nested Media Queries */
+
+$breakpoints: (
+    "phone":        320px,
+    "phone-wide":   480px,
+    "tablet":       768px,
+    "tablet-wide":  1024px,
+    "desktop":      1248px,
+    "desktop-wide": 1440px
+);
+
+@mixin mq($width, $type: min) {
+    @if map_has_key($breakpoints, $width) {
+        $width: map_get($breakpoints, $width);
+        @if $type == max {
+            $width: $width - 1px;
+        }
+        @media only screen and (#{$type}-width: $width) {
+            @content;
+        }
+    }
+}
+
+    /* Usage Example
+
+    .site-header {
+        padding: 2rem;
+        font-size: 1.8rem;
+        @include mq('tablet-wide') {
+            padding-top: 4rem;
+            font-size: 2.4rem;
+        }
+    }
+
+    */
+
+
+/* Truncate All the Things */
+
+
+@mixin truncate($truncation-boundary) {
+    max-width: $truncation-boundary;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+    /* Usage Example
+
+        .teaser-heading {
+            @include truncate('20em');
+        }
+
+    */

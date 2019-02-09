@@ -1,0 +1,10 @@
+{{ define "title" }}
+    {{ .Title }} | {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+    <header class="page-header wrap">
+        <h1>Meet the Cards</h1>
+        <p>Click to inspect.</p>
+    </header>
+    {{ partial "card-list.html" . }}
+{{ end }}

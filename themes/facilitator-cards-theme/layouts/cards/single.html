@@ -1,0 +1,22 @@
+{{ define "title" }}
+    {{ .Title }} | {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+<section class="grid wrap">
+    <aside class="aside">
+        {{ partial "card.html" . }}
+    </aside>
+    <main class="main">
+        <h2>
+            {{ .Title }}
+        </h2>
+        <p>
+            {{ .Params.description }}
+        </p>
+    </main>
+    <aside class="card-aside flex flex-col">
+
+    </aside>
+
+</section>
+{{ end }}

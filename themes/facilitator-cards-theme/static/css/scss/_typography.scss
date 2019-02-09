@@ -1,0 +1,99 @@
+
+/* Universal Typography */
+
+body {
+    line-height:1.44;
+    font-size:16px;
+
+    @include mq('tablet') {
+        font-size:18px;
+    }
+
+    @include mq('desktop') {
+        font-size:21px;
+    }
+}
+
+h1, h2, h3, h4, h5, h6,
+.button, .theme-font, .nav, .title{
+    font-family:$theme-font;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight:900;
+    line-height:1.2;
+}
+
+ul, ol {
+    margin:1.5em auto;
+    padding:0 0 0 1.5em;
+
+    li + li {
+        margin-top:1.2em;
+    }
+}
+
+ol {
+    list-style: none;
+    counter-reset: boss-counter;
+
+    li {
+        counter-increment: boss-counter;
+
+        strong, &:before {
+            font-family:$theme-font;
+            font-weight:bold;
+        }
+
+        &:before {
+            color:$blue;
+            display:inline-block;
+            margin-left:-1.5em;
+            width:1.5em;
+            content: counter(boss-counter) ". ";
+        }
+
+        br {
+            line-height:1.7;
+        }
+    }
+}
+
+blockquote, cite {
+    font-family: $theme-font;
+    margin-left:0;
+    margin-right:0;
+}
+    blockquote {
+        font-weight:700;
+    }
+
+    cite {
+        font-style:normal;
+    }
+
+
+/* Typog Classes */
+
+.dropcap {
+    float: left;
+    font-family: $theme-font;
+    font-weight:700;
+    font-size: 4.5em;
+    line-height: .8;
+    margin-top:-1rem;
+    margin-right:.5rem;
+    margin-left:-1rem;
+}
+
+.lede:first-line {
+    font-family: $theme-font;
+    font-weight: 700;
+}
+
+.small {
+    font-size:.8em;
+}
+
+.text-center { text-align: center; }
+.text-right { text-align: right; }
