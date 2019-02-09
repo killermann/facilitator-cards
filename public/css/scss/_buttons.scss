@@ -1,0 +1,81 @@
+
+/* Links */
+
+a, a:visited {
+    color:currentColor;
+    text-decoration-color:$blue;
+    background-size: 100% 0.2em;
+    background-position: 0 98%;
+    transition: background-size 0.15s ease-out;
+
+    &:hover, &:focus {
+        background-size: 100% 88%;
+    }
+}
+
+
+.biglink {
+    background:none;
+    font-weight:bold;
+    font-size:.8em;
+    letter-spacing:.02em;
+    font-family:$theme-font;
+    max-width:24em;
+    display:inline-block;
+
+    &:hover {
+        color:$blue;
+    }
+}
+
+/* Buttons */
+
+.button {
+    padding:1.2em 1.8em;
+    background:rgba(white,.0);
+    border-radius: $borad;
+    border:.2em solid currentColor;
+    font-weight:700;
+    position:relative;
+    transition:opacity .5s ease-in, border-radius .2s ease-out;
+    z-index:3;
+
+
+    /* Button Animation */
+
+    &:hover, &:focus {
+        transform:translateY(-.2em);
+        cursor: pointer;
+
+        span {
+            opacity:0;
+            border-radius:3em;
+        }
+
+        &:after, &:before {
+            top:0;
+            left:0;
+            opacity:1;
+            border-radius:3em;
+        }
+    }
+
+    &:active {
+
+        span {
+            opacity:0;
+            border-radius:3em;
+        }
+
+        &:after {
+            opacity:0;
+        }
+        &:before {
+            background-size:auto 100%;
+        }
+    }
+
+    & + .button {
+        margin-left:1em;
+    }
+}

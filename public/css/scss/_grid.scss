@@ -1,0 +1,27 @@
+@include mq('tablet-wide') {
+
+    .grid {
+        display:grid;
+        align-content: start;
+        grid-column-gap: 2em;
+        grid-template-columns: 19em 1fr 90px;
+    }
+
+}
+
+.flex {
+    display:flex;
+}
+
+    .flex-col {
+        flex-direction:column;
+    }
+
+    .flex-row {
+        flex-direction:row;
+    }
+
+.center-everthing {
+    justify-content: center;
+    align-items:center;
+}

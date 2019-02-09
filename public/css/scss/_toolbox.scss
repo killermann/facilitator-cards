@@ -1,0 +1,141 @@
+/* Layout Classes */
+
+.pad { padding:25px; }
+
+.bigpad { padding:50px; }
+
+.center-everything {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero { min-height:90vh; }
+
+.overflow-visible { overflow:visible !important }
+
+/* Branding Classes */
+
+.rounded {
+    border-radius:$borad;
+}
+
+.clip {
+    position:relative;
+    overflow:hidden;
+    clip-path: polygon(0 20px, 100% 0, 100% calc(100% - 20px), 0% 100%);
+
+    .clipper {
+        display:none;
+    }
+
+    @include mq('tablet-wide') {
+        clip-path:none;
+
+        .unclipped {
+            position:relative;
+            z-index:1;
+
+            &.right {
+                padding-right:2.5vw;
+            }
+
+            &.left {
+                padding-left:3.5vw;
+            }
+        }
+
+        .clipper {
+            color:white;
+            height:102%;
+            display:block;
+            top:-1%;
+            position:absolute;
+            z-index:0;
+
+            &.left {
+                left:-.1%;
+            }
+
+            &.right {
+                right:-.1%;
+            }
+        }
+    } /* /mq */
+}
+
+/* Animations */
+
+.hover-z:hover {
+    z-index:9999 !important;
+}
+
+html.sr .scrlld {
+    visibilty:hidden;
+}
+
+/* Color Classes */
+
+.red-bg {background-color:$red;}
+.blue-bg {background-color:$blue;}
+.purple-bg {background-color:$purple;}
+.green-bg {background-color:$green;}
+
+.text-invert {
+    color: #fff;
+}
+
+/* Media */
+
+.youtube {
+    overflow:hidden;
+    background-color: white;
+    position: relative;
+    padding-top: 56.25%;
+    width:100%;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius:4px;
+
+    iframe {
+        height: 100%;
+        width: 100%;
+        top: 0;
+        left: 0;
+    }
+
+    /* For LazyLoad Script */
+
+    img {
+        width: 100%;
+        top: -16.84%;
+        left: 0;
+        opacity: 0.1;
+    }
+
+    img, .play-button {
+        cursor: pointer;
+    }
+
+    img, iframe, .play-button {
+        position:absolute;
+    }
+
+    .play-button {
+        width: 80px;
+        height: 80px;
+        z-index: 1;
+        opacity: 0.8;
+        left:50%;
+        top:50%;
+        margin:-40px 0 0 -40px;
+        border-radius: 6px;
+        color:$blue;
+        transition:color .2s ease-out;
+        filter:drop-shadow(0px 0px 7px white);
+
+        &:hover {
+            color:$blue;
+        }
+    }
+}

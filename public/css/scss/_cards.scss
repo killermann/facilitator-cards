@@ -1,0 +1,105 @@
+// Flip the cards: https://davidwalsh.name/css-flip
+
+.cards {
+	display:flex;
+	flex-wrap:wrap;
+	padding:2em;
+
+	.card {
+		margin:2em;
+	}
+}
+
+.card {
+	background:white;
+	width:15em;
+	max-width:100%;
+	height:21em;
+	border-radius:1.5em;
+	box-shadow:0em .7em 1.4em -.4em rgba(50,50, 70, .3);
+	overflow:hidden;
+	display:flex;
+	flex-direction:column;
+	margin:0 auto 4em;
+
+	.card-header, .card-description {
+		padding:1em;
+		flex:1;
+		box-sizing: border-box;
+	}
+
+
+	.card-header {
+		@extend .text-invert;
+		text-transform: uppercase;
+		display:flex;
+		flex-direction: column;
+		justify-content: space-between;
+
+		.icon-list {
+			justify-content: space-between;
+			font-size:2em;
+		}
+
+		.props {
+			.fci + .fci {margin-top:.5em;}
+		}
+
+		.title {
+			font-family:$theme-font;
+			font-weight:900;
+			font-size:1.2em;
+			margin:0;
+			max-width:80%;
+			line-height:1.2;
+		}
+
+	}
+
+	.card-description {
+		p {
+			margin:0;
+			font-size:.6em;
+			line-height:1.2;
+			text-align: justify;
+			color:black;
+		}
+	}
+
+
+
+	&.emotion {
+		.card-header { background:$blue;}
+        &.back { background:$blue;}
+	}
+
+	&.ideation {
+		.card-header { background:$green;}
+        &.back { background:$green;}
+	}
+
+	&.clarification {
+		.card-header { background:$orange;}
+        &.back { background:$orange;}
+	}
+
+	&.execution {
+		.card-header { background:$red;}
+        &.back { background:$red;}
+	}
+
+	&.back {
+
+		.card-header {
+			padding-bottom:0;
+
+			.title {
+				margin-bottom:0.833333em;
+			}
+		}
+
+		.card-description {
+			padding-top:0;
+		}
+	}
+}

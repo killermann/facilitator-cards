@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://facilitator.cards/why-not/</loc>
+    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://facilitator.cards/faq/</loc>
+    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://facilitator.cards/how/</loc>
+    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://facilitator.cards/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://facilitator.cards/cards/anonymous-question-answer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://facilitator.cards/cards/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://facilitator.cards/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://facilitator.cards/</loc>
+    <lastmod>2018-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://facilitator.cards/cards/four-images/</loc>
+  </url>
+  
+  <url>
+    <loc>https://facilitator.cards/cards/inside-outside-thinking/</loc>
+  </url>
+  
+  <url>
+    <loc>https://facilitator.cards/cards/magnet-statements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://facilitator.cards/cards/six-thinking-hats/</loc>
+  </url>
+  
+  <url>
+    <loc>https://facilitator.cards/cards/spectrum-questions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://facilitator.cards/cards/sticky-note-generator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://facilitator.cards/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://facilitator.cards/cards/vanishing-options/</loc>
+  </url>
+  
+</urlset>
