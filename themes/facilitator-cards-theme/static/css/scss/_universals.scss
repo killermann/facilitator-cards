@@ -38,11 +38,37 @@ body {
 .hero {
     min-height:100vh;
 
+
     .wrap {
         position:absolute;
         z-index:2;
         height:100%;
         width:100%;
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .hero-heading {
+        h2 {
+            font-size:calc(2.8em + 1vw);
+            margin:1em auto .5em;
+            text-align:center;
+        }
+    }
+
+    .hero-blurb {
+        max-width:480px;
+        margin:1em auto;
+        font-family:$theme-font;
+        font-size:1.2em;
+        p {
+            background:hsla(0, 0, 100%, .8);
+            padding:1em;
+            border-radius:1.5em;
+            line-height:1.2;
+        }
     }
 
     .image-bg {

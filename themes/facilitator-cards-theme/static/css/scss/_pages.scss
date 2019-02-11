@@ -22,23 +22,3 @@
     HOME PAGE
 
 ***/
-
-#home-hero {
-
-
-    .wrap {
-        align-self: stretch;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-    }
-
-    .hero-text {
-        h2 {
-            font-size:calc(2.8em + 1vw);
-            margin:.5em auto;
-            text-align:center;
-        }
-
-    }
-}
