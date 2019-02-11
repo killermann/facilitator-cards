@@ -16,3 +16,34 @@
         }
     }
 }
+
+/***
+
+    HOME PAGE
+
+***/
+
+#home-hero {
+    background-image: url('/img/bg-gallery-cards.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+
+    .wrap {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    .hero-text {
+        h2 {
+            font-size:3em;
+            margin:0;
+        }
+        h3 {
+            font-size:2em;
+            margin:0;
+        }
+    }
+}

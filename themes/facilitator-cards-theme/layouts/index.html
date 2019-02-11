@@ -1,8 +1,26 @@
 {{ define "main" }}
 
-<!-- intro section
-================================================== -->
-<section id="intro" class="main-carousel">
+
+<!-- hero section -->
+<section id="home-hero" class="hero center-everything">
+    <div class="wrap">
+        <div class="hero-text">
+            <h2>Cards for you</h2>
+            <h3>Not your participants</h3>
+        </div>
+        <a href="" title="Where do I sign up?" class="button cta">
+            Sign up.
+        </a>
+    </div>
+</section> <!-- /cards -->
+
+<!-- cta section -->
+<section id="home-cta" class="blue-bg bigpad text-invert">
+    <h2>Testing.</h2>
+</section>
+
+<!-- cards section-->
+<section id="home-cards" class="main-carousel">
     {{ range sort ( where .Data.Pages "Section" "cards" ) }}
     <div class="carousel-cell">
         <article class="flip-container ">
@@ -12,6 +30,6 @@
         </article>
     </div>
     {{ end }}
-</section> <!-- /intro -->
+</section> <!-- /cards -->
 
 {{ end }}

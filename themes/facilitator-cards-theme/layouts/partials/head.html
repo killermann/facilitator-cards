@@ -17,8 +17,10 @@
 
 {{ template "_internal/twitter_cards.html" . }}
 {{ template "_internal/opengraph.html" . }}
-<meta property="og:image" content="https://bemyboss.es/img/be-my-bosses-social-card.png">
-<meta property="article:author" content="https://facebook.com/killermann">
+<meta property="og:image" content="">
+<meta property="article:author" content="">
+
+{{ partial "seo.html" . }}
 
 <base href="{{ .Site.BaseURL }}">
 

@@ -2,11 +2,12 @@
 
 .cards {
 	display:flex;
+	justify-content: center;
 	flex-wrap:wrap;
-	padding:2em;
+	padding:1em;
 
-	.card {
-		margin:2em;
+	.card, .flip-container {
+		margin:1em;
 	}
 }
 

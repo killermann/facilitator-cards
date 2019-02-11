@@ -2,13 +2,15 @@ baseURL = "https://facilitator.cards"
 languageCode = "en-us"
 title = "Facilitator Cards"
 theme = "facilitator-cards-theme"
+enableRobotsTXT = true
+canonifyURLs = true
 
 [author]
     name = "Sam Killermann & Meg Bolger"
 
 [params]
     description = "A deck for planning, responding, and improvising -- for every facilitator, not your participants."
-    keywords = "sam killermann, killermann, patreon, sam, sam killerman, sam killermann gender"
+    keywords = "facilitator, facilitation, facilitator tools, facilitator cards, training, trainer, training tools, training planning, resources, faciliatator resources"
     images = [""] # your site-wide thumbnail image used in Twitter card and opengraph
 
 # main menu
