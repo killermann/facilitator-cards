@@ -37,4 +37,21 @@ body {
 
 .hero {
     min-height:100vh;
+
+    .wrap {
+        position:absolute;
+        z-index:2;
+        height:100%;
+        width:100%;
+    }
+
+    .image-bg {
+        position:relative;
+        z-index:1;
+        svg, img {
+            display:block;
+            width:100vw;
+            height:auto;
+        }
+    }
 }

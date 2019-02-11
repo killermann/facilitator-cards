@@ -24,26 +24,21 @@
 ***/
 
 #home-hero {
-    background-image: url('/img/bg-gallery-cards.svg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: bottom;
+
 
     .wrap {
         align-self: stretch;
         display: flex;
         flex-direction: column;
-        justify-content: space-evenly;
+        justify-content: space-between;
     }
 
     .hero-text {
         h2 {
-            font-size:3em;
-            margin:0;
+            font-size:calc(2.8em + 1vw);
+            margin:.5em auto;
+            text-align:center;
         }
-        h3 {
-            font-size:2em;
-            margin:0;
-        }
+
     }
 }
