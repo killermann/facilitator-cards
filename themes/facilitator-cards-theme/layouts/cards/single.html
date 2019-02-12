@@ -2,15 +2,15 @@
     {{ .Title }} | {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
-<section class="grid wrap">
+<section id="single-card" class="grid wrap">
     <aside class="aside">
         {{ partial "card.html" . }}
     </aside>
     <main class="main">
-        <h2>
+        <h1>
             {{ .Title }}
-        </h2>
-        <p>
+        </h1>
+        <p class="card-blurb">
             {{ .Params.description }}
         </p>
     </main>

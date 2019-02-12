@@ -4,7 +4,7 @@ author: "Sam Killermann + Meg Bolger"
 description: "Facilitator asks a question or delivers a prompt and participants respond by placing themselves (physically) on a spectrum from strongly disagree to strongly agree (or other poles). Between each prompt, allow for popcorn shares from different positions."
 category: "emotion"
 group: "full-group"
-props: ["sticky-notes", "marker"]
+props: ["paper", "marker", "tape"]
 ---
 
 <span class="dropcap seafoam">D</span>o you care about the work I’m doing? Be my boss and you’ll be directly involved in — and responsible for — everything I create, publish, or send out into the world. And it works like any employee/employer relationship:
