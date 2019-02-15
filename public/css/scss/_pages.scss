@@ -48,3 +48,29 @@
     HOME PAGE
 
 ***/
+
+#home-hero {
+    margin-bottom: 4em;
+
+    .hero-heading h2 {
+        margin:8vw auto 1em;
+        color: #0B4B51;
+    }
+
+    .image-bg {
+        align-self: flex-start;
+
+
+
+        @include mq('tablet-wide'){
+            padding:4em auto 0;
+        }
+    }
+
+    .cta {
+        margin-top: -2em;
+        position:relative;
+        z-index: 3;
+
+    }
+}

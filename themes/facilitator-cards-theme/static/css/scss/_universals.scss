@@ -40,7 +40,9 @@ body {
 
 .hero {
     min-height:100vh;
-
+    display:flex;
+    flex-direction:column;
+    align-items: stretch;
 
     .wrap {
         position:absolute;
@@ -77,6 +79,7 @@ body {
     .image-bg {
         position:relative;
         z-index:1;
+
         svg, img {
             display:block;
             width:100vw;
@@ -84,7 +87,8 @@ body {
         }
     }
 
-    .button {
+    .cta {
         align-self: center;
+        font-family: $theme-font;
     }
 }
