@@ -45,3 +45,14 @@ wow = new WOW({
 
 wow.init();
 
+window.onscroll = function changeNav(){
+    var navBar = document.getElementById('masthead');
+    var scrollPosY = window.pageYOffset | document.body.scrollTop;
+
+    if(scrollPosY > 100) {
+          navBar.className = ('scrolled');
+    } else if(scrollPosY <= 100) {
+         navBar.className =  ('unscrolled');
+    }
+}
+
