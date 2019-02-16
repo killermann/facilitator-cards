@@ -23,7 +23,7 @@
             }
 
             #logo, .nav {
-                margin:.8rem 1rem;
+                margin:.5rem 1.5rem;
             }
 
         }
@@ -37,13 +37,13 @@
     color: transparent;
     background-image: url('/img/fac-cards-logo-400.png');
     background-repeat:no-repeat;
-    background-position: center;
+    background-position: left;
     background-size:contain;
     display: flex;
     width: 300px;
     height: 40px;
     max-width:100%;
-    margin: 1rem;
+    margin:.8rem 1.5rem;
 
     @include mq('tablet-wide') {
         background-image: url('/img/fac-cards-logo-800.png');
@@ -54,7 +54,7 @@
 
 .nav {
     display: flex;
-    margin: 1rem;
+    margin:.8rem 1.5rem;
     ul, li {
         margin: 0;
         padding: 0;

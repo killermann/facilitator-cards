@@ -40,6 +40,27 @@ h4 {
     font-size:1.8em;
 }
 
+
+.huge {
+    font-size:calc(2.8em + 1vw);
+    line-height:1;
+}
+
+.big {
+    font-size:calc(2.2em + 1vw);
+    line-height:1;
+}
+
+.medium {
+    font-size:calc(1.6em + 1vw);
+    line-height:1.1;
+}
+
+.big-copy {
+    font-size: 1.2em;
+    line-height:1.2;
+}
+
 ul, ol {
     margin:1.5em auto;
     padding:0 0 0 1.5em;

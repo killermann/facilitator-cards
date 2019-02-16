@@ -30,7 +30,7 @@ a, a:visited {
 
 .button {
     padding:1em 1.5em;
-    background:$red;
+    background:linear-gradient(to right, $red, $orange);
     color: #000;
     border-radius: .5em;
     display: inline-block;

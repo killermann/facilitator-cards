@@ -86,6 +86,29 @@ html.sr .scrlld {
 
 /* Media */
 
+.mailing-list {
+    border-radius:1em;
+
+    input{
+        background:#eee;
+        border:none;
+        border-radius:1em 0 0 1em;
+        padding:0 1em;
+    }
+
+    button {
+        border-radius: 0 1em 1em 0;
+        box-shadow:none;
+        border:none;
+
+        &:hover, &:focus {
+            transform:none;
+            border-radius:.2em;
+            box-shadow: 0px 0px 0px .2em $red;
+        }
+    }
+}
+
 .youtube {
     overflow:hidden;
     background-color: white;

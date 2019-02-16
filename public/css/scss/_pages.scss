@@ -53,20 +53,17 @@
 #home-hero {
     margin-bottom: 4em;
 
+    @include mq('tablet-wide') {
+        margin-top:calc(140px + 4vh);
+    }
+
     .hero-heading h2 {
+        margin:0 auto;
 
-        margin:8vw auto 1em;
-        color: #0B4B51;
-
-        @include mq('tablet-wide') {
-            margin-top:calc(120px + 3vw);
-        }
     }
 
     .image-bg {
         align-self: flex-start;
-
-
 
         @include mq('tablet-wide'){
             padding:4em auto 0;
@@ -74,9 +71,28 @@
     }
 
     .cta {
-        margin-top: -2em;
+        margin: -1em auto 0;
         position:relative;
         z-index: 3;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap:wrap;
 
+        .mailing-list {
+            margin:0 auto;
+        }
+
+        .big-copy {
+            margin:0 1em;
+        }
+    }
+}
+
+
+#home-hero,
+#home-gallery {
+    .image-bg {
+        margin:-2em auto;
     }
 }
