@@ -67,12 +67,17 @@ body {
         }
     }
 
+    p {
+        max-width: 480px;
+        margin-left: auto;
+        margin-right: auto;
+        font-family:$theme-font;
+    }
+
     .hero-blurb {
-        max-width:480px;
         position:relative;
         z-index:2;
         margin:-20% auto 1em;
-        font-family:$theme-font;
 
         p {
             background:hsla(0, 0, 100%, .8);
@@ -103,5 +108,34 @@ body {
         z-index:3;
         align-self: center;
         font-family: $theme-font;
+    }
+}
+
+.flex-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 4em;
+
+    .flex-list-item {
+        padding:4em 4em 0;
+
+        .icon {
+
+            svg {
+                width:calc(1.6em + 1vw);
+                height:calc(1.6em + 1vw);
+                margin:10px;
+            }
+        }
+
+        h3, h4 {
+            margin:10px auto;
+        }
+
+        @include mq('tablet'){
+            max-width:50%;
+        }
     }
 }
