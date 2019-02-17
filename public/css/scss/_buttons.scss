@@ -30,7 +30,7 @@ a, a:visited {
 
 .button {
     padding:1em 1.5em;
-    background:linear-gradient(to right, $red, $orange);
+    background:linear-gradient(to bottom right, $red, $orange);
     color: #000;
     border-radius: .5em;
     display: inline-block;
@@ -47,8 +47,8 @@ a, a:visited {
 
     &:hover, &:focus {
         transform:translateY(-.2em);
-        background: $orange;
-        box-shadow: 0px .4em .6em 0 hsla(177%, 20%, 26%, .2);
+        background:linear-gradient(to top left, $red, $orange);
+        box-shadow: 0px .4em .6em 0 hsla(177%, 20%, 26%, .2), inset 0 0 .7em .1em $red;
         cursor: pointer;
     }
 

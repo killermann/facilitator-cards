@@ -26,9 +26,9 @@ window.onscroll = function changeNav(){
     var navBar = document.getElementById('masthead');
     var scrollPosY = window.pageYOffset | document.body.scrollTop;
 
-    if(scrollPosY > 100) {
+    if(scrollPosY > 50) {
           navBar.className = ('scrolled');
-    } else if(scrollPosY <= 100) {
+    } else if(scrollPosY <= 50) {
          navBar.className =  ('unscrolled');
     }
 }

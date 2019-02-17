@@ -3,6 +3,8 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
 
     @include mq('tablet-wide') {
         justify-content: space-between;
@@ -10,10 +12,11 @@
         width:100%;
         top:0;
         z-index:999;
-        transition:background .4s ease-out;
+        transition:all .4s ease-out;
 
         &.scrolled, &:hover {
-            background: hsla(0,0,100%,.9);
+            background: hsla(0,0,100%,.85);
+            box-shadow: 0 0 2em 0 hsla(177%, 15%, 60%, .3);
         }
 
         &.scrolled {
