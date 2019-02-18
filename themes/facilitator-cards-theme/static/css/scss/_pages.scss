@@ -54,7 +54,7 @@
     margin-bottom: 4em;
 
     @include mq('tablet-wide') {
-        margin-top:calc(140px + 4vh);
+        margin-top: 140px;
     }
 
     .hero-heading h2 {

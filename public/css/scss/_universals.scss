@@ -40,22 +40,19 @@ body {
 
 .hero {
 
-    display:flex;
-
     .wrap {
         display:flex;
         align-self:stretch;
         justify-content: space-evenly;
         align-items:center;
         flex-direction:column;
-        // position:absolute;
-        // z-index:2;
-        // height:100%;
-        // width:100%;
-        // align-self: stretch;
-        // display: flex;
-        // flex-direction: column;
-        // justify-content: space-between;
+        max-width:1200px;
+    }
+
+    .hero-heading, p, .hero-blurb, .image-bg {
+        max-width:90vw;
+        margin-left:auto;
+        margin-right:auto;
     }
 
     .hero-heading {
@@ -90,18 +87,15 @@ body {
     .image-bg {
         position:relative;
         z-index:1;
+        width: 100%;
 
         svg, img {
             display:block;
             width:100%;
             height:auto;
             margin:0 auto;
-
-            @include mq('tablet-wide'){
-                height:80vh;
-                width:auto;
-            }
         }
+
     }
 
     .cta {
@@ -116,11 +110,15 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    align-items: center;
+    align-items: stretch;
     margin-bottom: 4em;
 
     .flex-list-item {
         padding:4em 4em 0;
+
+        &:nth-of-type(even){
+            animation: slideInUp 1s ease-out;
+        }
 
         .icon {
 
@@ -133,6 +131,10 @@ body {
 
         h3, h4 {
             margin:10px auto;
+        }
+
+        p {
+            max-width:16em;
         }
 
         @include mq('tablet'){
