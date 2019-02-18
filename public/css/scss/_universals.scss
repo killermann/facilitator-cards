@@ -68,9 +68,10 @@ body {
     }
 
     p {
-        max-width: 480px;
+        max-width: 28em;
         margin-left: auto;
         margin-right: auto;
+        margin-top: 0;
         font-family:$theme-font;
     }
 
