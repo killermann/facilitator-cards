@@ -1,0 +1,31 @@
+#footer {
+    margin-top: calc(4em + 4vw);
+}
+
+#footer-cta {
+    flex-direction: column;
+
+    @include mq('tablet'){
+        flex-direction:row;
+    }
+
+    .medium {
+        margin:0;
+        text-align: center;
+        text-shadow: .15em .15em .1em $red;
+
+        @include mq('tablet-wide'){
+            text-align: left;
+            padding-right:40px;
+        }
+    }
+
+    .orange-to-red {
+        flex-direction: column;
+
+        @include mq('tablet-wide'){
+            flex-direction: row;
+            flex-grow: 1;
+        }
+    }
+}

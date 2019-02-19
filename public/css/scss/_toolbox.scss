@@ -10,6 +10,10 @@
     align-items: center;
 }
 
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
 .overflow-visible { overflow:visible !important }
 
 /* Branding Classes */
@@ -80,8 +84,22 @@ html.sr .scrlld {
 .green-bg {background-color:$green;}
 .orange-bg {background-color:$orange;}
 
+
+.red { color: $red; }
+.orange { color: $orange; }
+.green { color: $green; }
+.blue { color: $blue; }
+
+.orange-to-red {
+	background:linear-gradient(to bottom right, $orange, $red);
+}
+
+.green-to-blue {
+	background:linear-gradient(to bottom right, $green, $blue);
+}
+
 .text-invert {
-    color: #fff;
+    color: hsla(0,0,100%,.8);
 }
 
 /* Media */
