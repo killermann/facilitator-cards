@@ -5,10 +5,13 @@ body {
 }
 
 .wrap {
-    padding:0 1em;
+    padding-left: 1em;
+    padding-right: 1em;
     margin:0 auto;
+
     @include mq('tablet-wide'){
-        padding: 0 4em;
+        padding-left: 4em;
+        padding-right: 4em;
     }
 }
 

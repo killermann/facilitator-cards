@@ -1,10 +1,9 @@
-#single-card {
-    margin-top: 2em;
-    padding-top:4em;
+#main {
+    margin-top: 120px;
+}
 
-    @include mq('tablet-wide') {
-        margin-top: 120px;
-    }
+#single-card {
+    padding-top:2em;
 
     .wrap {
         font-size:1.4em;

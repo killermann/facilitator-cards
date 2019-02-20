@@ -28,4 +28,10 @@
             flex-grow: 1;
         }
     }
+
+    .mailing-list {
+        input[type=email]{
+            background:hsla(0,0,100%,.95);
+        }
+    }
 }
