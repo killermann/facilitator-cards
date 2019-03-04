@@ -2,21 +2,26 @@
     {{ .Title }} | {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
-<section id="single-card" class="grid wrap">
-    <aside class="aside">
+<section id="single-card" class="single grid wrap">
+    <aside class="sidebar">
         {{ partial "card.html" . }}
     </aside>
-    <main class="main">
+    <header class="content">
         <h1>
             {{ .Title }}
         </h1>
         <p class="card-blurb">
             {{ .Params.description }}
         </p>
-    </main>
-    <aside class="card-aside flex flex-col">
+    </header>
+    <aside class="card-aside meta flex flex-col">
 
     </aside>
+
+    <main class="content">
+        {{ .Content }}
+    </main>
+
 
 </section>
 {{ end }}

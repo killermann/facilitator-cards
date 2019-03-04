@@ -16,6 +16,15 @@
 
 .overflow-visible { overflow:visible !important }
 
+.absolute-link {
+    position:absolute;
+    z-index:100;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
 /* Branding Classes */
 
 .rounded {
@@ -102,6 +111,15 @@ html.sr .scrlld {
     color: hsla(0,0,100%,.95);
 }
 
+.rainbow-text {
+    background: linear-gradient(to right, $blue, $green, $orange, $red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    padding-bottom: .15em;
+}
+
 /* Media */
 
 .mailing-list {
@@ -113,6 +131,7 @@ html.sr .scrlld {
         border-radius:1em 0 0 1em;
         padding:0 1em;
         box-shadow:inset 0 0.1em 0.4em 0 rgba(0,0,0,.15);
+        width:12em;
     }
 
     button {

@@ -5,6 +5,7 @@
     align-items: center;
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
+    font-family: $theme-font;
 
     @include mq('tablet-wide') {
         justify-content: space-between;
@@ -67,4 +68,12 @@
         display: block;
         padding:.6em;
     }
+}
+
+.breadcrumbs {
+    font-family: $theme-font;
+    font-weight:700;
+    text-transform:uppercase;
+    letter-spacing: .04em;
+    font-size: 1rem;
 }

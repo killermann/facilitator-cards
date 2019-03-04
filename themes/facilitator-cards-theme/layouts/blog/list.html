@@ -1,0 +1,10 @@
+{{ define "title" }}
+    {{ .Title }} | {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+    <header class="page-header text-center wrap">
+        <h1 class="huge rainbow-text">Facilitator.Cards/Blog</h1>
+        <p class="big-copy type-wrap">Welcome! Here you will find posts about the Facilitator Cards (how they're made, how they came to be, expansions and updates), Using the Cards, and other Facilitation &amp; Training Resources.</p>
+    </header>
+    {{ partial "list.html" . }}
+{{ end }}

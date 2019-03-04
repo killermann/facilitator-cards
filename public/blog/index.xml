@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Facilitator Cards</title>
+    <link>https://facilitator.cards/blog/</link>
+    <description>Recent content in Blogs on Facilitator Cards</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://facilitator.cards/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to the Facilitator Cards Blog</title>
+      <link>https://facilitator.cards/blog/intro-to-the-blog/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://facilitator.cards/blog/intro-to-the-blog/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel magna magna. Aliquam vel purus blandit, sodales nulla ut, efficitur nunc. Pellentesque viverra auctor felis vitae consequat. Vestibulum porta elit dolor, id sollicitudin sapien malesuada at. Phasellus facilisis mi et arcu posuere tristique. Nam a porttitor mauris. Nullam convallis turpis quis leo euismod, non hendrerit dui fermentum. In molestie tellus ac neque mollis accumsan. Aenean vehicula ante ligula, at pharetra nulla commodo sit amet.</description>
+    </item>
+    
+  </channel>
+</rss>

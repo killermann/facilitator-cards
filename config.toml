@@ -14,6 +14,11 @@ canonifyURLs = true
     images = [""] # your site-wide thumbnail image used in Twitter card and opengraph
     email_list = "http://eepurl.com/gg4Owr"
 
+# taxonomies 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 # main menu
 [[menu.main]]
     name = "Cards"
@@ -24,7 +29,12 @@ canonifyURLs = true
     name = "Story"
     url = "/story/"
     weight = 2
+
 [[menu.main]]
-    name = "Get Your deck"
-    url = "/get/"
+    name = "Blog"
+    url = "/blog/"
     weight = 3
+# [[menu.main]]
+#     name = "Get Your deck"
+#     url = "/get/"
+#     weight = 3

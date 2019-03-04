@@ -1,13 +1,12 @@
-<div class="container">
+<div class="container wrap">
     <article class="page page--{{ .Params.class }}">
-        <header class="page__title">
+        <header class="page-title text-center">
             <h1>{{ .Title }}</h1>
         </header>
         <section class="page__content narrow">
             {{ .Content }}
         </section>
         <footer class="page__footer text-center">
-            <a href="{{ .Site.BaseURL }}" class="title">⟵  Home</a><br/><br/>
-            <a href="https://patreon.com/join/killermann" class="title">Be my boss ⟶</a>
+            
         </footer>
     </article>

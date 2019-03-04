@@ -46,9 +46,13 @@
 
 @import "footer";
 
-/* Styles on HTML and Body */
+/* Page Specific Styles (like home and /cards) */
 
 @import "pages";
+
+/* Blog Posts and Archives */
+
+@import "blog";
 
 /* Plugins */
 

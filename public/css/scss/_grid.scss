@@ -4,9 +4,29 @@
         display:grid;
         align-content: start;
         grid-column-gap: 4em;
-        grid-template-columns: 15em 1fr 90px;
+        grid-template-columns: [sidebar] 2fr [content] 6fr [meta] 9em;
+        grid-template-rows: auto;
     }
 
+    #single-card.grid {
+        grid-template-columns: [sidebar] 15em [content] 1fr [meta] 90px;
+    }
+
+}
+
+.grid {
+
+    .meta {
+        grid-area: meta;
+    }
+
+    .content {
+        grid-area: content;
+    }
+
+    .sidebar {
+        grid-area: sidebar;
+    }
 }
 
 .flex {

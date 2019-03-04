@@ -1,12 +1,39 @@
-<div class="container">
-    <h1 class="title">{{ .Title }}</h1>
-    <ul>
-        {{ range .Paginator.Pages }}
-        <li>
-            <span>{{ .Date.Format "2006. 1. 2" }}</span>
-            <a href="{{ .URL }}">{{ .Title }}</a>
-        </li>
-        {{ end }}
-    </ul>
+<div class="wrap loop">
+    {{ range .Paginator.Pages }}
+    <article class="grid post wow">
+        <div class="sidebar">
+            {{ with .Params.featured_image }}<img class="featured-image" src="{{ . }}">{{ end }}
+        </div>
+        <aside class="meta">
+            <dl>
+                {{- if or .Params.author .Site.Params.author -}}
+                <dt>Written by:</dt>
+                <dd>
+                    {{ .Params.author | default .Site.Params.author }}
+                </dd>
+                {{ end }}
+                <dt>Posted on:</dt>
+                <dd>
+                    {{- .Date.Format "Jan 1, 2006" -}}
+                </dd>
+                <dt>Reading time:</dt>
+                {{ if gt .ReadingTime 1 }}
+                {{ .Scratch.Set "readingTime" "mins" }}
+                {{ else }}
+                {{ .Scratch.Set "readingTime" "min" }}
+                {{ end }}
+                <dd class="reading-time">~{{ .ReadingTime }} {{ .Scratch.Get "readingTime" }}</dd>
+            </dl>
+        </aside>
+        <section class="content">
+            <h2 class="big">{{ .Title }}</h2>
+            {{ with .Params.description }}
+            <p class="big-copy excerpt">{{ . }}</p>
+            {{ end }}
+        </section>
+
+        <a class="absolute-link" href="{{ .URL }}"></a>
+    </article>
+    {{ end }}
     {{ partial "pagination.html" . }}
 </div>

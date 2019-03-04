@@ -2,5 +2,53 @@
     {{ .Title }} | {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
-    {{ partial "post.html" . }}
+<section id="single-blog" class="single grid wrap">
+
+    <aside id="blurb" class="sidebar">
+        <nav class="breadcrumbs" aria-label="Breadcrumb">
+            <a href="{{ .Site.BaseURL }}/blog/" title="Blog">blog</a>
+            {{- with .Params.category }} / <a class="primary-category" href="{{ `/categories/` }}{{ . | urlize }}/" title="">{{ . }}</a>{{ end }}
+        </nav>
+        {{ with .Params.description }}
+        <p class="big-copy excerpt">{{ . }}</p>
+        {{ end }}
+    </aside>
+
+    <header class="single-title content">
+        <h1 class="wow">
+            {{ .Title }}
+        </h1>
+    </header>
+
+    <div id="featured-image" class="sidebar">
+        {{ with .Params.featured_image }}<img class="featured-image" src="{{ . }}">{{ end }}
+    </div>
+
+    <aside class="meta blog-aside flex flex-col">
+        <dl>
+            {{- if or .Params.author .Site.Params.author -}}
+            <dt>Written by:</dt>
+            <dd>
+                {{ .Params.author | default .Site.Params.author }}
+            </dd>
+            {{ end }}
+            <dt>Posted on:</dt>
+            <dd>
+                {{- .Date.Format "Jan 1, 2006" -}}
+            </dd>
+            <dt>Reading time:</dt>
+            {{ if gt .ReadingTime 1 }}
+            {{ .Scratch.Set "readingTime" "mins" }}
+            {{ else }}
+            {{ .Scratch.Set "readingTime" "min" }}
+            {{ end }}
+            <dd class="reading-time">~{{ .ReadingTime }} {{ .Scratch.Get "readingTime" }}</dd>
+        </dl>
+    </aside>
+
+    <main id="body" class="content">
+        {{ .Content }}
+    </main>
+
+</section>
 {{ end }}
