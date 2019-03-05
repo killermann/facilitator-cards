@@ -121,6 +121,52 @@ html.sr .scrlld {
     padding-bottom: .15em;
 }
 
+
+/* Doodle BG Classes */
+
+.doodle-blue,
+.doodle-green,
+.doodle-yellow{
+    background-repeat:no-repeat;
+    background-size: 400px auto;
+}
+
+.doodle-blue {
+    padding-bottom: 4em;
+    background-image:url(../img/doodles/fc-doodles-color-blue.jpg);
+    background-position:-200px bottom;
+
+    @include mq('tablet'){
+        background-position:-50px bottom;
+    }
+}
+
+.doodle-green {
+    background-image:url(../img/doodles/fc-doodles-color-green.jpg);
+    background-position:bottom right;
+}
+
+.doodle-yellow {
+    padding-top: 4em;
+    background-image:url(../img/doodles/fc-doodles-color-yellow.jpg);
+    background-position:calc(100% + 200px) top;
+
+    @include mq('tablet'){
+        background-position:calc(100% + 50px) top;
+    }
+}
+
+
+.doodle-red {
+    background-image:url(../img/doodles/fc-doodles-color-red.jpg);
+    background-size: 350px auto;
+    background-position:-175px top;
+
+    @include mq('tablet'){
+        background-position:-50px top;
+    }
+}
+
 /* Media */
 
 .mailing-list {

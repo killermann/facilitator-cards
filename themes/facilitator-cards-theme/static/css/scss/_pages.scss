@@ -55,7 +55,8 @@
 ***/
 
 #home-hero {
-    margin-bottom: 4em;
+    padding-bottom: 8em;
+    margin-bottom: 0;
 
     @include mq('tablet-wide') {
         margin-top: 140px;
@@ -88,18 +89,25 @@
     }
 }
 
-
 #tools {
     background: $grey-900;
     padding-top: 4em;
     padding-bottom: 4em;
+    margin-bottom: 0;
 
     .medium, .huge {
         text-shadow: 1px 1px 3px rgba(0,0,0,.7);
     }
 }
 
-#home-gallery {
+#resources {
+    padding-top: 6em;
+    background-position:-150px -120px;
+
+    @include mq('tablet'){
+        background-position:-50px -50px;
+    }
+
     .image-bg {
         margin:-2em auto;
     }
