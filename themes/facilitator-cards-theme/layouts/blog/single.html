@@ -7,7 +7,7 @@
     <aside id="blurb" class="sidebar">
         <nav class="breadcrumbs" aria-label="Breadcrumb">
             <a href="{{ .Site.BaseURL }}/blog/" title="Blog">blog</a>
-            {{- with .Params.category }} / <a class="primary-category" href="{{ `/categories/` }}{{ . | urlize }}/" title="">{{ . }}</a>{{ end }}
+            {{- with .Params.categories }} / <a class="primary-category" href="{{ `/categories/` }}{{ . | urlize }}/" title="">{{ . }}</a>{{ end }}
         </nav>
         {{ with .Params.description }}
         <p class="big-copy excerpt">{{ . }}</p>
