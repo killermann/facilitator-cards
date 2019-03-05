@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Facilitator Cards</title>
-    <link>https://facilitator.cards/categories/</link>
+    <link>https://www.facilitator.cards/categories/</link>
     <description>Recent content in Categories on Facilitator Cards</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://facilitator.cards/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.facilitator.cards/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resources</title>
-      <link>https://facilitator.cards/categories/resources/</link>
+      <link>https://www.facilitator.cards/categories/resources/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://facilitator.cards/categories/resources/</guid>
+      <guid>https://www.facilitator.cards/categories/resources/</guid>
       <description></description>
     </item>
     

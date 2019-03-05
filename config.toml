@@ -1,4 +1,4 @@
-baseURL = "https://facilitator.cards"
+baseURL = "https://www.facilitator.cards"
 languageCode = "en-us"
 title = "Facilitator Cards"
 theme = "facilitator-cards-theme"
