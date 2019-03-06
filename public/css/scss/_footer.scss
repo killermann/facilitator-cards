@@ -37,7 +37,9 @@
 }
 
 #by {
+    background:#E0E0E0;
     position:relative;
+    color: $grey-900 !important;
     @include mq('desktop'){
         &:after {
             display:block;
