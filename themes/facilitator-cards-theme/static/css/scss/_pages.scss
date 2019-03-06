@@ -100,10 +100,10 @@
 
     @include mq('tablet'){
         background-position:-50px -50px;
-    }
 
-    .hero-image {
-        margin:-2em auto;
-        max-width: 1000px;
+        .hero-image {
+            margin:-2em auto;
+            width: 1000px;
+        }
     }
 }

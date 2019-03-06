@@ -9,7 +9,12 @@
         flex-direction:row;
     }
 
-    .medium {
+    .huge {
+        font-size:100px;
+        padding: 20px;
+    }
+
+    .big {
         margin:0;
         text-align: center;
         text-shadow: .15em .15em .1em $red;
