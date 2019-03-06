@@ -35,3 +35,43 @@
         }
     }
 }
+
+#by {
+    position:relative;
+    @include mq('desktop'){
+        &:after {
+            display:block;
+            z-index:5;
+            position:absolute;
+            background-image:url('../img/doodles/fc-doodle-arrow-down-red.png');
+            background-repeat: no-repeat;
+            background-size: contain;
+            width:150px;
+            height:188px;
+            content:'';
+            bottom:-140px;
+            left:50vw;
+        }
+    }
+}
+
+#uncopyright {
+    color: #E0E0E0;
+    a {
+        color: white;
+    }
+    @include mq('desktop'){
+        display:flex;
+        justify-content: space-between;
+
+        p {
+            margin: 0;
+        }
+
+        #card-license {
+            margin-top: calc(280px + .2vw);
+            padding-left:2em;
+            text-align:right;
+        }
+    }
+}

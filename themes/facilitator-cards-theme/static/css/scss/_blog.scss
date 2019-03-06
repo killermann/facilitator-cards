@@ -32,6 +32,19 @@
 
 #single-blog {
 
+    background-image:url(../img/doodles/fc-doodles-cards.jpg);
+    background-position: calc(100% + 150px) top;
+    background-size: 300px auto;
+
+    @include mq('tablet'){
+        background-size: 400px auto;
+    }
+
+    @include mq('desktop'){
+        background-size: 450px auto;
+        background-position: calc(100% + 50px) top;
+    }
+
     p {
         max-width:700px;
     }
