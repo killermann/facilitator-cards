@@ -1,7 +1,6 @@
-#main {
-    @include mq('tablet-wide'){
-        margin-top: 120px;
-    }
+.page-header {
+    margin-top: 4vw;
+    font-family: $theme-font;
 }
 
 .single {
@@ -57,10 +56,6 @@
 #home-hero {
     padding-bottom: 8em;
     margin-bottom: 0;
-
-    @include mq('tablet-wide') {
-        margin-top: 140px;
-    }
 
     .hero-heading h2 {
         margin-top:0;

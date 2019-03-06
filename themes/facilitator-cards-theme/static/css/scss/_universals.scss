@@ -2,12 +2,17 @@ body {
     color: #001e1d;
     background: white;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+    @include mq('tablet-wide'){
+        padding-top: 120px;
+    }
 }
 
 .wrap {
     padding-left: 1em;
     padding-right: 1em;
-    margin:0 auto;
+    margin-left: auto;
+    margin-right: auto;
 
     @include mq('tablet-wide'){
         padding-left: 4em;
