@@ -81,8 +81,11 @@
 ***/
 
 #about-the-cards {
-    padding-top:4em;
-    padding-bottom:50px;
+    padding:10px;
+
+    @include mq('tablet-wide'){
+        padding: 50px;
+    }
 }
 
 #anatomy {
@@ -91,6 +94,11 @@
     justify-content: center;
     align-items: center;
     align-content: center;
+    font-size:.8em;
+
+    @include mq('desktop') {
+        font-size: 1em;
+    }
 
     .anatomy-wrapper {
         padding: 6em;
@@ -99,6 +107,10 @@
 
         .card {
             margin:0;
+
+            .card-description p {
+                font-family: sans-serif;
+            }
         }
 
         &:after {
