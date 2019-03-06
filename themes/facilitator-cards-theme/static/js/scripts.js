@@ -16,6 +16,9 @@ VanillaTilt.init(document.querySelectorAll(".aside .card"), {
     reset: false
 });
 
+VanillaTilt.init(document.querySelectorAll("#anatomy .anatomy-wrapper"), {
+});
+
 wow = new WOW({
   animateClass: 'animated-wow', // default
 })

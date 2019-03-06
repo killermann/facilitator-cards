@@ -11,5 +11,156 @@
             Click a card to read about it. <a href="#launch-list">Join our launch list</a> to get early bird pricing when we start making the things.
         </p>
     </header>
-    {{ partial "card-list.html" . }}
+    <section id="cards-preview" class="doodle-green">
+        {{ partial "card-list.html" . }}
+    </section>
+    <section id="about-the-cards" class="hero bigpad grey-100-bg">
+        <div class="hero-heading wow">
+            <h2 class="huge">The Anatomy of<br/> a Facilitator Card</h2>
+            <p class="big-copy type-wrap">
+                What makes them so easy to use? Color-coding, icons, and the ability to make each card your own, to start.
+            </p>
+        </div>
+        <div id="anatomy">
+            <div id="front-anatomy" class="aside anatomy-wrapper">
+                <div class="card front emotion">
+                    <header class="card-header">
+                		<ul class="icon-list">
+                			<li class="icon group-size">
+                				<i class="fci fci-full-group"></i>
+                			</li>
+                			<li class="icon category">
+                				<i class="fci fci-emotion"></i>
+                			</li>
+                			<li class="icon props">
+                                <i class="fci fci-marker"></i>
+                                <i class="fci fci-paper"></i>
+                                <i class="fci fci-tape"></i>
+                			</li>
+                		</ul>
+                        <span class="title">
+                            Spectrum Questions
+                        </span>
+                    </header>
+                	<footer class="card-description">
+                	</footer>
+                </div>
+            </div>
+            <div id="back-anatomy" class="aside anatomy-wrapper">
+                <div class="card back emotion">
+                    <header class="card-header">
+                		<ul class="icon-list">
+                			<li class="icon group-size">
+                				<i class="fci fci-full-group"></i>
+                			</li>
+                			<li class="icon category">
+                				<i class="fci fci-emotion"></i>
+                			</li>
+                			<li class="icon props">
+                                <i class="fci fci-marker"></i>
+                                <i class="fci fci-paper"></i>
+                                <i class="fci fci-tape"></i>
+                			</li>
+                		</ul>
+                        <span class="title">
+                            Spectrum Questions
+                        </span>
+                    </header>
+                	<footer class="card-description">
+                		<p>
+                            Facilitator asks a question or delivers a prompt and participants respond by placing themselves (physically) on a spectrum from strongly disagree to strongly agree (or other poles). Between each prompt, allow for popcorn shares from different positions.
+                        </p>
+                	</footer>
+                </div>
+            </div>
+        </div><!--/anatomy-->
+        <h2 class="big grey-900 text-center">Icons &amp; Colors</h2>
+
+        <div id="icons-and-colors" class="grey-900-bg text-invert rounded">
+            <ul class="flex-list medium theme-font wow">
+                <li class="center-everything blue-bg flex">
+                    <i class="fci icon medium fci-emotion grey-900"></i>
+                    <strong class="text black">Emotion</strong>
+                </li>
+                <li class="center-everything green-bg flex">
+                    <i class="fci icon medium fci-ideation grey-900"></i>
+                    <strong class="text black">Ideation</strong>
+                </li>
+                <li class="center-everything orange-bg flex">
+                    <i class="fci icon medium fci-clarification grey-900"></i>
+                    <strong class="text black">Clarification</strong>
+                </li>
+                <li class="center-everything red-bg flex">
+                    <i class="fci icon medium fci-execution grey-900"></i>
+                    <strong class="text black">Execution</strong>
+                </li>
+            </ul>
+            <ul class="flex-list medium theme-font wow">
+                <li class="center-everything flex">
+                    <i class="fci icon medium fci-individual grey-900"></i>
+                    <span class="text">Individual</span>
+                </li>
+                <li class="center-everything flex">
+                    <i class="fci icon medium fci-pairs grey-900"></i>
+                    <span class="text">Pairs</span>
+                </li>
+                <li class="center-everything flex">
+                    <i class="fci icon medium fci-small-groups grey-900"></i>
+                    <span class="text">Small Groups</span>
+                </li>
+                <li class="center-everything flex">
+                    <i class="fci icon medium fci-full-group grey-900"></i>
+                    <span class="text">Full Group</span>
+                </li>
+            </ul>
+            <ul class="flex-list medium theme-font wow">
+                <li class="center-everything flex">
+                    <i class="fci icon medium fci-marker grey-900"></i>
+                    <span class="text">Markers</span>
+                </li>
+                <li class="center-everything flex">
+                    <i class="fci icon medium fci-writing-utensils grey-900"></i>
+                    <span class="text">Writing Utensils</span>
+                </li>
+                <li class="center-everything flex">
+                    <i class="fci icon medium fci-flipchart grey-900"></i>
+                    <span class="text">Flipchart</span>
+                </li>
+                <li class="center-everything flex">
+                    <i class="fci icon medium fci-sticky-notes grey-900"></i>
+                    <span class="text">Sticky Notes</span>
+                </li>
+                <li class="center-everything flex">
+                    <i class="fci icon medium fci-index-cards grey-900"></i>
+                    <span class="text">Index Cards</span>
+                </li>
+                <li class="center-everything flex">
+                    <i class="fci icon medium fci-paper grey-900"></i>
+                    <span class="text">Paper</span>
+                </li>
+                <li class="center-everything flex">
+                    <i class="fci icon medium fci-colored-paper grey-900"></i>
+                    <span class="text">Colored Paper</span>
+                </li>
+                <li class="center-everything flex">
+                    <i class="fci icon medium fci-tape grey-900"></i>
+                    <span class="text">Tape</span>
+                </li>
+                <li class="center-everything flex">
+                    <i class="fci icon medium fci-play-doh grey-900"></i>
+                    <span class="text">Play-Doh</span>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+
+    <section id="more-soon" class="hero doodle-blue">
+        <div class="hero-heading wow">
+            <h2 class="huge red">More soon.</h2>
+            <p class="big-copy">
+                As we finalize the deck of cards and sort out details with our potential manufacturer, we'll update this page with things like the card &amp; packaging materials, manufacturing process, carbon footprint (and sustainability efforts), and other nitty-gritties.
+            </p>
+        </div>
+    </section>
 {{ end }}

@@ -93,6 +93,7 @@ html.sr .scrlld {
 .green-bg {background-color:$green;}
 .orange-bg {background-color:$orange;}
 .grey-900-bg {background-color:$grey-900}
+.grey-100-bg {background-color:$grey-100}
 
 
 .red { color: $red; }
@@ -100,6 +101,10 @@ html.sr .scrlld {
 .green { color: $green; }
 .blue { color: $blue; }
 .grey-500 { color: $grey-500; }
+.black { color: black; }
+.grey-900 {color:$grey-900}
+.grey-100 {color:$grey-100}
+
 
 .orange-to-red {
 	background:linear-gradient(to bottom right, $orange, $red);
@@ -147,8 +152,13 @@ html.sr .scrlld {
 }
 
 .doodle-green {
+    padding-bottom: 4em;
     background-image:url(../img/doodles/fc-doodles-color-green.jpg);
-    background-position:bottom right;
+    background-position:calc(100% + 200px) bottom;
+
+    @include mq('tablet'){
+        background-position:calc(100% + 50px) bottom;
+    }
 }
 
 .doodle-yellow {

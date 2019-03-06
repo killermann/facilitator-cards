@@ -60,14 +60,12 @@
 	.card-description {
 		p {
 			margin:0;
-			font-size:.6em;
-			line-height:1.2;
+			font-size:.7em;
+			line-height:1.15;
 			text-align: justify;
 			color:black;
 		}
 	}
-
-
 
 	&.emotion {
 		.card-header { background:$blue;}
