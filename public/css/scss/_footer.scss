@@ -22,10 +22,10 @@
 
     .orange-to-red {
         flex-direction: column;
+        flex-grow: 1;
 
         @include mq('tablet-wide'){
             flex-direction: row;
-            flex-grow: 1;
         }
     }
 

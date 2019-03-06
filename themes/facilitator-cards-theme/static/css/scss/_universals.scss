@@ -93,6 +93,13 @@ body {
         }
     }
 
+    .hero-image {
+        max-width: 100%;
+        display:block;
+        height: auto;
+        margin: 0 auto;
+    }
+
     .image-bg {
         position:relative;
         z-index:1;
