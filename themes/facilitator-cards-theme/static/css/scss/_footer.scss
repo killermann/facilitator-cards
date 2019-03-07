@@ -1,5 +1,13 @@
 #footer {
     margin-top: 7.5vw;
+
+    h3.big {
+        margin: 0 auto .2em;
+
+        & + p {
+            margin-top: 0;
+        }
+    }
 }
 
 #footer-cta {
@@ -76,7 +84,7 @@
         }
 
         #card-license {
-            margin-top: calc(280px + .2vw);
+            margin-top: calc(330px + .2vw);
             padding-left:2em;
             text-align:right;
         }

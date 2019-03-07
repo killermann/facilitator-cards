@@ -1,5 +1,9 @@
 /* Layout Classes */
 
+
+.smallpad {
+    padding: 5px;
+}
 .pad { padding:2.5vw; }
 
 .bigpad { padding:5vw; }
@@ -96,6 +100,7 @@ html.sr .scrlld {
 .orange-bg {background-color:$orange;}
 .grey-900-bg {background-color:$grey-900}
 .grey-100-bg {background-color:$grey-100}
+.black-bg { background-color: black; }
 
 
 .red { color: $red; }
