@@ -31,6 +31,29 @@
     }
 }
 
+#main-nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    @extend .rainbow-bg;
+    margin: 0;
+    padding: 4px;
+
+    ul {
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    @include mq('tablet'){
+        position: relative;
+        background: none;
+        width: auto;
+        padding: 0;
+    }
+}
+
 #logo {
     border: 0;
     font: 0/0 a;
@@ -44,7 +67,6 @@
     width: 300px;
     height: 40px;
     max-width:100%;
-    margin:0 1.5rem;
 
     @include mq('tablet-wide') {
         background-image: url('/img/fac-cards-logo-800.png');
@@ -55,7 +77,6 @@
 
 .nav {
     display: flex;
-    margin:0 1.5rem;
 
     ul, li {
         margin: 0;
