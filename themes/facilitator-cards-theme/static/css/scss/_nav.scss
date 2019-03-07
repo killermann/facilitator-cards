@@ -10,9 +10,13 @@
     font-family: $theme-font;
     z-index: 500;
 
+    strong {
+        margin: 0 1em;
+    }
+
     @include mq('tablet-wide') {
-        justify-content: space-between;
         position:fixed;
+        justify-content: space-between;
         width:100%;
         top:0;
         z-index:999;
