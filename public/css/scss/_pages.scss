@@ -21,8 +21,8 @@
         margin-top:0;
     }
 
-    .image-bg {
-        align-self: flex-start;
+    .hero-image {
+        width: 1000px;
     }
 
     .cta {
@@ -61,6 +61,7 @@
 #resources {
     padding-top: 6em;
     background-position:-150px -120px;
+    margin-bottom: 0;
 
     @include mq('tablet'){
         background-position:-50px -50px;
