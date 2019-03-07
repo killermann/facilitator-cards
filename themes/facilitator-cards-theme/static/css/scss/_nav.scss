@@ -2,11 +2,13 @@
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
+    position: relative;
     align-items: center;
     padding: .8rem 1.5rem;
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     font-family: $theme-font;
+    z-index: 500;
 
     @include mq('tablet-wide') {
         justify-content: space-between;
