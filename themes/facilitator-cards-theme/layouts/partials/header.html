@@ -8,6 +8,11 @@
             {{ range .Site.Menus.main }}
                 <li class="menu-item"><a href="{{ .URL }}">{{ .Name }}</a></li>
             {{ end }}
+            <li class="menu-cta">
+                <a class="button" href="{{ .Site.Params.email_list }}" title="Get Early Bird Pricing">
+                    Early Bird
+                </a>
+            </li>
         </ul>
     </nav>
 </header>

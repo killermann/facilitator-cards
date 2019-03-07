@@ -122,6 +122,11 @@ html.sr .scrlld {
     }
 }
 
+.rainbow-bg {
+    background: $blue;
+    background: linear-gradient(to right, $blue, $green, $orange, $red);
+}
+
 .rainbow-text {
     background: linear-gradient(to right, $blue, $green, $orange, $red);
     -webkit-background-clip: text;

@@ -65,6 +65,15 @@
     a {
         display: block;
         padding:.6em;
+        text-decoration: none;
+    }
+
+    .button {
+        margin: 0;
+        margin-left: .6em;
+        height: 40px;
+        line-height: 40px;
+        padding: 0 .8em;
     }
 }
 

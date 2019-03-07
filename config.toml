@@ -29,6 +29,8 @@ canonifyURLs = true
     name = "Blog"
     url = "/blog/"
     weight = 3
+
+
 # [[menu.main]]
 #     name = "Get Your deck"
 #     url = "/get/"

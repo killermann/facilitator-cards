@@ -4,7 +4,7 @@
         <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
         {{- partial "head.html" . -}}
     </head>
-    <body {{ with .Params.category}}class="cat-{{ . }}"{{end}}>
+    <body class="{{ with .Kind  }}kind-{{ . }} {{ end }}{{ with .Type }}type-{{ . }} {{ end }}{{ with .Params.category }}cat-{{ . }} {{ end }}">
         {{- partial "header.html" . -}}
         <main id="main">
             {{- block "main" . }}{{- end }}
