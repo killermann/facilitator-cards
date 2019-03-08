@@ -20,9 +20,15 @@ canonifyURLs = true
     url = "/cards/"
     class = "button"
     weight = 1
+    
 [[menu.main]]
     name = "Story"
     url = "/story/"
+    weight = 2
+
+[[menu.main]]
+    name = "How-To"
+    url = "/how-to-use/"
     weight = 2
 
 [[menu.main]]

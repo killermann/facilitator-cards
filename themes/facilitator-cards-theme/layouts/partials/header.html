@@ -6,11 +6,11 @@
     <nav id="main-nav" class="nav center-everything" role="navigation">
         <ul class="menu center-everything">
             {{ range .Site.Menus.main }}
-                <li class="menu-item"><a href="{{ .URL }}">{{ .Name }}</a></li>
+                <li class="menu-item"><a href="{{ .URL }}">{{ .Pre }}{{ .Name }}</a></li>
             {{ end }}
             <li class="menu-cta">
                 <a class="button" href="{{ .Site.Params.email_list }}" title="Get Early Bird Pricing">
-                    Early Bird
+                     Early Bird <i class="fci fci-add"></i>
                 </a>
             </li>
         </ul>

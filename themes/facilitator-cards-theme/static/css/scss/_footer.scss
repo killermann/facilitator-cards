@@ -12,6 +12,7 @@
 
 #footer-cta {
     flex-direction: column;
+    width: 100%;
 
     @include mq('tablet'){
         flex-direction:row;
@@ -36,10 +37,15 @@
     .orange-to-red {
         flex-direction: column;
         flex-grow: 1;
+        margin-bottom: -1px;
 
         @include mq('tablet-wide'){
             flex-direction: row;
         }
+    }
+
+    .green-to-blue {
+        margin-bottom: -1px;
     }
 
     .mailing-list {

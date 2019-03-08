@@ -45,15 +45,40 @@
     z-index: 999;
     @extend .rainbow-bg;
     margin: 0;
-    padding: 3px;
+    padding: 2px;
     border-top: .1em solid hsla(177%, 15%, 60%, .3);
 
     ul {
         justify-content: space-between;
         width: 100%;
+        text-align:center;
+        align-items: stretch;
+
+        li {
+            align-items: stretch;
+            display: flex;
+        }
+
+        .menu-cta {
+            margin: 2px;
+            display: flex;
+
+            a {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                padding: .3em .3em .3em .6em;
+
+                .fci {
+                    margin-left: .2em;
+                    font-size: 1.3em;
+                }
+            }
+        }
 
         a {
-            padding: .5em .8em;
+            padding:.5em;
+            font-weight: 600;
         }
     }
 
@@ -63,6 +88,11 @@
         width: auto;
         padding: 0;
         border: none;
+
+        ul a {
+            font-weight: 400;
+            padding: .5em .8em;
+        }
 
         .button {
             margin-left: .8em;
