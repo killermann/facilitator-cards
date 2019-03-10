@@ -7,6 +7,12 @@
     padding-top: 2em;
 }
 
+.entry-content {
+    p, h2, h3, h4 {
+        @extend .type-wrap;
+    }
+}
+
 /***
 
     HOME PAGE

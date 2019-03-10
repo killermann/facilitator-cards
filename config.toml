@@ -11,7 +11,7 @@ canonifyURLs = true
 [params]
     description = "A deck for planning, responding, and improvising -- for every facilitator, not your participants."
     keywords = "facilitator, facilitation, facilitator tools, facilitator cards, training, trainer, training tools, training planning, resources, faciliatator resources"
-    images = [""] # your site-wide thumbnail image used in Twitter card and opengraph
+    images = ["/img/social-share-facilitator-cards.png"] # your site-wide thumbnail image used in Twitter card and opengraph
     email_list = "http://eepurl.com/gg4Owr"
 
 # main menu
@@ -20,7 +20,7 @@ canonifyURLs = true
     url = "/cards/"
     class = "button"
     weight = 1
-    
+
 [[menu.main]]
     name = "Story"
     url = "/story/"
@@ -28,7 +28,7 @@ canonifyURLs = true
 
 [[menu.main]]
     name = "How-To"
-    url = "/how-to-use/"
+    url = "/how/"
     weight = 2
 
 [[menu.main]]
