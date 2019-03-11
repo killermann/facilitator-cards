@@ -29,12 +29,12 @@ a, a:visited {
 /* Buttons */
 
 .button {
-    padding:1em 1.6em;
-    background:linear-gradient(to bottom right, $red, $orange);
+    padding:.8em 1.4em;
+    background:linear-gradient(to bottom right, $orange, $red);
     color: #000;
     border-radius: .5em;
     display: inline-block;
-    box-shadow: 0px .2em .2em 0 hsla(177%, 20%, 26%, .3);
+    box-shadow: .1em .2em .2em 0 hsla(177%, 20%, 26%, .3);
     font-weight:900;
     font-family: $theme-font;
     line-height:1.2;
@@ -46,9 +46,11 @@ a, a:visited {
 
     &:hover, &:focus {
         transform:translateY(-.2em);
-        background:linear-gradient(to top left, $red, $orange);
-        box-shadow: 0px .4em .6em 0 hsla(177%, 20%, 26%, .2), inset 0 0 .7em .1em $red;
+        background:linear-gradient(to bottom right, $red, $orange);
+        box-shadow:.1em .4em .6em 0 hsla(177%, 20%, 26%, .2), inset 0 0 1em 0 lighten($orange, 5%);
         cursor: pointer;
+        color: white;
+        text-shadow:0px 2px 1px hsla(0,0,0,.2);
     }
 
     &:active {
@@ -58,5 +60,21 @@ a, a:visited {
 
     & + .button {
         margin-left:1em;
+    }
+
+    &.secondary {
+        padding: .2em;
+
+        span {
+            display: block;
+            padding:.6em 1.2em;
+            background: white;
+            border-radius: .4em;
+            transition: all .2s ease-out;
+        }
+
+        &:hover, &:focus {
+            span {background: hsla(0,0,100%,0)}
+        }
     }
 }

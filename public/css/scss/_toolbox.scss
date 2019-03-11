@@ -16,6 +16,11 @@
     align-items: center;
 }
 
+.no-margin {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 .flex-wrap {
     flex-wrap: wrap;
 }
@@ -109,6 +114,7 @@ html.sr .scrlld {
 .blue { color: $blue; }
 .grey-500 { color: $grey-500; }
 .black { color: black; }
+.white { color: white; }
 .grey-900 {color:$grey-900}
 .grey-100 {color:$grey-100}
 
@@ -127,6 +133,13 @@ html.sr .scrlld {
     a {
         color: white;
     }
+}
+
+.text-shadow {
+    text-shadow: .05em .05em .05em hsla(0,0,0,.2);
+}
+.red-text-shadow {
+    text-shadow: .15em .15em .1em $red;
 }
 
 .rainbow-bg {

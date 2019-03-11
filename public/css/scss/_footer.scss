@@ -24,8 +24,8 @@
     }
 
     .big {
+        margin:0;
         text-align: center;
-        text-shadow: .15em .15em .1em $red;
 
         @include mq('tablet-wide'){
             text-align: left;

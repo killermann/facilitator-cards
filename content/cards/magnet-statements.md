@@ -1,6 +1,6 @@
 ---
 title: "Magnet Statements"
-description: "Have the entire group stand up/be ready to move. The participants should all know the topic or idea that is going to be discussed. One participant should make a statement and people should go close to or far from that person based on how much they align or don't align with that statement. Another person (close or far) can then make another related statement and the activity continues."
+description: "Set up the space for easy movement. Prime the group with a topic or concept, and ask for one participant to make a related statement they believe. Other participants respond by moving closer or farther based on their agreement or disagreement. Ask for another statement, then repeat."
 category: "emotion"
 group: "full-group"
 props: ["none"]

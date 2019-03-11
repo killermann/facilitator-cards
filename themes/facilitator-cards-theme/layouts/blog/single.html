@@ -51,4 +51,41 @@
     </main>
 
 </section>
+
+<footer class="blog-footer wrap grid  doodle-green">
+
+    <aside class="sidebar card wow">
+        <header class="card-header grey-900-bg">
+            <ul class="icon-list">
+                <li class="icon group-size">
+    				<i class="fci fci-individual"></i>
+    			</li>
+                <li class="icon category">
+    				<i class="fci fci-emotion"></i>
+    			</li>
+                <li class="icon props">
+    				<i class="fci fci-writing-utensils"></i>
+    			</li>
+    		</ul>
+            <h3 class="title">
+                by {{ .Params.author }}
+            </h3>
+        </header>
+        <footer class="card-description">
+            <p class="theme-font">
+                <span class="medium">
+                    Subscribe to <strong class="grey-900">The Facilitator Cards Blog</strong> for more posts by this author and other facilitators, trainers, and educators.
+                </span>
+            </p>
+        </footer>
+    </aside>
+    <div class="content wow hugepad green-to-blue rounded flex flex-col text-center center-everything">
+        <h3 class="text-invert no-margin text-shadow">Subscribe to the Blog</h3>
+        <p class="big-copy theme-font">We're not on social media. Call us old fashioned, but we prefer sending and receiving electronic mail.</p>
+        <div class="cta">
+            <a class="button" title="Subscribe to the Facilitator Cards Blog via Email" target="_blank" href="https://feedburner.google.com/fb/a/mailverify?uri=facilitatorcardsblog&amp;loc=en_US">Email Updates</a> <a class="button secondary" title="Subscribe to the Facilitator Cards Blog" target="_blank" href="https://www.facilitator.cards/blog/index.xml"><span>RSS Feed</span></a>
+        </div>
+    </div>
+</footer>
+
 {{ end }}

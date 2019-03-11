@@ -16,6 +16,7 @@
 
     @include mq('tablet-wide') {
         position:fixed;
+        flex-wrap: nowrap;
         justify-content: space-between;
         width:100%;
         top:0;
@@ -29,6 +30,7 @@
 
         &.scrolled {
             padding: .5rem 1.5rem;
+
             #logo {
                 height:40px;
                 width:300px;
@@ -91,11 +93,11 @@
 
         ul a {
             font-weight: 400;
-            padding: .5em .8em;
+            padding: .5em;
         }
 
         .button {
-            margin-left: .8em;
+            margin-left: .5em;
         }
     }
 }
@@ -114,7 +116,7 @@
     height: 40px;
     max-width:100%;
 
-    @include mq('tablet-wide') {
+    @include mq('desktop') {
         background-image: url('/img/fac-cards-logo-800.png');
         width:600px;
         height:80px;

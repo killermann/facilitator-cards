@@ -88,6 +88,7 @@
 
 #about-the-cards {
     padding:10px;
+    margin-bottom: 0;
 
     @include mq('tablet-wide'){
         padding: 50px;
@@ -144,8 +145,33 @@
 
 #icons-and-colors {
     padding: 1em;
+
+    h3 {
+        font-weight: 400;
+    }
+
+    .subdivision + .subdivision {
+        margin-top: 1em;
+    }
+
+    @include mq('tablet'){
+
+        .subdivision {
+            display: flex;
+
+            h3 {
+                min-width: 22%;
+            }
+
+            .flex-list {
+                justify-content: flex-start;
+            }
+        }
+    }
+
     .flex-list {
         margin: 0;
+        justify-content: center;
 
         li {
             margin: .4em;
@@ -153,14 +179,13 @@
             border-radius: .5em;
 
             .fci {
-                margin-right: .3em;
+                margin-right: .2em;
             }
         }
     }
 }
 
 #more-soon {
-    padding: 1em 4em 5em;
     margin-bottom: 0;
 }
 

@@ -1,13 +1,5 @@
 .kind-section.type-blog {
 
-    #masthead {
-        padding: .5rem 1.5rem;
-
-        #logo {
-            height: 40px;
-            width: 300px;
-        }
-    }
 }
 
 .featured-image {
@@ -17,6 +9,7 @@
 }
 
 .loop {
+
     .post {
         border-radius: 1.5em;
         padding: 1em;
@@ -127,6 +120,7 @@
             @extend .big-copy;
         }
     }
+
 }
 
 .meta {
@@ -157,5 +151,28 @@
         dd + dt {
             margin-top:1em;
         }
+    }
+}
+
+.blog-footer {
+    margin-top: 4em;
+
+    .card {
+        margin: 0 auto;
+        
+        .card-description {
+            justify-content: space-between;
+            align-items: stretch;
+            flex-direction: column;
+            display:flex;
+        }
+    }
+
+    .sidebar, .content {
+        margin-bottom: 2em;
+    }
+
+    .content {
+        grid-column: content / span 2;
     }
 }
