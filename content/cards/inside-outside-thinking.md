@@ -4,4 +4,5 @@ description: "View your situation or decision from two angles, the \"insider\" a
 category: "execution"
 group: "full-group"
 props: ["flipchart", "marker"]
+draft: true
 ---

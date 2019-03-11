@@ -4,6 +4,7 @@ title = "Facilitator Cards"
 theme = "facilitator-cards-theme"
 enableRobotsTXT = true
 canonifyURLs = true
+paginate = 99
 
 [author]
     name = "Sam Killermann & Meg Bolger"
