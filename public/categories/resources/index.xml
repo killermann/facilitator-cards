@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Facilitator Cards</title>
+    <link>https://www.facilitator.cards/categories/resources/</link>
+    <description>Recent content in Resources on Facilitator Cards</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.facilitator.cards/categories/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to the Facilitator Cards Blog</title>
+      <link>https://www.facilitator.cards/blog/intro-to-the-blog/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.facilitator.cards/blog/intro-to-the-blog/</guid>
+      <description>We&amp;rsquo;re going to be using this blog as a platform to talk about a few things: the creation of the Facilitator Cards, how we (and others, and you) are using them, and other facilitation &amp;amp; training resources we feel compelled to share.
+Beyond being a home to the cards themselves, our goal for this site is to serve as a gallery of related resources. Everything that falls into that bucket will be introduced on the blog.</description>
+    </item>
+    
+  </channel>
+</rss>

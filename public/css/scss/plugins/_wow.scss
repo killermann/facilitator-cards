@@ -1,0 +1,15 @@
+@keyframes slideInUp {
+  from {
+    transform: translate3d(0, 25%, 0);
+  }
+
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.animated-wow {
+  -webkit-animation-name: slideInUp;
+  animation: slideInUp .7s ease-out;
+  animation-fill-mode: forwards;
+}
