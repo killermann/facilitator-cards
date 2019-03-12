@@ -66,26 +66,56 @@
 
     #featured-image {
         grid-row: 2;
+        position: relative;
 
-        img {
-            margin: 4vh 0;
+        figure {
+            margin: 0;
+            padding: 0;
+            display: block;
+            position: relative;
+        }
 
-            @include mq('tablet-wide'){
+        .featured-image {
+            width: 100%;
+        }
+
+        .caption {
+            font-size: .8rem;
+            line-height: 2;
+            margin-left: 1.5em;
+        }
+
+        @include mq('tablet-wide'){
+            position:relative;
+
+            figure {
+                margin-top: 1.5em;
+                height: 33.3333vw;
+            }
+
+            .featured-image {
                 position:absolute;
                 max-width:33.333vw;
+                width: 33.333vw;
                 z-index:0;
+            }
 
-                // &:hover {
-                //     z-index:6;
-                // }
+            &.with-caption {
+
+                .caption {
+                    position: absolute;
+                    bottom: -2em;
+                }
             }
         }
+
     }
 
     .single-title {
         grid-row: 2;
 
         @include mq('tablet-wide'){
+            align-self: flex-start;
             z-index: 5;
             position: relative;
             background:hsla(0,0,100%,.75);
@@ -159,7 +189,7 @@
 
     .card {
         margin: 0 auto;
-        
+
         .card-description {
             justify-content: space-between;
             align-items: stretch;

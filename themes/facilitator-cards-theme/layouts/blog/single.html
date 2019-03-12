@@ -20,8 +20,8 @@
         </h1>
     </header>
 
-    <div id="featured-image" class="sidebar">
-        {{ with .Params.featured_image }}<img class="featured-image" src="{{ . }}">{{ end }}
+    <div id="featured-image" class="sidebar {{ with .Params.photo_cred }}with-caption{{ end }}">
+        {{ with .Params.featured_image }}<figure><img class="featured-image" src="{{ . }}">{{ end }}{{- with .Params.photo_cred }}<figcaption class="caption">Photo by {{ . }}</figcaption></figure>{{ end -}}
     </div>
 
     <aside class="meta blog-aside flex flex-col">

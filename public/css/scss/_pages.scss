@@ -7,9 +7,13 @@
     padding-top: 2em;
 }
 
-.entry-content {
+.content {
     p, h2, h3, h4 {
         @extend .type-wrap;
+    }
+
+    h2, h3, h4 {
+        margin-bottom: 1.5rem;
     }
 }
 

@@ -4,8 +4,10 @@ description: "Let's start with a little housekeeping: framing the blog, instruct
 categories: "resources"
 author: "Sam Killermann"
 date: "2019-03-04"
+lastmod: "2019-03-12"
 keywords: ["facilitation", "training", "facilitator resources", "facilitator tools", "facilitator cards", "training resources"]
 featured_image: "img/blog/creativity-doesnt-need-limits-creative-exchange.jpg"
+photo_cred: "Creativity Exchange"
 ---
 
 We're going to be using this blog as a platform to talk about a few things: the creation of the Facilitator Cards, how we (and others, and you) are using them, and other facilitation &amp; training resources we feel compelled to share.

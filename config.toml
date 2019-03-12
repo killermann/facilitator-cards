@@ -5,12 +5,13 @@ theme = "facilitator-cards-theme"
 enableRobotsTXT = true
 canonifyURLs = true
 paginate = 99
+enableGitInfo = true
 
 [author]
     name = "Sam Killermann & Meg Bolger"
 
 [params]
-    description = "A deck for planning, responding, and improvising -- for every facilitator, not your participants."
+    description = "A tool for facilitation planning, responding to your group, and improvising when the unexpected comes up -- the deck of cards for every facilitator, not your participants."
     keywords = "facilitator, facilitation, facilitator tools, facilitator cards, training, trainer, training tools, training planning, resources, faciliatator resources"
     images = ["/img/social-share-facilitator-cards.png"] # your site-wide thumbnail image used in Twitter card and opengraph
     email_list = "http://eepurl.com/gg4Owr"

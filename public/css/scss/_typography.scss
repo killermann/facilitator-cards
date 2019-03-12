@@ -76,33 +76,34 @@ h4 {
     margin-right: auto;
 }
 
-ul, ol {
+.content ul, .content ol {
     margin:1.5em auto;
     padding:0 0 0 1.5em;
+    list-style: none;
+
+    li:before {
+        color: $blue;
+        display:inline-block;
+        margin-left:-1.5em;
+        width:1.5em;
+        font-family:$theme-font;
+        font-weight:bold;
+        content: "\25CE";
+    }
 
     li + li {
         margin-top:1.2em;
     }
 }
 
-ol {
-    list-style: none;
-    counter-reset: boss-counter;
+.content ol {
+    counter-reset: custom-counter;
 
     li {
-        counter-increment: boss-counter;
-
-        strong, &:before {
-            font-family:$theme-font;
-            font-weight:bold;
-        }
+        counter-increment: custom-counter;
 
         &:before {
-            color:$blue;
-            display:inline-block;
-            margin-left:-1.5em;
-            width:1.5em;
-            content: counter(boss-counter) ". ";
+            content: counter(custom-counter) ". ";
         }
 
         br {
