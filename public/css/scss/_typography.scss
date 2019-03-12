@@ -76,7 +76,7 @@ h4 {
     margin-right: auto;
 }
 
-.content ul, .content ol {
+.entry-content ul, .entry-content ol {
     margin:1.5em auto;
     padding:0 0 0 1.5em;
     list-style: none;
@@ -96,7 +96,7 @@ h4 {
     }
 }
 
-.content ol {
+.entry-content ol {
     counter-reset: custom-counter;
 
     li {

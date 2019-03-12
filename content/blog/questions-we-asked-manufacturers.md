@@ -15,7 +15,7 @@ As it turns out, this is a tall order.
 
 Most of the things Meg & I make together are digital (curricula, online resources for facilitators & educators, facilitation guides, etc.), so we don't spend a lot of time thinking about these things. The only humans involved in the creation are us, and the only carbon footprint we're directly responsible for is the electricity powering the website's servers + the computer/device downloading the thing.
 
-(Which, to be honest, is [actually more pernicious than we generally realize](http://www.webneutralproject.com/the-problem.html), and something I'm thinking about a lot lately, considering I'm a contributor to about 50 websites.)
+(Which, to be honest, is [actually more pernicious than we generally realize](https://www.tech-pundit.com/wp-content/uploads/2013/07/Cloud_Begins_With_Coal.pdf?c761ac), and something I'm thinking about a lot lately, considering I'm a contributor to about 50 websites.)
 
 But manufacturing a physical set of cards with picky specifications (like being dry erase compatible, and packaged in a custom box) is a wholly different story.
 

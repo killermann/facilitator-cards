@@ -1,10 +1,19 @@
 
 /* Links */
 
-a, a:visited {
-    text-decoration-color: $blue;
+a {
     color: #001e1d;
-    transition: all .2s ease-in-out;
+    text-decoration:none;
+}
+
+a:visited {
+    color: #001e1d;
+}
+
+.entry-content a, .entry-content a:visited {
+    text-decoration: underline;
+    text-decoration-color: $blue;
+    transition: all .4s ease-in-out;
 
     &:hover, &:focus {
         text-decoration-color: $red;
