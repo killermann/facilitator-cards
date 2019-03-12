@@ -6,3 +6,10 @@
 
 [context.deploy-preview.environment]
 	HUGO_VERSION = "0.52"
+
+[[redirects]]
+	from = "http://facilitator-cards.netlify.com/*"
+	to = "http://www.facilitator.cards/:splat"
+
+	from = "https://facilitator-cards.netlify.com/*"
+	to = "https://www.facilitator.cards/:splat"
