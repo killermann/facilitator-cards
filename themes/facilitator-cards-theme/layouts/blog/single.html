@@ -26,15 +26,15 @@
 
     <aside class="meta blog-aside flex flex-col">
         <dl>
-            {{- if or .Params.author .Site.Params.author -}}
+            {{- if .Params.author -}}
             <dt>Written by:</dt>
             <dd>
-                {{ .Params.author | default .Site.Params.author }}
+                {{ .Params.author }}
             </dd>
             {{ end }}
             <dt>Posted on:</dt>
             <dd>
-                {{- .Date.Format "Jan 1, 2006" -}}
+                {{- .Date.Format "Jan 2, 2006" -}}
             </dd>
             <dt>Reading time:</dt>
             {{ if gt .ReadingTime 1 }}
@@ -54,6 +54,7 @@
 
 <footer class="blog-footer wrap grid  doodle-green">
 
+    {{- if .Params.author -}}
     <aside class="sidebar card wow">
         <header class="card-header grey-900-bg">
             <ul class="icon-list">
@@ -79,6 +80,7 @@
             </p>
         </footer>
     </aside>
+    {{ end }}
     <div class="content wow hugepad green-to-blue rounded flex flex-col text-center center-everything">
         <h3 class="text-invert no-margin text-shadow">Subscribe to the Blog</h3>
         <p class="big-copy theme-font">We're not on social media. Call us old fashioned, but we prefer sending and receiving electronic mail.</p>

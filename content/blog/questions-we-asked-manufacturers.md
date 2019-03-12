@@ -4,7 +4,6 @@ description: "We're trying to make and ship a physical product that's high quali
 categories: "About the Cards"
 author: "Sam Killermann"
 date: "2019-03-12"
-lastMod: "2019-03-12"
 keywords: ["facilitation", "training", "facilitator resources", "facilitator tools", "facilitator cards", "training resources"]
 featured_image: "img/blog/stack-of-paper.jpg"
 photo_cred: "Lukas Blazek"
