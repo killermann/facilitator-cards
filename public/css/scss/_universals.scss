@@ -58,7 +58,7 @@ body {
         max-width:1200px;
     }
 
-    .hero-heading, p, .hero-blurb, .image-bg {
+    .hero-heading, p {
         max-width:90vw;
         margin-left:auto;
         margin-right:auto;
@@ -81,37 +81,11 @@ body {
         font-family:$theme-font;
     }
 
-    .hero-blurb {
-        position:relative;
-        z-index:2;
-        margin:-20% auto 1em;
-
-        p {
-            background:hsla(0, 0, 100%, .8);
-            padding:1.5em;
-            border-radius:1.5em;
-        }
-    }
-
     .hero-image {
         max-width: 100%;
         display:block;
         height: auto;
         margin: 0 auto;
-    }
-
-    .image-bg {
-        position:relative;
-        z-index:1;
-        width: 100%;
-
-        svg, img {
-            display:block;
-            width:100%;
-            height:auto;
-            margin:0 auto;
-        }
-
     }
 
     .cta {
