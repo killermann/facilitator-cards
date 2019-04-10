@@ -1,7 +1,7 @@
 ---
 title: "Intro to the Facilitator Cards Blog"
 description: "Let's start with a little housekeeping: framing the blog, instructions for where to find things, and our intended outcomes."
-categories: "resources"
+categories: "Resources"
 author: "Sam Killermann"
 date: "2019-03-04"
 keywords: ["facilitation", "training", "facilitator resources", "facilitator tools", "facilitator cards", "training resources"]
