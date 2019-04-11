@@ -1,7 +1,7 @@
 ---
 title: "Changing the Game"
 description: "How I gradually made my facilitations more about my participants than my plan."
-categories: "About the Cards"
+categories: "Using the Cards"
 author: "Meg Bolger"
 date: "2019-04-09"
 keywords: ["facilitation", "training", "facilitator resources", "facilitator tools", "facilitator cards", "training resources"]
