@@ -115,6 +115,7 @@
     width: 300px;
     height: 40px;
     max-width:100%;
+    transition: .25s;
 
     @include mq('desktop') {
         background-image: url('/img/fac-cards-logo-800.png');
