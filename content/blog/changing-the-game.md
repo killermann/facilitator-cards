@@ -68,7 +68,7 @@ Rather than having to rely on my creativity or ingenuity, I suddenly had dozens 
 
 I could just let them ask their questions. State their needs. Then, using Facilitator Cards, I could put together a series of processes to respond to them over a 15 minute break (or, when I was lucky, a luxurious lunch hour).
 
-They didn’t and won’t solve all my problems.  If the group shares that what they really want is to  know how to photograph a black hole, I’d still end up putting that one straight into the parking lot (unless Katie Bouman happens to be in your group). But Facilitator Cards provide structures that I can apply to anything the group brings up **as long as they can be the ones who bring the knowledge to the table.**
+They didn’t and won’t solve all my problems.  If the group shares that what they really want is to  know how to photograph a black hole, I’d still end up putting that one straight into the parking lot (unless [Katie Bouman](https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like) happens to be in your group). But Facilitator Cards provide structures that I can apply to anything the group brings up **as long as they can be the ones who bring the knowledge to the table.**
 
 I didn’t even have to invent ways to ask the group to share their concerns, I could just look to the cards again for the way to surface what’s going on under the surface.
 Facilitator cards changed the game for me.
