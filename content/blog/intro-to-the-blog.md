@@ -6,6 +6,8 @@ author: "Sam Killermann"
 date: "2019-03-04"
 keywords: ["facilitation", "training", "facilitator resources", "facilitator tools", "facilitator cards", "training resources"]
 featured_image: "img/blog/creativity-doesnt-need-limits-creative-exchange.jpg"
+images:
+- img/blog/creativity-doesnt-need-limits-creative-exchange.jpg
 photo_cred: "Creativity Exchange"
 ---
 

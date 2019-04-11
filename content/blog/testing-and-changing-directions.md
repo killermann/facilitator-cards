@@ -6,6 +6,8 @@ author: "Sam Killermann"
 date: "2019-04-10"
 keywords: ["facilitation", "training", "facilitator resources", "facilitator tools", "facilitator cards", "training resources"]
 featured_image: "img/blog/markers-in-a-jar.jpg"
+images:
+- img/blog/markers-in-a-jar.jpg
 photo_cred: "Greg Rosenke"
 ---
 

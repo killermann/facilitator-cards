@@ -6,6 +6,8 @@ author: "Meg Bolger"
 date: "2019-04-09"
 keywords: ["facilitation", "training", "facilitator resources", "facilitator tools", "facilitator cards", "training resources"]
 featured_image: "img/blog/pablo-garcia-saldana-94058-unsplash.jpg"
+images:
+- img/blog/pablo-garcia-saldana-94058-unsplash.jpg
 photo_cred: "Pablo García Saldaña"
 ---
 As a facilitator I pride myself on being able to tap into and respond to the needs, interests, and wants of the group. To figure out where they are and where they want to go so that I can create moments that move the group forward in a way they wouldn’t have been able to otherwise.
