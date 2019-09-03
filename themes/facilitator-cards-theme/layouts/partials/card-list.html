@@ -3,7 +3,7 @@
     {{ range (where .Data.Pages "Section" "cards") }}
 
     <article class="flip-container">
-        <a class="flipper" href="{{ .Permalink }}">
+        <a class="flipper" href="{{ .Permalink }}" title="{{ .Title }}">
             {{ partial "card.html" . }}
         </a>
     </article>

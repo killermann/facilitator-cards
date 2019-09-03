@@ -21,7 +21,7 @@
             <!-- Begin Mailchimp Signup Form -->
             <form action="https://cards.us20.list-manage.com/subscribe/post?u=7898c325cd5928bb54d6e3f5f&amp;id=0439e31edf" method="post" name="mc-embedded-subscribe-form" class="flex mailing-list" target="_blank" rel="noopener noreferrer" novalidate>
 
-            	<input type="email" value="" placeholder="Enter a good email" name="EMAIL" class="required email" id="mce-EMAIL">
+            	<input type="email" value="" placeholder="Enter a good email" name="EMAIL">
 
                 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7898c325cd5928bb54d6e3f5f_0439e31edf" tabindex="-1" value=""></div>
                 <button type="submit" value="Subscribe" name="subscribe" class="button">🚀</button>
@@ -41,7 +41,7 @@
     {{ range sort ( where .Data.Pages "Section" "cards" ) }}
     <div class="carousel-cell">
         <article class="flip-container ">
-            <a class="flipper" href="{{ .Permalink }}">
+            <a class="flipper" href="{{ .Permalink }}" title="{{ .Title}}" aria-label="Visit {{ .Title}} Card">
                 {{ partial "card.html" . }}
             </a>
         </article>
@@ -61,7 +61,7 @@
         <div class="flex-list">
             <div class="flex-list-item flex wow">
                 <div class="icon grey-500">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.2;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-map</title><g class="cls-1"><g id="lines"><polygon class="cls-2" points="40 55.5 23 48.5 23 8.5 40 14.5 40 55.5"/><polygon class="cls-3" points="23 48.5 6 55.5 6 14.5 23 8.5 23 48.5"/><polygon class="cls-3" points="40 55.5 23 48.5 23 8.5 40 14.5 40 55.5"/><polygon class="cls-3" points="58 49.5 40 55.5 40 14.5 58 8.5 58 49.5"/></g></g></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.2;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-map</title><g class="cls-1"><polygon class="cls-2" points="40 55.5 23 48.5 23 8.5 40 14.5 40 55.5"/><polygon class="cls-3" points="23 48.5 6 55.5 6 14.5 23 8.5 23 48.5"/><polygon class="cls-3" points="40 55.5 23 48.5 23 8.5 40 14.5 40 55.5"/><polygon class="cls-3" points="58 49.5 40 55.5 40 14.5 58 8.5 58 49.5"/></g></svg>
                 </div>
                 <div class="text">
                     <h3 class="medium grey-500">
@@ -74,7 +74,7 @@
             </div><!--/planning-->
             <div class="flex-list-item flex wow">
                 <div class="icon grey-500">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.2;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-reply</title><g class="cls-1"><g id="shadows"><path class="cls-2" d="M12,32,9,40l11-3s1-8,7-12,14.76-2.88,14.76-2.88c0-7.8-8-14.12-17.88-14.12S6,14.32,6,22.12a12.89,12.89,0,0,0,5.65,10.29"/></g><g id="lines"><path class="cls-3" d="M11.65,32.41A12.89,12.89,0,0,1,6,22.12C6,14.32,14,8,23.88,8s17.88,6.32,17.88,14.12"/><polyline class="cls-3" points="11.65 32.47 8.82 40 20 37"/><path class="cls-3" d="M52,47.94c3.69-2.74,6-6.63,6-10.94,0-8.28-8.51-15-19-15S20,28.72,20,37c0,7.75,7.45,14.13,17,14.92.66,0,1.32.08,2,.08"/><polyline class="cls-3" points="52 48 55 56 39 52"/></g></g></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.2;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-reply</title><g class="cls-1"><path class="cls-2" d="M12,32,9,40l11-3s1-8,7-12,14.76-2.88,14.76-2.88c0-7.8-8-14.12-17.88-14.12S6,14.32,6,22.12a12.89,12.89,0,0,0,5.65,10.29"/></g><path class="cls-3" d="M11.65,32.41A12.89,12.89,0,0,1,6,22.12C6,14.32,14,8,23.88,8s17.88,6.32,17.88,14.12"/><polyline class="cls-3" points="11.65 32.47 8.82 40 20 37"/><path class="cls-3" d="M52,47.94c3.69-2.74,6-6.63,6-10.94,0-8.28-8.51-15-19-15S20,28.72,20,37c0,7.75,7.45,14.13,17,14.92.66,0,1.32.08,2,.08"/><polyline class="cls-3" points="52 48 55 56 39 52"/></svg>
                 </div>
                 <div class="text">
                     <h3 class="medium grey-500">
@@ -87,7 +87,7 @@
             </div><!--/responding-->
             <div class="flex-list-item flex wow">
                 <div class="icon grey-500">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.2;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-hat</title><g class="cls-1"><g id="shadows"><ellipse class="cls-2" cx="32" cy="19" rx="13.5" ry="4.5"/><path class="cls-2" d="M34,29.5l-17-2v8c0,.33,17,1.66,17,2v11c0,4-5,9-10,7,0,0,21.76,4.49,24-7,.8-4.11-2.18-19.31-1-22C47,26.5,44,29.5,34,29.5Z"/></g><g id="lines"><path class="cls-3" d="M48,48c0,4.69-7.16,8.5-16,8.5S16,52.69,16,48"/><ellipse class="cls-3" cx="32" cy="18.5" rx="22.5" ry="11"/><line class="cls-3" x1="16" y1="48.5" x2="17" y2="27.5"/><line class="cls-3" x1="48" y1="48.5" x2="47" y2="27.5"/><path class="cls-3" d="M47,35.5a40.84,40.84,0,0,1-15,3,40.84,40.84,0,0,1-15-3"/><path class="cls-3" d="M21,18.5s2,2,11,2,11-2,11-2"/></g></g></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.2;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-hat</title><g class="cls-1"><ellipse class="cls-2" cx="32" cy="19" rx="13.5" ry="4.5"/><path class="cls-2" d="M34,29.5l-17-2v8c0,.33,17,1.66,17,2v11c0,4-5,9-10,7,0,0,21.76,4.49,24-7,.8-4.11-2.18-19.31-1-22C47,26.5,44,29.5,34,29.5Z"/></g><path class="cls-3" d="M48,48c0,4.69-7.16,8.5-16,8.5S16,52.69,16,48"/><ellipse class="cls-3" cx="32" cy="18.5" rx="22.5" ry="11"/><line class="cls-3" x1="16" y1="48.5" x2="17" y2="27.5"/><line class="cls-3" x1="48" y1="48.5" x2="47" y2="27.5"/><path class="cls-3" d="M47,35.5a40.84,40.84,0,0,1-15,3,40.84,40.84,0,0,1-15-3"/><path class="cls-3" d="M21,18.5s2,2,11,2,11-2,11-2"/></svg>
                 </div>
                 <div class="text">
                     <h3 class="medium grey-500">
@@ -112,7 +112,7 @@
         <div class="flex-list">
             <div class="flex-list-item flex wow">
                 <div class="icon blue">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.4;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-emotion</title><g class="cls-1"><g id="shadows"><polygon class="cls-2" points="9.15 32 20.58 32 25.15 26.29 29.71 32 33.14 32 38.85 22.86 42.28 32 55.99 32 32 55.99 9.15 32"/></g><g id="lines"><polyline class="cls-3" points="52.58 35.42 32 56 11.42 35.42"/><path class="cls-3" d="M11.42,35.42,8.84,32.84a14.56,14.56,0,0,1,0-20.58h0a14.57,14.57,0,0,1,20.59,0L32,14.84"/><path class="cls-3" d="M32,14.84l2.57-2.58a14.57,14.57,0,0,1,20.59,0h0a14.56,14.56,0,0,1,0,20.58l-2.58,2.58"/><polyline class="cls-3" points="53.71 32.27 43.42 32.27 38.85 21.99 34.28 32.27 29.71 32.27 25.15 26.56 20.58 32.27 10.29 32.27"/></g></g></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.4;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-emotion</title><g class="cls-1"><polygon class="cls-2" points="9.15 32 20.58 32 25.15 26.29 29.71 32 33.14 32 38.85 22.86 42.28 32 55.99 32 32 55.99 9.15 32"/></g><polyline class="cls-3" points="52.58 35.42 32 56 11.42 35.42"/><path class="cls-3" d="M11.42,35.42,8.84,32.84a14.56,14.56,0,0,1,0-20.58h0a14.57,14.57,0,0,1,20.59,0L32,14.84"/><path class="cls-3" d="M32,14.84l2.57-2.58a14.57,14.57,0,0,1,20.59,0h0a14.56,14.56,0,0,1,0,20.58l-2.58,2.58"/><polyline class="cls-3" points="53.71 32.27 43.42 32.27 38.85 21.99 34.28 32.27 29.71 32.27 25.15 26.56 20.58 32.27 10.29 32.27"/></svg>
                 </div>
                 <div class="text">
                     <h3 class="medium blue">
@@ -125,7 +125,7 @@
             </div><!--/emotion-->
             <div class="flex-list-item flex wow">
                 <div class="icon green">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.4;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-ideation</title><g class="cls-1"><g id="lines"><polygon class="cls-2" points="23.27 39.64 40.73 39.64 40.73 51.65 35.27 59.29 28.73 59.29 23.27 52.74 23.27 39.64"/><path class="cls-3" d="M23.27,39.64C18,35.6,13,30.16,13,22.67c0-9.92,8.51-18,19-18s19,8,19,18c0,7.49-5,12.94-10.27,17"/><polygon class="cls-3" points="40.73 39.64 40.73 52.74 35.27 59.29 28.73 59.29 23.27 52.74 23.27 39.64 40.73 39.64"/><line class="cls-3" x1="23.27" y1="49.47" x2="40.73" y2="49.47"/><path class="cls-3" d="M23.72,22.27a7.71,7.71,0,0,1,7.92-7.49"/></g></g></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.4;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-ideation</title><g class="cls-1"><polygon class="cls-2" points="23.27 39.64 40.73 39.64 40.73 51.65 35.27 59.29 28.73 59.29 23.27 52.74 23.27 39.64"/><path class="cls-3" d="M23.27,39.64C18,35.6,13,30.16,13,22.67c0-9.92,8.51-18,19-18s19,8,19,18c0,7.49-5,12.94-10.27,17"/><polygon class="cls-3" points="40.73 39.64 40.73 52.74 35.27 59.29 28.73 59.29 23.27 52.74 23.27 39.64 40.73 39.64"/><line class="cls-3" x1="23.27" y1="49.47" x2="40.73" y2="49.47"/><path class="cls-3" d="M23.72,22.27a7.71,7.71,0,0,1,7.92-7.49"/></g></svg>
                 </div>
                 <div class="text">
                     <h3 class="medium green">
@@ -138,7 +138,7 @@
             </div><!--/ideation-->
             <div class="flex-list-item flex wow">
                 <div class="icon orange">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.4;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-clarification</title><g class="cls-1"><g id="shadows"><polygon class="cls-2" points="33.13 8.38 43.25 23 57.88 21.88 47.75 8.38 33.13 8.38"/><polygon class="cls-2" points="6.13 23 28.63 51.13 21.88 23 6.13 23"/></g><g id="lines"><line class="cls-3" x1="5" y1="23" x2="59" y2="23"/><polygon class="cls-3" points="5 23 16.25 8.38 47.75 8.38 59 23 32 55.63 5 23"/><polyline class="cls-3" points="32 55.63 43.25 23 32 8.38 20.75 23 32 55.63"/></g></g></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.4;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-clarification</title><g class="cls-1"><polygon class="cls-2" points="33.13 8.38 43.25 23 57.88 21.88 47.75 8.38 33.13 8.38"/><polygon class="cls-2" points="6.13 23 28.63 51.13 21.88 23 6.13 23"/></g><line class="cls-3" x1="5" y1="23" x2="59" y2="23"/><polygon class="cls-3" points="5 23 16.25 8.38 47.75 8.38 59 23 32 55.63 5 23"/><polyline class="cls-3" points="32 55.63 43.25 23 32 8.38 20.75 23 32 55.63"/></svg>
                 </div>
                 <div class="text">
                     <h3 class="medium orange">
@@ -151,7 +151,7 @@
             </div><!--/clarification-->
             <div class="flex-list-item flex wow">
                 <div class="icon red">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.4;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-execution</title><g class="cls-1"><g id="shadows"><polygon class="cls-2" points="29.75 5 41 33.13 46.63 33.13 39.88 5 29.75 5"/></g><g id="lines"><polygon class="cls-3" points="16.25 5 39.88 5 47.75 33.13 37.63 33.13 42.13 59 16.25 27.5 26.38 27.5 16.25 5"/></g></g></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.4;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-execution</title><g class="cls-1"><polygon class="cls-2" points="29.75 5 41 33.13 46.63 33.13 39.88 5 29.75 5"/></g><polygon class="cls-3" points="16.25 5 39.88 5 47.75 33.13 37.63 33.13 42.13 59 16.25 27.5 26.38 27.5 16.25 5"/></svg>
                 </div>
                 <div class="text">
                     <h3 class="medium red">
