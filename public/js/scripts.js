@@ -1,4 +1,3 @@
-//@prepros-prepend plugins/instantclick.min.js
 //@prepros-prepend plugins/vanilla-tilt.min.js
 //@prepros-prepend plugins/wow.min.js
 
@@ -15,8 +14,6 @@ wow = new WOW({
 })
 
 wow.init();
-
-InstantClick.init();
 
 window.onscroll = function changeNav(){
     var navBar = document.getElementById('masthead');

@@ -8,6 +8,10 @@
   }
 }
 
+.wow {
+  visibility: hidden;
+}
+
 .animated-wow {
   -webkit-animation-name: slideInUp;
   animation: slideInUp .7s ease-out;
