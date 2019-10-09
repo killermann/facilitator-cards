@@ -292,13 +292,13 @@
 
     .preview-pack-cta {
         display: flex;
-        padding: 4vw;
+        padding: 2vw 4vw 6vw;
         flex-direction: column;
         justify-content: center;
         align-items: center;
 
         h2 {
-            margin: 0 auto 20px;
+            margin: 0 auto .5em;
         }
 
         @include mq('tablet'){
@@ -307,28 +307,74 @@
             }
         }
     }
+}
 
-    .sign-up {
-        display: flex;
-        flex-wrap: wrap;
-        
-        input {
-            font-size: 1em;
-            border-radius: .4em;
-            padding: .4em .6em;
-            background: rgba(white, 0.95);
-            @extend .theme-font;
-            box-shadow: inset 0 .1em .2em 0 rgba(0,0,0,.3);
-            border: none;
+.sign-up {
+    width: 100%;
+
+    .formkit-fields, .formkit-form {
+        width: 100%;
+    }
+
+    .formkit-field, .formkit-submit{
+        margin: 0 auto 15px;
+    }
+    
+    .formkit-input, .formkit-submit {
+        display: block;
+        text-align: center;
+        font-size: 1em;
+        width: 100%;
+        border-radius: .4em;
+        padding: .6em;
+        background-color: rgba(white, 0.95);
+        @extend .theme-font;
+        box-shadow: inset 0 .1em .2em 0 rgba(0,0,0,.3);
+        border: none;
+        line-height: 1.4;
+        -webkit-transition: border-color ease-out 300ms;
+        transition: border-color ease-out 300ms;
+    }
+
+    .formkit-submit {
+        @extend .orange-to-red;
+        cursor: pointer;
+        color: rgba(0,0,0,.8) !important;
+        @extend .theme-font;
+        font-size: 1em;
+        font-weight: 900 !important;
+        text-transform: uppercase;
+        box-shadow: 0 .2em .4em 0 rgba(0,0,0,.3) !important;
+    }
+
+    @include mq('tablet'){
+
+        .formkit-fields {
+            display: flex;
+            flex-wrap: wrap;
         }
+        .formkit-field {
+            flex: 0 0 48%;
+        } 
 
-        button {
-            @extend .orange-to-red;
-            color: rgba(0,0,0,.8) !important;
-            @extend .theme-font;
-            font-size: 1em;
-            font-weight: 900 !important;
-            text-transform: uppercase;
+        .formkit-submit {
+            width: 98%;
+        }
+    }
+
+    @include mq('tablet-wide'){
+
+        .formkit-fields {
+            flex-wrap: nowrap
+        }
+        .formkit-field, .formkit-submit{
+            flex: 1 1 auto;
+            margin: 0 15px 15px 0;
+        } 
+        
+        .formkit-submit {
+            width: auto;
+            margin-right: 0;
         }
     }
 }
