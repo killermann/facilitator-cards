@@ -57,6 +57,7 @@
         width: 100%;
         text-align:center;
         align-items: stretch;
+        padding-left: .5em;
 
         li {
             align-items: stretch;
@@ -72,17 +73,13 @@
                 justify-content: center;
                 align-items: center;
                 padding: .3em .8em;
-
-                .fci {
-                    margin-left: .2em;
-                    font-size: 1.3em;
-                }
             }
         }
 
         a {
-            padding:.5em;
+            padding:.5em 0;
             font-weight: 600;
+            line-height: 1.1;
         }
     }
 
@@ -92,10 +89,11 @@
         width: auto;
         padding: 0;
         border: none;
+        min-width: 20em;
 
         ul a {
             font-weight: 400;
-            padding: .5em;
+            padding: .5em 0;
         }
 
         .button {
