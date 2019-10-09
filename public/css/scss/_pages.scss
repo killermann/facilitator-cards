@@ -83,7 +83,6 @@
     }
 }
 
-
 /***
 
     CARDS PAGE
@@ -229,6 +228,107 @@
         .card:hover {
             transition: .15s all;
             transform:scale(1.5);
+        }
+    }
+}
+
+
+/***
+
+    LANDING PAGES
+
+***/
+
+.type-landing {
+    padding: 0;
+
+    #masthead {
+        position: relative !important;
+        box-shadow: none !important;
+    }
+
+    #main-nav {
+        display: none;
+    }
+
+   .content {
+       margin-bottom: 4vw;
+
+       .landing-text {
+           margin-bottom: calc(20px + 4vw);
+       }
+
+        @include mq('tablet'){
+            display:flex;
+            flex-direction:row;
+            align-items: center;
+            justify-content: center;
+
+            .landing-text {
+                padding-left: 4vw;
+            }
+        }
+   }
+}
+
+#get-preview-pack {
+    .preview-pack-image {
+        margin: -4vw 0 4vw 4vw;
+        min-width: 100px;
+        max-width: 200px;
+        img {
+            box-shadow: 0px 1em 1.5em -.5em rgba(0,0,0,.7);
+        }
+
+        @include mq('phone-wide'){
+            min-width: 200px;
+            max-width: 300px;
+        }
+        @include mq('tablet'){
+            min-width: 300px;
+            max-width: 400px;
+        }
+    }
+
+    .preview-pack-cta {
+        display: flex;
+        padding: 4vw;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        h2 {
+            margin: 0 auto 20px;
+        }
+
+        @include mq('tablet'){
+            h2 {
+                font-size:calc(2.2em + .7vw);
+            }
+        }
+    }
+
+    .sign-up {
+        display: flex;
+        flex-wrap: wrap;
+        
+        input {
+            font-size: 1em;
+            border-radius: .4em;
+            padding: .4em .6em;
+            background: rgba(white, 0.95);
+            @extend .theme-font;
+            box-shadow: inset 0 .1em .2em 0 rgba(0,0,0,.3);
+            border: none;
+        }
+
+        button {
+            @extend .orange-to-red;
+            color: rgba(0,0,0,.8) !important;
+            @extend .theme-font;
+            font-size: 1em;
+            font-weight: 900 !important;
+            text-transform: uppercase;
         }
     }
 }

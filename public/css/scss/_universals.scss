@@ -80,20 +80,19 @@ body {
         margin-top: 0;
         font-family:$theme-font;
     }
-
-    .hero-image {
-        max-width: 100%;
-        display:block;
-        height: auto;
-        margin: 0 auto;
-    }
-
     .cta {
         position:relative;
         z-index:3;
         align-self: center;
         font-family: $theme-font;
     }
+}
+
+.hero-image {
+    max-width: 100%;
+    display:block;
+    height: auto;
+    margin: 0 auto;
 }
 
 .flex-list {

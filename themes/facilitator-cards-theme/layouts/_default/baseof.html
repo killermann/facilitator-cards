@@ -10,8 +10,10 @@
             {{- block "main" . }}{{- end }}
         </main>
         {{- partial "social.html" . -}}
-        {{- partial "footer.html" . -}}
-        {{- partial "js.html" . -}}
+        {{- if not (in .Params.type "landing") }}
+            {{- partial "footer.html" . -}}
+            {{- partial "js.html" . -}}
+        {{ end -}}
         <!-- {{- template "_internal/google_analytics.html" . -}} -->
     </body>
 </html>
