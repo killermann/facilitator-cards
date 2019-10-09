@@ -264,14 +264,17 @@
             align-items: center;
             justify-content: center;
 
-            .landing-text {
-                padding-left: 4vw;
+            .landing-image {
+                max-width: 60vw;
             }
+            
+            padding: 0 8vw 0 4vw;
         }
    }
 }
 
 #get-preview-pack {
+    
     .preview-pack-image {
         margin: -4vw 0 4vw 4vw;
         min-width: 100px;
@@ -287,6 +290,11 @@
         @include mq('tablet'){
             min-width: 300px;
             max-width: 400px;
+        }
+
+        @include mq('tablet-wide'){
+            min-width: 380px;
+            max-width: 450px;
         }
     }
 
@@ -305,6 +313,18 @@
             h2 {
                 font-size:calc(2.2em + .7vw);
             }
+        }
+    }
+
+    @include mq('tablet'){ 
+        .preview-pack-cta {
+            order: 1;
+            padding-top: 4vw;
+            padding-left: 6vw;
+        }
+        .preview-pack-image {
+            order: 2;
+            margin: -6vw 6vw 4vw 2vw;
         }
     }
 }
@@ -339,12 +359,17 @@
     .formkit-submit {
         @extend .orange-to-red;
         cursor: pointer;
-        color: rgba(0,0,0,.8) !important;
+        color: rgba(0,0,0,.75);
         @extend .theme-font;
         font-size: 1em;
         font-weight: 900 !important;
         text-transform: uppercase;
-        box-shadow: 0 .2em .4em 0 rgba(0,0,0,.3) !important;
+        box-shadow: 0 .2em .4em 0 rgba(0,0,0,.3);
+
+        &:hover, &:focus {
+            background: $orange;
+            color: black;
+        }
     }
 
     @include mq('tablet'){

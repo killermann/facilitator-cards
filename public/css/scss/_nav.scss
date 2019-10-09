@@ -12,6 +12,9 @@
 
     strong {
         margin: 0 1em;
+        line-height: 1.1;
+        font-size: .8em;
+        text-align: center;
     }
 
     @include mq('tablet-wide') {
