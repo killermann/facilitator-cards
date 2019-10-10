@@ -277,7 +277,7 @@
     
     .preview-pack-image {
         margin: -4vw 0 4vw 4vw;
-        min-width: 100px;
+        min-width: 33vw;
         max-width: 200px;
         img {
             box-shadow: 0px 1em 1.5em -.5em rgba(0,0,0,.7);
@@ -306,12 +306,13 @@
         align-items: center;
 
         h2 {
-            margin: 0 auto .5em;
+            margin: 12px auto ;
         }
 
         @include mq('tablet'){
             h2 {
                 font-size:calc(2.2em + .7vw);
+                margin: 0 auto 3vw;
             }
         }
     }
@@ -332,21 +333,29 @@
 .sign-up {
     width: 100%;
 
+    ul {
+        margin: 0;
+
+        li {
+            margin: 1em auto;
+        }
+    }
+
     .formkit-fields, .formkit-form {
         width: 100%;
     }
 
     .formkit-field, .formkit-submit{
-        margin: 0 auto 15px;
+        margin: 0 auto .5em;
     }
     
     .formkit-input, .formkit-submit {
         display: block;
         text-align: center;
-        font-size: 1em;
+        font-size: 1.2em;
         width: 100%;
         border-radius: .4em;
-        padding: .6em;
+        padding: .4em;
         background-color: rgba(white, 0.95);
         @extend .theme-font;
         box-shadow: inset 0 .1em .2em 0 rgba(0,0,0,.3);
@@ -361,7 +370,7 @@
         cursor: pointer;
         color: rgba(0,0,0,.75);
         @extend .theme-font;
-        font-size: 1em;
+        font-size: 1.2em;
         font-weight: 900 !important;
         text-transform: uppercase;
         box-shadow: 0 .2em .4em 0 rgba(0,0,0,.3);
@@ -401,5 +410,34 @@
             width: auto;
             margin-right: 0;
         }
+    }
+}
+
+.whats-included {
+    padding-top: 0;
+
+    h2 {
+        margin: 0 auto .5em;
+        text-align: center;
+        span {
+            background: white;
+            padding: .5rem;
+            margin: 0 auto;
+        }
+    }
+
+    ul {
+        border: .15em solid $grey-900;
+        border-radius: .3em;
+        padding: 1.5em 2em;
+        margin: -1em 0 0;
+
+        li + li {
+            margin-top: 1em;
+        }
+    }
+
+    @include mq('tablet') {
+        padding: 0 6vw 6vw;
     }
 }

@@ -34,11 +34,27 @@
     </div>
     <div class="preview-pack-cta">
         {{ with .Params.cta }}<h2 class="theme-font medium">{{ . }}</h2>{{ end }}
-        <div class="sign-up big-copy">
-            {{ partial "ck-preview-pack" .}}
+        <div class="sign-up">
+            {{ partial "ck-preview-pack" . }}
         </div>
+    </div>      
+  </section>
+  <section class="grey-900 doodle-yellow">
+    <div class="whats-included pad">
+      <h2 class="medium"><span>↑ What's Included?</span></h2>
+      <ul class="theme-font medium">
+          <li>
+              A guide to how Facilitator Cards work, the theory behind them, and explanation of how to use them
+          </li>
+          <li>
+            12 Printable DIY Facilitator Cards with instructions for printing
+          </li>
+          <li>
+            4 chapters from the Facilitator Cards Facilitation Guide, detailing the ins and outs of four of the processing tools
+          </li>
+        </ul>
     </div>
-      
-  </footer>
+   
+  </section>
 </div>
 {{ end }}
