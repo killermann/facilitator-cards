@@ -2,8 +2,10 @@
 label: Card
 hide_body: true
 fields:
-- type: datetime
-  name: title
+- name: title
+  type: text
+  config:
+    required: false
   label: title
 - type: textarea
   name: description
