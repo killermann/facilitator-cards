@@ -9,4 +9,3 @@ noindex = true
 If you don't see it, **check your spam** (search for "facilitator cards"). It also might take a few minutes for it to make its way through all the internet tubes.
 
 And please don't hesitate to let us know if you need anything from us. You can reply directly to that email, or send a fresh one to [hello@facilitator.cards](mailto:hello@facilitator.cards).
-
