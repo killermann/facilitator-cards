@@ -1,0 +1,21 @@
+---
+label: Card
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: category
+  label: category
+- type: text
+  name: group
+  label: group
+- type: list
+  name: props
+  label: props
