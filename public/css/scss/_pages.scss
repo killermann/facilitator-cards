@@ -443,3 +443,11 @@
         padding: 0 6vw 6vw;
     }
 }
+
+.formkit-form {
+    .formkit-checkboxes {
+        label {
+            font-size: 13px !important;
+        }
+    }
+}
