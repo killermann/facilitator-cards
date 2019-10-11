@@ -1,6 +1,7 @@
 +++
 title = "Early bird. Meet worm."
 date = "2019-10-10"
+url = "early-bird-success"
 noindex = true
 +++
 
