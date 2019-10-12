@@ -451,3 +451,21 @@
         }
     }
 }
+
+.formkit-modal {
+
+    .formkit-column {
+        padding: 3vw !important;
+    }
+
+    .formkit-header {
+        font-size: calc(24px + 1.5vw) !important;
+        h1 {
+            margin: 1vw auto 2vw;
+        }
+    }
+
+    .formkit-guarantee {
+        margin-bottom: 0 !important;
+    }
+}

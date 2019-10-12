@@ -24,6 +24,11 @@
         h2 {
             margin: 0 auto 2rem;
         }
+
+        .absolute-link {
+            border-radius: 1.5em;
+        }
+        
         .absolute-link:hover, .absolute-link:focus {
             background: hsla(177%, 69%, 55%, .15);
             background-image: linear-gradient(to bottom right, hsla(177%, 69%, 55%, .15), hsla(124%, 45%, 65%, .15));
