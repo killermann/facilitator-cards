@@ -10,6 +10,11 @@ enableGitInfo = true
 [author]
     name = "Sam Killermann & Meg Bolger"
 
+[social]
+    twitter = "facilitatorcard"
+    facebook = "facilitatorcards"
+    instagram = "facilitatorcards"
+
 [params]
     description = "A tool for facilitation planning, responding to your group, and improvising when the unexpected comes up -- the deck of cards for every facilitator, not your participants."
     keywords = "facilitator, facilitation, facilitator tools, facilitator cards, training, trainer, training tools, training planning, resources, faciliatator resources"
