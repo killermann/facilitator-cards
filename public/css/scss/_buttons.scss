@@ -24,11 +24,10 @@ a:visited {
 .biglink {
     background:none;
     font-weight:bold;
-    font-size:.8em;
-    letter-spacing:.02em;
     font-family:$theme-font;
     max-width:24em;
     display:inline-block;
+    border-bottom: 2px solid $blue;
 
     &:hover {
         color:$blue;

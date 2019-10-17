@@ -4,4 +4,5 @@ description: "Each person makes a sign proclaiming a statement (should be short/
 category: "emotion"
 group: "full-group"
 props: ["paper", "marker"]
+draft: true
 ---

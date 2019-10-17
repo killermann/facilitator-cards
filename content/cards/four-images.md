@@ -4,4 +4,5 @@ description: "Pass out paper and writing utensils. Have participant create a gri
 category: "ideation"
 group: "individual"
 props: ["paper", "writing-utensils"]
+draft: true
 ---

@@ -5,4 +5,5 @@ description: "Facilitator asks a question or delivers a prompt and participants 
 category: "emotion"
 group: "full-group"
 props: ["paper", "marker", "tape"]
+draft: true
 ---

@@ -7,6 +7,6 @@
 	    <changefreq>{{ . }}</changefreq>{{ end }}{{ if ge .Sitemap.Priority 0.0 }}
 	    <priority>{{ .Sitemap.Priority }}</priority>{{ end }}
 	  </url>
-	  {{ end }}
+    {{ end }}
   {{ end }}
 </urlset>

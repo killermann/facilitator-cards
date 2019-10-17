@@ -9,5 +9,4 @@ group: full-group
 props:
 - colored-paper
 draft: true
-
 ---

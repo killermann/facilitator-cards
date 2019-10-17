@@ -1,15 +1,15 @@
-<div class="card front {{ .Params.category }}">
+<div class="card front {{ .Params.category | urlize }}">
     <header class="card-header">
 		<ul class="icon-list">
 			<li class="icon group-size">
-				<i class="fci fci-{{ .Params.group }}"></i>
+				<i class="fci fci-{{ .Params.group | urlize }}"></i>
 			</li>
 			<li class="icon category">
-				<i class="fci fci-{{ .Params.category }}"></i>
+				<i class="fci fci-{{ .Params.category | urlize }}"></i>
 			</li>
 			<li class="icon props">
                 {{ range .Params.props }}
-                <i class="fci fci-{{ . }}"></i>
+                <i class="fci fci-{{ . | urlize }}"></i>
                 {{ end }}
 			</li>
 		</ul>
@@ -20,18 +20,18 @@
 	<footer class="card-description">
 	</footer>
 </div>
-<div class="card back {{ .Params.category }}">
+<div class="card back {{ .Params.category | urlize }}">
     <header class="card-header">
 		<ul class="icon-list">
 			<li class="icon group-size">
-				<i class="fci fci-{{ .Params.group }}"></i>
+				<i class="fci fci-{{ .Params.group | urlize }}"></i>
 			</li>
 			<li class="icon category">
-				<i class="fci fci-{{ .Params.category }}"></i>
+				<i class="fci fci-{{ .Params.category | urlize }}"></i>
 			</li>
 			<li class="icon props">
                 {{ range .Params.props }}
-                <i class="fci fci-{{ . }}"></i>
+                <i class="fci fci-{{ . | urlize }}"></i>
                 {{ end }}
 			</li>
 		</ul>

@@ -4,4 +4,5 @@ description: "Pass out index cards for anonymous questions. Ask everyone to writ
 category: "clarification"
 group: "full-group"
 props: ["index-cards"]
+draft: true
 ---
