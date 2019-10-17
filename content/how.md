@@ -1,6 +1,7 @@
 +++
 title = "How to Use"
 date = "2018-12-14"
+priority = 2
 +++
 
 Coming soon.

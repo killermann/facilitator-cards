@@ -3,6 +3,7 @@ title: "Free Preview Pack: Start Using Facilitator Cards Today"
 cta: "Get your free Preview Pack and start using Facilitator Cards today"
 type: "landing"
 url: "preview-pack"
+priority: 2
 images:
 - "/img/fc-preview-pack-cover-800w.jpg"
 - "/img/facilitator-cards-stack-1250w.jpg"
