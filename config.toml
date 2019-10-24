@@ -1,11 +1,12 @@
 baseURL = "https://www.facilitator.cards"
 languageCode = "en-us"
 title = "Facilitator Cards"
-theme = "facilitator-cards-theme"
 enableRobotsTXT = true
 canonifyURLs = true
 paginate = 99
 enableGitInfo = true
+copyright = "This work is Uncopyrighted"
+
 
 [author]
     name = "Sam Killermann & Meg Bolger"
