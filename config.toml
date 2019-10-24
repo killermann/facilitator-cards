@@ -7,7 +7,6 @@ paginate = 99
 enableGitInfo = true
 copyright = "This work is Uncopyrighted"
 
-
 [author]
     name = "Sam Killermann & Meg Bolger"
 
