@@ -114,7 +114,9 @@ blockquote, cite {
     margin-right:0;
 }
     blockquote {
-        font-weight:700;
+        font-weight:400;
+        padding: 0 1.5em 0 1.3em;
+        border-left: .2em solid $blue;
     }
 
     cite {
