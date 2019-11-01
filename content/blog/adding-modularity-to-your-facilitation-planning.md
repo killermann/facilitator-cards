@@ -91,13 +91,19 @@ When you've got three yesses, you have a module! And a module is a necessary bui
 
 Maybe you used to (or still currently do) plan how I used to plan facilitations: creating outlines and agendas. This is what I'll call "linear" facilitation planning. We have a line, and every step, activity, break, etc. is placed somewhere on that line after the process before it, and before the process after it.
 
-**One way you can add modularity to your planning is simply to introduce more lines.** You can think of this like on and off ramps from a major highway. At a particular point, you might decide "we'll detour off the highway if..." and write up your alternative line of processes there, knowing you'll merge back onto the highway when you're done with that excursion.
+#### Multi-Linear Modularity
+
+**One way you can add modularity to your planning is simply to introduce more lines.** You can think of this like on and off ramps from a major highway. At a particular point, you might decide "we'll detour off the highway if..." and write up your alternative line of processes there, knowing you can merge back onto the highway when you're done with that excursion, or continue down a different road altogether.
 
 Adding detours, or multi-linear planning, is a go-to modularity pattern when:
 
 - There are a lot of things you _have_ to get to. It's out of your hands. But you still want to be able to respond to things that come up in the room. Plan detours for addressing those things that come up, if they do.
 - You and/or your co-facilitator needs the psychological safety of having everything mapped out.
 - You have a lot of experience facilitating this stuff with people like this, so you're confident you know what they will end up needing.
+
+<img alt="Several diverging lines that have dots along them" src="/img/blog/multi-linear-facilitation.jpg" />
+
+#### Non-Linear Modularity
 
 **Another way to add modularity is to get rid of lines altogether, and focus instead on dots.** You can think of this like lilly pads, and you and your group being the frog jumping between them. Maybe you go from the one on the left to the one on the right,but you could also start on the right and go left. Or you leap over both of those onto a third one instead, then realize you need to jump back to the one on the right. It all depends on what makes the most sense from the lilly pad you're standing on.
 
@@ -107,7 +113,9 @@ Creating lilly pads, or non-linear planning, is a go-to modularity pattern when:
 - You and/or your co-facilitator enjoys the adventure of finding the correct path by walking it.
 - You don't have a lot of experience facilitating this stuff with people like this, so you need to create situations where they can teach you what they need, and you can deliver that.
 
-There are lots of other patterns that you can experiment with if you want to add modularity to your facilitation, but we'll move on for now. 
+<img alt="A bunch of dots scattered around, some of which have arrows connecting them" src="/img/blog/non-linear-facilitation.jpg" />
+
+There are plenty of other patterns you can experiment with if you want to add modularity to your facilitation, but we'll move forward with just these two in mind for now.
 
 Let's talk about how we put these patterns into play.
 
@@ -129,9 +137,9 @@ But if you're more of a **type things up and print them** person, you can make t
 
 ### For Planning vs. For Prep vs. In the Moment
 
-I haven't teased out planning, prep, and in-the-moment modularity yet. I've presented all three above, at different times. And that's because modularity is useful for facilitators in all three of those situations! 
+I haven't teased out planning, prep, and in-the-moment modularity yet. I've presented all three above, at different times. And that's because modularity is useful for facilitators in all three of those situations.
 
-But it's not a take it all or leave it thing: **you can benefit from modularity in _just_ your planning, or just for planning and prep, even if you don't go full leap frog with your group**.
+But it's not a take it all or leave it thing: **you can benefit from modularity in _just_ your planning, or just for planning & prep** -- even if you don't go full leap frog with your group.
 
 #### Modular Planning
 
@@ -153,7 +161,7 @@ If you did modular planning, you'll already have the cards made. Just hang on to
 
 #### Modular In-the-Moment
 
-For in-the-moment facilitation, modularity helps you prepare for, and respond to, everything that surfaces from your participants. Where a linear agenda limits the possible paths forward, a fully-modular approach is entirely open-ended. Creating a bunch of modules, and knowing the dials you can use to tweak them, will set you up to facilitate an experience that is truly responsive.
+For in-the-moment facilitation, modularity helps you be ready for, and respond to, everything that surfaces from your participants. Where a linear agenda limits the possible paths forward, a fully-modular approach is entirely open-ended. Creating a bunch of modules, and knowing the dials you can use to tweak them, will set you up to facilitate an experience that is truly responsive.
 
 Make sure you're able to easily sort through the modules you have at your disposal (why index cards are so great Reason #709). Be comfy enough with every module you might go to that all you need is a few key words of reminding (don't skip the Modular Prep). Leverage break times and individual/reflective activities to plan the next module (this is especially true if you're co-facilitating). And know that you won't get to everything you have planned -- and that's the idea!
 
