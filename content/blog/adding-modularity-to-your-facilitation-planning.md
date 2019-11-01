@@ -91,6 +91,8 @@ When you've got three yesses, you have a module! And a module is a necessary bui
 
 Maybe you used to (or still currently do) plan how I used to plan facilitations: creating outlines and agendas. This is what I'll call "linear" facilitation planning. We have a line, and every step, activity, break, etc. is placed somewhere on that line after the process before it, and before the process after it.
 
+<img alt="Several diverging lines that have dots along them" src="/img/blog/multi-linear-facilitation.jpg" />
+
 #### Multi-Linear Modularity
 
 **One way you can add modularity to your planning is simply to introduce more lines.** You can think of this like on and off ramps from a major highway. At a particular point, you might decide "we'll detour off the highway if..." and write up your alternative line of processes there, knowing you can merge back onto the highway when you're done with that excursion, or continue down a different road altogether.
@@ -101,7 +103,7 @@ Adding detours, or multi-linear planning, is a go-to modularity pattern when:
 - You and/or your co-facilitator needs the psychological safety of having everything mapped out.
 - You have a lot of experience facilitating this stuff with people like this, so you're confident you know what they will end up needing.
 
-<img alt="Several diverging lines that have dots along them" src="/img/blog/multi-linear-facilitation.jpg" />
+<img alt="A bunch of dots scattered around, some of which have arrows connecting them" src="/img/blog/non-linear-facilitation.jpg" />
 
 #### Non-Linear Modularity
 
@@ -112,8 +114,6 @@ Creating lilly pads, or non-linear planning, is a go-to modularity pattern when:
 - There are tons of things you could get to, and it's hard to decide which one is _the most_ important. But what is clear is that it's important that whatever you get to is time well spent.
 - You and/or your co-facilitator enjoys the adventure of finding the correct path by walking it.
 - You don't have a lot of experience facilitating this stuff with people like this, so you need to create situations where they can teach you what they need, and you can deliver that.
-
-<img alt="A bunch of dots scattered around, some of which have arrows connecting them" src="/img/blog/non-linear-facilitation.jpg" />
 
 There are plenty of other patterns you can experiment with if you want to add modularity to your facilitation, but we'll move forward with just these two in mind for now.
 
