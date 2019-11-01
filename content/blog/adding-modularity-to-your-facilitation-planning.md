@@ -107,9 +107,9 @@ Adding detours, or multi-linear planning, is a go-to modularity pattern when:
 
 #### Non-Linear Modularity
 
-**Another way to add modularity is to get rid of lines altogether, and focus instead on dots.** You can think of this like lilly pads, and you and your group being the frog jumping between them. Maybe you go from the one on the left to the one on the right,but you could also start on the right and go left. Or you leap over both of those onto a third one instead, then realize you need to jump back to the one on the right. It all depends on what makes the most sense from the lilly pad you're standing on.
+**Another way to add modularity is to get rid of lines altogether, and focus instead on dots.** You can think of this like lily pads, and you and your group being the frog jumping between them. Maybe you go from the one on the left to the one on the right,but you could also start on the right and go left. Or you leap over both of those onto a third one instead, then realize you need to jump back to the one on the right. It all depends on what makes the most sense from the lily pad you're standing on.
 
-Creating lilly pads, or non-linear planning, is a go-to modularity pattern when:
+Creating lily pads, or non-linear planning, is a go-to modularity pattern when:
 
 - There are tons of things you could get to, and it's hard to decide which one is _the most_ important. But what is clear is that it's important that whatever you get to is time well spent.
 - You and/or your co-facilitator enjoys the adventure of finding the correct path by walking it.
@@ -121,25 +121,25 @@ Let's talk about how we put these patterns into play.
 
 ### Making Sense of Modules on Paper
 
-Maybe you're wondering "But how does one feasibly _plan_ either of the above? How do you write up a multi-linear agenda? Or what goes on paper if you're going non-linear? Where does one procure lilly pads? Do I need to water them?!"
+Maybe you're wondering "But how does one feasibly _plan_ either of the above? How do you write up a multi-linear agenda? Or what goes on paper if you're going non-linear? Where does one procure lily pads? Do I need to water them?!"
 
 Hooray! Great! You're at the right point in this linear blog post. If you're not wondering those things, I suggest you either (A) Return to the "What does modularity mean for a facilitator?" heading above; or (B) [Jump to a different blog post](/blog/) (this one probably isn't for you).
 
-**To flourish with modular facilitation planning, you need to be able to physically move things around.** This isn't _required_ (I've been as guilty as anyone of scribbling things out and drawing arrows all over my agenda to "move" paragraphs), but it's super, super preferrable.
+**To flourish with modular facilitation planning, you need to be able to physically move things around.** This isn't _required_ (I've been as guilty as anyone of scribbling things out and drawing arrows all over my agenda to "move" paragraphs), but it's super, super preferable.
 
-So, how we we make agendas that are easy to move around? My favorite way: **create agendas with index cards!**
+So, how can we make agendas that are easy to move around? My favorite way: **create agendas with index cards!**
 
-Write a process you're planning, whether it's a detour from your main agenda highway, or a lilly pad you might be jumping to, on an individual index card. And just that! That's Rule #1 for modular facilitation planning: only one module per piece of paper (or moveable thing).
+Write a process you're planning, whether it's a detour from your main agenda highway or a lily pad you might be jumping to, on an individual index card. And only that process! That's Rule #1 for modular facilitation planning: only one module per piece of paper (or whatever moveable thing you're writing on).
 
-On the front, I tend to write a title or quick description, as well as timing and group configuration. Just enough to jog my memory in the moment of when I'm considering that module against another. Then, on the back, I write a longer description and other details (e.g., the framing, prompts, questions, step-by-steps). Different highlighters or colored markers are also clutch for helping you quickly make decisions or notice differences. (The astute reader might be noticing that this paragraph is basically describing makeshift Facilitator Cards -- that's no coincidence)
+On the front, I tend to write a title or quick description, as well as timing and group configuration info. Just enough to jog my memory in the moment of when I'm considering that module against another. Then, on the back, I write a longer description and other details (e.g., the framing, prompts, questions, step-by-steps). Different highlighters or colored markers are also clutch for helping you quickly make decisions or notice differences between two index cards. (The astute reader might be noticing that this paragraph is basically describing makeshift Facilitator Cards -- that's no coincidence.)
 
-But if you're more of a **type things up and print them** person, you can make that work too. Just use a lot of page breaks, and make it easy to re-order your agenda on the fly (don't staple the whole thing together -- paper clips are your friend!).
+But if you're more of a **type things up and print them** person, you can make that work, too. Just use a lot of page breaks, and make it easy to re-order your agenda on the fly (don't staple the whole thing together -- paper clips are your friend!).
 
 ### For Planning vs. For Prep vs. In the Moment
 
 I haven't teased out planning, prep, and in-the-moment modularity yet. I've presented all three above, at different times. And that's because modularity is useful for facilitators in all three of those situations.
 
-But it's not a take it all or leave it thing: **you can benefit from modularity in _just_ your planning, or just for planning & prep** -- even if you don't go full leap frog with your group.
+And it's not a take it all or leave it thing: **you can benefit from modularity in _just_ your planning, or just for planning & prep** -- even if you don't go full leap frog with your group.
 
 #### Modular Planning
 
