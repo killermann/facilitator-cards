@@ -210,3 +210,25 @@
         grid-column: content / span 2;
     }
 }
+
+.type-blog {
+    .content {
+        h2 {
+            margin-top: 1em;
+            padding-top: .7em;
+            position: relative;
+            
+            &:before {
+                top: 0px;
+                left: 0px;
+                height: .15em;
+                width: 33.33%;
+                content: '';
+                background: $blue;
+                display: block;
+                position: absolute;
+                border-radius: .03em;
+            }
+        }
+    }
+}

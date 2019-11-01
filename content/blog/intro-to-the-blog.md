@@ -27,8 +27,8 @@ As the project develops, I'll update this post, and we'll write new ones. Some t
 - How we designed &amp; (eventually, hopefully) manufactured the Facilitator Cards
 - Who we're making this stuff for: the types of facilitators &amp; trainers we have in mind
 - Different ways we use Facilitator Cards (and different ways you do)
-- Training tools and facilitator resources we love
-- New resources we've created and added to the site
+- [Training tools and facilitator resources we love](https://www.facilitator.cards/categories/resources/)
+- New expansions we've created and added to the site
 
 If you'd like to read about that stuff, subscribe to the blog.
 
@@ -41,4 +41,4 @@ Until next time,
 sK<br/>
 Co-creator, **Facilitator Cards**<br/>
 Co-author, **[Unlocking the Magic of Facilitation](//facilitationmagic.com)**<br/>
-Co-facilitator, **[Faciltating.XYZ](https://facilitating.xyz)**
+Co-facilitator, **[Faciltating.XYZ](//facilitating.xyz)**
