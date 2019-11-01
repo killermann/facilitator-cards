@@ -91,11 +91,13 @@ When you've got three yesses, you have a module! And a module is a necessary bui
 
 Maybe you used to (or still currently do) plan how I used to plan facilitations: creating outlines and agendas. This is what I'll call "linear" facilitation planning. We have a line, and every step, activity, break, etc. is placed somewhere on that line after the process before it, and before the process after it.
 
-<img alt="Several diverging lines that have dots along them" src="/img/blog/multi-linear-facilitation.jpg" />
+For modular facilitation, need to move beyond linear planning.
 
 #### Multi-Linear Modularity
 
 **One way you can add modularity to your planning is simply to introduce more lines.** You can think of this like on and off ramps from a major highway. At a particular point, you might decide "we'll detour off the highway if..." and write up your alternative line of processes there, knowing you can merge back onto the highway when you're done with that excursion, or continue down a different road altogether.
+
+<img alt="Several diverging lines that have dots along them" src="/img/blog/multi-linear-facilitation.jpg" />
 
 Adding detours, or multi-linear planning, is a go-to modularity pattern when:
 
@@ -103,11 +105,11 @@ Adding detours, or multi-linear planning, is a go-to modularity pattern when:
 - You and/or your co-facilitator needs the psychological safety of having everything mapped out.
 - You have a lot of experience facilitating this stuff with people like this, so you're confident you know what they will end up needing.
 
-<img alt="A bunch of dots scattered around, some of which have arrows connecting them" src="/img/blog/non-linear-facilitation.jpg" />
-
 #### Non-Linear Modularity
 
 **Another way to add modularity is to get rid of lines altogether, and focus instead on dots.** You can think of this like lily pads, and you and your group being the frog jumping between them. Maybe you go from the one on the left to the one on the right,but you could also start on the right and go left. Or you leap over both of those onto a third one instead, then realize you need to jump back to the one on the right. It all depends on what makes the most sense from the lily pad you're standing on.
+
+<img alt="A bunch of dots scattered around, some of which have arrows connecting them" src="/img/blog/non-linear-facilitation.jpg" />
 
 Creating lily pads, or non-linear planning, is a go-to modularity pattern when:
 
