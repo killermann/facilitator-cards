@@ -1,1 +1,123 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cards on Facilitator Cards</title><link>https://www.facilitator.cards/cards/</link><description>Recent content in Cards on Facilitator Cards</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>This work is Uncopyrighted</copyright><atom:link href="https://www.facilitator.cards/cards/index.xml" rel="self" type="application/rss+xml"/><item><title>10/10/10 Analysis</title><link>https://www.facilitator.cards/cards/ten-ten-ten-analysis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.facilitator.cards/cards/ten-ten-ten-analysis/</guid><description/></item><item><title>5 Whys</title><link>https://www.facilitator.cards/cards/five-whys/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.facilitator.cards/cards/five-whys/</guid><description/></item><item><title>Counterfactuals</title><link>https://www.facilitator.cards/cards/counterfactuals/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.facilitator.cards/cards/counterfactuals/</guid><description/></item><item><title>Dot Voting</title><link>https://www.facilitator.cards/cards/dot-voting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.facilitator.cards/cards/dot-voting/</guid><description/></item><item><title>Echoed Dialogue</title><link>https://www.facilitator.cards/cards/echoed-dialogue/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.facilitator.cards/cards/echoed-dialogue/</guid><description/></item><item><title>Frequently Asked Questions</title><link>https://www.facilitator.cards/cards/frequently-asked-questions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.facilitator.cards/cards/frequently-asked-questions/</guid><description/></item><item><title>Magnet Statements</title><link>https://www.facilitator.cards/cards/magnet-statements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.facilitator.cards/cards/magnet-statements/</guid><description/></item><item><title>Mindmapping</title><link>https://www.facilitator.cards/cards/mindmapping/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.facilitator.cards/cards/mindmapping/</guid><description/></item><item><title>Minute Papers</title><link>https://www.facilitator.cards/cards/minute-papers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.facilitator.cards/cards/minute-papers/</guid><description/></item><item><title>Reverse Engineering</title><link>https://www.facilitator.cards/cards/reverse-engineering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.facilitator.cards/cards/reverse-engineering/</guid><description/></item><item><title>Sharing Withholds</title><link>https://www.facilitator.cards/cards/sharing-withholds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.facilitator.cards/cards/sharing-withholds/</guid><description/></item><item><title>Sticky Note Generator</title><link>https://www.facilitator.cards/cards/sticky-note-generator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.facilitator.cards/cards/sticky-note-generator/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cards on Facilitator Cards</title>
+    <link>https://www.facilitator.cards/cards/</link>
+    <description>Recent content in Cards on Facilitator Cards</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is Uncopyrighted</copyright>
+    
+	<atom:link href="https://www.facilitator.cards/cards/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>10/10/10 Analysis</title>
+      <link>https://www.facilitator.cards/cards/ten-ten-ten-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.facilitator.cards/cards/ten-ten-ten-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5 Whys</title>
+      <link>https://www.facilitator.cards/cards/five-whys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.facilitator.cards/cards/five-whys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counterfactuals</title>
+      <link>https://www.facilitator.cards/cards/counterfactuals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.facilitator.cards/cards/counterfactuals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dot Voting</title>
+      <link>https://www.facilitator.cards/cards/dot-voting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.facilitator.cards/cards/dot-voting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Echoed Dialogue</title>
+      <link>https://www.facilitator.cards/cards/echoed-dialogue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.facilitator.cards/cards/echoed-dialogue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>https://www.facilitator.cards/cards/frequently-asked-questions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.facilitator.cards/cards/frequently-asked-questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnet Statements</title>
+      <link>https://www.facilitator.cards/cards/magnet-statements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.facilitator.cards/cards/magnet-statements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mindmapping</title>
+      <link>https://www.facilitator.cards/cards/mindmapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.facilitator.cards/cards/mindmapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minute Papers</title>
+      <link>https://www.facilitator.cards/cards/minute-papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.facilitator.cards/cards/minute-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Engineering</title>
+      <link>https://www.facilitator.cards/cards/reverse-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.facilitator.cards/cards/reverse-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharing Withholds</title>
+      <link>https://www.facilitator.cards/cards/sharing-withholds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.facilitator.cards/cards/sharing-withholds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sticky Note Generator</title>
+      <link>https://www.facilitator.cards/cards/sticky-note-generator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.facilitator.cards/cards/sticky-note-generator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
