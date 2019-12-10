@@ -110,13 +110,14 @@ h4 {
 
 blockquote, cite {
     font-family: $theme-font;
-    margin-left:0;
-    margin-right:0;
+    color: $grey-700;
+    margin-left:auto;
+    margin-right:auto;
 }
     blockquote {
         font-weight:400;
-        padding: 0 1.5em 0 1.3em;
-        border-left: .2em solid $blue;
+        padding-left: 1.5em;
+        border-left: .25em solid $grey-300;
     }
 
     cite {
@@ -124,6 +125,15 @@ blockquote, cite {
     }
 
 
+hr {
+    display: block;
+    height: .25em;
+    border: none;
+    @extend .doodle-blue;
+    margin: 1.5em auto;
+    background-size: contain;
+    background-position: center;
+}
 /* Typog Classes */
 
 .dropcap {
