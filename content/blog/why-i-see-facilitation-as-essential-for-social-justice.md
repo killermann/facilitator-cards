@@ -4,8 +4,7 @@ description: There are lots of ways we can engage groups in learning. This one j
 author: Sam Killermann
 date: 2020-01-10T11:29:11-06:00
 canonical: https://www.samkillermann.com/facilitating-social-justice/
-categories:
-- Facilitator Perspectives
+categories: Facilitator Perspectives
 keywords: ["facilitation", "training", "facilitator resources", "facilitator tools", "facilitator cards", "training resources"]
 featured_image: img/blog/max-bender-unsplash.jpg
 photo_cred: Max Bender
@@ -152,4 +151,4 @@ Kidding. Please let me know if you think we're going in the wrong direction. _Ma
 
 ***
 
-This post was originally published on [Sam Killermann's blog]()
+This post was originally published on [Sam Killermann's blog](https://www.samkillermann.com/facilitating-social-justice/)
