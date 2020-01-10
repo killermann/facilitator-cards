@@ -2,7 +2,6 @@
 title: Why I See Facilitation as Essential to Living Social Justice
 description: There are lots of ways we can engage groups in learning. This one just happens to be inherently equitable and just.
 author: Sam Killermann
-type: post
 date: 2020-01-10T11:29:11-06:00
 canonical: https://www.samkillermann.com/facilitating-social-justice/
 categories:
