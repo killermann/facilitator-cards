@@ -6,7 +6,7 @@ type: post
 date: 2020-01-10T11:29:11-06:00
 canonical: https://www.samkillermann.com/facilitating-social-justice/
 categories:
-- Better Humaning
+- Facilitator Perspectives
 keywords: ["facilitation", "training", "facilitator resources", "facilitator tools", "facilitator cards", "training resources"]
 featured_image: img/blog/max-bender-unsplash.jpg
 photo_cred: Max Bender
