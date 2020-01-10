@@ -1,17 +1,18 @@
 ---
 title: Why I See Facilitation as Essential to Living Social Justice
-excerpt: There are lots of ways we can engage groups in learning. This one just happens to be inherently equitable and just.
+description: There are lots of ways we can engage groups in learning. This one just happens to be inherently equitable and just.
 author: Sam Killermann
 type: post
 date: 2020-01-10T11:29:11-06:00
-url: /facilitating-social-justice
-discussionId: facilitating-social-justice
+canonical: https://www.samkillermann.com/facilitating-social-justice/
 categories:
 - Better Humaning
-topics: 
-- SJMD Book
-- Social Justice Dogma
-- Facilitation
+keywords: ["facilitation", "training", "facilitator resources", "facilitator tools", "facilitator cards", "training resources"]
+featured_image: img/blog/max-bender-unsplash.jpg
+photo_cred: Max Bender
+images: 
+  - img/blog/max-bender-unsplash.jpg
+  - img/blog/lecturing-teaching-facilitating-agency-participation-1400.jpg
 ---
 
 In our book, [Unlocking the Magic of Facilitation](http://www.facilitationmagic.com), [Meg Bolger](https://megbolger.com) and I use one of the chapters to try to disentangle a few ways educators commonly engage groups in learning: lecturing, teaching, and facilitation.
@@ -46,8 +47,8 @@ And when it came to agency, our trainees kept honing in on the ways either the e
 
 Here's what emerged, as a graph:
 
-!["A graph showing lecturing, teaching, and facilitating, plotted based on how much agency and active participation is present, depending on if you're the educator or learner."](lecturing-teaching-facilitating-agency-participation-1400.jpg)
-<center><small>(<a target="_blank" rel="noopener noreferrer" href="lecturing-teaching-facilitating-agency-participation-1400.jpg">Click here to see the image larger</a>)</small></center><br/>
+!["A graph showing lecturing, teaching, and facilitating, plotted based on how much agency and active participation is present, depending on if you're the educator or learner."](img/blog/lecturing-teaching-facilitating-agency-participation-1400.jpg)
+<center><small>(<a target="_blank" rel="noopener noreferrer" href="https://facilitator.cards/img/blog/lecturing-teaching-facilitating-agency-participation-1400.jpg">Click here to see the image larger</a>)</small></center><br/>
 
 I'll explain.
 
@@ -149,3 +150,7 @@ Even though some of those things might not have "social justice" in their name, 
 I believe that every step we take to improve people's ability to engage others in the process of facilitation is a step toward living social justice. _And I won't let you tell me otherwise._
 
 Kidding. Please let me know if you think we're going in the wrong direction. _Maybe we can go around the circle and hear from everyone?_
+
+***
+
+This post was originally published on [Sam Killermann's blog]()
