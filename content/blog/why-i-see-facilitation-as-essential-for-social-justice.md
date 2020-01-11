@@ -151,4 +151,4 @@ Kidding. Please let me know if you think we're going in the wrong direction. _Ma
 
 ***
 
-This post was originally published on [Sam Killermann's blog](https://www.samkillermann.com/facilitating-social-justice/)
+This post was originally published on [Sam Killermann's Blog](https://www.samkillermann.com/facilitating-social-justice/).
