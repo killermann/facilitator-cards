@@ -38,7 +38,7 @@
 
 <!-- cards section-->
 <section id="home-cards" class="carousel overlapping">
-    {{ range sort ( where .Data.Pages "Section" "cards" ) }}
+    {{ range where .Site.RegularPages "Section" "cards" }}
     <div class="carousel-cell">
         <article class="flip-container ">
             <a class="flipper" href="{{ .Permalink }}" title="{{ .Title}}" aria-label="Visit {{ .Title}} Card">

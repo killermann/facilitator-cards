@@ -1,6 +1,5 @@
 /* Layout Classes */
 
-
 .smallpad {
     padding: 5px;
 }
@@ -54,7 +53,7 @@
 .black-bg { background-color: black; }
 
 
-.red { color: $red; }
+.red { color: $red !important; }
 .orange { color: $orange; }
 .green { color: $green; }
 .blue { color: $blue; }
