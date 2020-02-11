@@ -2,5 +2,13 @@
     {{ .Title }} | {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
+    <header class="page-title type-wrap text-center">
+        <h1 class="huge grey-500">{{ .Title }}</h1>
+        {{ with .Content }}
+        <div class="big-copy type-wrap entry-content">
+            {{ . }}
+        </div>
+        {{ end }}
+    </header>
     {{ partial "list.html" . }}
 {{ end }}
