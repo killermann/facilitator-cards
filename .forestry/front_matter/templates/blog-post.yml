@@ -29,3 +29,5 @@ fields:
 - type: text
   name: photo_cred
   label: photo_cred
+pages:
+- content/blog/how-to-facilitate-magnet-statements.md
