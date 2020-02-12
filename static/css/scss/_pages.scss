@@ -8,12 +8,30 @@
 }
 
 .content {
-    p, h2, h3, h4 {
+    p, h2, h3, h4, ul, ol, blockquote, address, pre, img {
         @extend .type-wrap;
+    }
+
+    p:first-of-type {
+        @extend .big-copy;
     }
 
     h2, h3, h4 {
         margin-bottom: 1.5rem;
+    }
+}
+
+li{
+    position: relative;
+
+    & > .svg-icon {
+        position: absolute;
+        left: -1.5em;
+        width: 2em;
+        text-align: right;
+        transform: translate(-50%,0%);
+        background: white;
+        margin: 0;
     }
 }
 

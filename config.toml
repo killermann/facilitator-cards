@@ -7,6 +7,9 @@ paginate = 99
 enableGitInfo = true
 copyright = "This work is Uncopyrighted"
 
+[markup.goldmark.renderer]
+    unsafe= true
+
 [author]
     name = "Sam Killermann & Meg Bolger"
 
