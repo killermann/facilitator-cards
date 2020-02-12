@@ -7,7 +7,7 @@ title = "Contact"
 +++
 You're looking for a way to reach us? Well, consider us flattered. The email address below will go to both Meg & Sam (the developers of Facilitator Cards). You can also find us on the socials.
 
-<strong class="theme-font huge teal">hello@facilitator.cards</strong>
+<strong class="theme-font big-copy teal">hello@facilitator.cards</strong>
 
 ## @FacilitatorCards on Social Media
 
