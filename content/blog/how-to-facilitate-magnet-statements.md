@@ -12,7 +12,7 @@ title = "How to Facilitate Magnet Statements"
 +++
 "Set up the space for easy movement. Prime the group with a topic or concept, and ask for one participant to make a related statement they believe. Other participants respond by moving closer or farther based on their agreement or disagreement. Ask for another statement, then repeat."
 
-That's the short explanation on the back of [Magnet Statements](https://www.facilitator.cards/cards/magnet-statements/), one of [the cards](https://www.facilitator.cards/cards/) in our [Facilitator Cards Preview Pack](https://www.facilitator.cards/preview-pack "Facilitator Cards Preview Pack") and [the forthcoming foundational deck](https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards "Facilitator cards on Kickstarter"). 
+That's the short explanation on the back of [Magnet Statements](https://www.facilitator.cards/cards/magnet-statements/), one of [the cards](https://www.facilitator.cards/cards/) in our [Facilitator Cards Preview Pack](https://www.facilitator.cards/preview-pack "Facilitator Cards Preview Pack") and [the forthcoming foundational deck](https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards "Facilitator cards on Kickstarter").
 
 For those of you who have never participated in a Magnet Statements process, that explanation might leave a bit to be desired. Allow me to help!
 
@@ -24,31 +24,41 @@ The ideal space is a wide-open area where participants can easily move past one 
 
 Set up by introducing the topic. You want a topic that is broad enough to allow for a lot of differences of interpretation and opinion, but narrow enough that it will spark strong reactions in your participants.
 
-After you’ve introduced the topic, give the instructions for the process: “We are going to be inviting you to make ‘magnet’ statements, one at a time, in response to this topic. After someone makes a statement that is true for them, we ask that you position yourself within the space as a response to how much you find yourself aligning with the statement. If you absolutely agree, move right next to them. The more you disagree, the further you should move away. We’ll then ask someone who isn’t in agreement to revise the statement such that it’s true for them. We’ll repeat this process several times, responding with our movement to different statements from new voices.”
+After you’ve introduced the topic, give the instructions for the process:
 
-Be sure to specify the ways you’ll be inviting people to make statements (e.g., “I’ll pick people to respond,” “Raise your hand if you want to make a statement”), and know that you can change up how you allow participants to respond throughout the process. In general, it’s good to hear from people who are on their own in the room, because their response will often shake up the arrangement of the room.
+> “We are going to be inviting you to make ‘magnet’ statements, one at a time, in response to this topic. After someone makes a statement that is true for them, we ask that you position yourself within the space as a response to how much you find yourself aligning with the statement. If you absolutely agree, move right next to them. The more you disagree, the further you should move away. We’ll then ask someone who isn’t in agreement to revise the statement such that it’s true for them. We’ll repeat this process several times, responding with our movement to different statements from new voices.”
+
+Be sure to specify the ways you’ll be inviting people to make statements. For example, you might say:
+
+* “I’ll pick people to respond.”
+* “Raise your hand if you want to make a statement."
+* "We'll invite anyone who feels compelled to make a statement after everyone has had a chance to move and settle."
+
+And know that you can change up how you allow participants to respond throughout the process (e.g., "From now on, I'll call on people to make statements.")
+
+In general, it’s good to hear from people who are on their own in the room, because their response will often shake up the arrangement of the room.
 
 Between each magnet statement, invite the participants to observe where they are and where the group is as a whole before the next person makes a statement.
 
-Let the _Magnet Statements_ run for as long as you like, until the group runs out of statements to make, or until you feel the energy waning.
+Let the _Magnet Statements_ run for as long as you like. Two good "we should wrap this up" signals are the group running out of statements to make (i.e., you see everyone looking to everyone else to say something), or you feel the energy waning (i.e., in between statements, people are shuffling, grumbling, or stop moving far apart in general).
 
 ## Why Full Group? Why Emotion?
 
-This tool provides a means for everyone in the group to participate and express their thoughts and opinions without actually needing to verbally respond. 
+This tool provides a means for everyone in the group to participate and express their thoughts and opinions without actually needing to verbally respond.
 
-The bigger the group the better, because you’ll have a wider range of statements shared, showcasing the variety of perspectives in the group through movement. 
+The bigger the group the better, because you’ll have a wider range of statements shared, showcasing the variety of perspectives in the group through movement.
 
 At times, there will be several islands of belief, which can suddenly transform into one unified continent. This allows the entire group to get a sense of where the rest of the group is quickly on a wide range of ideas.
 
 ## Magnet Statements for Small Groups
 
-For **small groups**, designate an area within your larger space for each group (e.g., divide the room into quadrants for four groups). 
+For **small groups**, designate an area within your larger space for each group (e.g., divide the room into quadrants for four groups).
 
-Change the goals slightly: challenge participants within each small group to make statements in response to the prompt that results in everyone in their group standing near them. 
+Change the goals slightly: challenge participants within each small group to make statements in response to the prompt that results in everyone in their group standing near them.
 
-As long as there’s disagreement (distance between participants), they need to keep revising the statement until everyone can agree (or they give up, or run out of time). 
+As long as there’s disagreement (distance between participants), they need to keep revising the statement until everyone can agree (or they give up, or run out of time).
 
-Once every small group is in agreement (or they run out of time), have them share the statement with the full group, and invite the other groups’ participants to respond with movement. Did you find a statement everyone in the room agrees with? 
+Once every small group is in agreement (or they run out of time), have them share the statement with the full group, and invite the other groups’ participants to respond with movement. Did you find a statement everyone in the room agrees with?
 
 You can repeat this several times, giving the groups short time limits (e.g., 3 minutes) for each prompt.
 
@@ -82,6 +92,6 @@ I hope the above explanation gives you enough fodder to get going. And I'd love 
 
 Personally, as someone who mostly does social justice facilitation (gender & sexuality education), Magnet Statements is a process I go to a lot in the beginning of working with a new group, to get a sense for what's on everyone's mind, and where they stand (literally!) in relation to the hot button issues.
 
-What have you seen work? What pitfalls have you encountered trying to facilitate Magnet Statements? 
+What have you seen work? What pitfalls have you encountered trying to facilitate Magnet Statements?
 
 Email me and Meg at [hello@facilitator.cards](mailto:hello@facilitator.cards?subject=Magnet%20Statements) with the subject "Magnet Statements" to let us know!
