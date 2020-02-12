@@ -14,3 +14,5 @@ fields:
 - type: textarea
   name: description
   label: description
+pages:
+- content/contact.md
