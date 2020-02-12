@@ -13,7 +13,7 @@ title = "How to Facilitate Magnet Statements"
 +++
 "Set up the space for easy movement. Prime the group with a topic or concept, and ask for one participant to make a related statement they believe. Other participants respond by moving closer or farther based on their agreement or disagreement. Ask for another statement, then repeat."
 
-That's the short explanation on the back of [Magnet Statements](https://www.facilitator.cards/cards/magnet-statements/), one of the cards in our [Facilitator Cards Preview Pack](https://www.facilitator.cards/preview-pack "Facilitator Cards Preview Pack") and [the forthcoming foundational deck](https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards "Facilitator cards on Kickstarter"). 
+That's the short explanation on the back of [Magnet Statements](https://www.facilitator.cards/cards/magnet-statements/), one of [the cards](https://www.facilitator.cards/cards/) in our [Facilitator Cards Preview Pack](https://www.facilitator.cards/preview-pack "Facilitator Cards Preview Pack") and [the forthcoming foundational deck](https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards "Facilitator cards on Kickstarter"). 
 
 For those of you who have never participated in a Magnet Statements process, that explanation might leave a bit to be desired. Allow me to help!
 
