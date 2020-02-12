@@ -9,9 +9,9 @@ You're looking for a way to reach us? Well, consider us flattered. The email add
 
 <strong class="theme-font medium"><a href="mailto:hello@facilitator.cards" target="_blank" rel="noopener noreferrer">hello@facilitator.cards</a></strong>
 
-## @FacilitatorCards on Social Media
+## On Social Media
 
-You can find us everywhere where are @FacilitatorCards:
+Everywhere you can find us, we're @FacilitatorCards:
 
 * [Instagram](https://instagram.com/facilitatorcards)
 * [Facebook](https://facebook/facilitatorcards)
