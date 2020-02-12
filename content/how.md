@@ -2,7 +2,7 @@
 title = "How to Use"
 date = "2018-12-14"
 priority = 2
-description = "Facilitator Cards are great for planning trainings, responding to the needs of your group, co-facilitating, and improvising when the unexpected comes up. Here's how you can put them into action."
+description = "Facilitator Cards are great for planning facilitations, responding to the needs of your group, co-facilitating, and improvising when the unexpected comes up. Here's how you can put them into action."
 +++
 
 We bet you could put these tools to work without any guidance from us. You’re a facilitator — a magician of the human psyche! A prophet of energy dips, corraller of down-the-rabbit-whole trips, and knower of when people have to pee. This is your wheelhouse, and we thank you for inviting us in.
