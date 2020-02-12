@@ -2,6 +2,7 @@
 title = "How to Use"
 date = "2018-12-14"
 priority = 2
+description = "Facilitator Cards are great for planning trainings, responding to the needs of your group, co-facilitating, and improvising when the unexpected comes up. Here's how you can put them into action."
 +++
 
 We bet you could put these tools to work without any guidance from us. You’re a facilitator — a magician of the human psyche! A prophet of energy dips, corraller of down-the-rabbit-whole trips, and knower of when people have to pee. This is your wheelhouse, and we thank you for inviting us in.
@@ -120,6 +121,7 @@ The white space on the front of is perhaps the most powerful aspect of Facilitat
 This erasable whitespace is a “Choose Your Own Adventure” book, map, and diary all wrapped into one.
 
 Here are some of the ways you can put that wonderful little square of white to work:
+
 - Write a keyword, agenda item, or activity name on each card to designate when you’re using that process in your facilitation.
 - Note timing, like how long you want the process to take, when you want it to start and end, or how many minutes you’re giving a particular step.
 - Jot down ways you’re tailoring that process, or mixing it up (e.g., changing the group configuration, swapping a prop).
