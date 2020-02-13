@@ -48,11 +48,15 @@
 
     <main id="body" class="content entry-content">
         {{ .Content }}
+        {{ if not .Params.disable_comments }}
+        <div class="comments-link type-wrap">
+            <strong class="theme-font"><a href="{{ .Permalink }}/#comments">Jump to Comments</a> 👇 </strong>
+        </div>
+        {{ end }}
     </main>
-
 </section>
 
-<footer class="blog-footer wrap grid  doodle-green">
+<section class="blog-footer wrap grid doodle-green">
 
     {{- if .Params.author -}}
     <aside class="sidebar card wow">
@@ -89,6 +93,27 @@
         </div>
         <script async data-uid="5450c9b287" src="https://facilitatorcards.ck.page/5450c9b287/index.js"></script>
     </div>
-</footer>
-
+</section>
+{{ if not .Params.disable_comments }}
+<style>
+    .just-comments.FCtheme {
+        --border-color: #d7e2e2;
+        --primary-bg-color: #fff;
+        --secondary-bg-color: #d7e2e2;
+        --secondary-bg-color-lighter: rgba(236,235,237,0.2);
+        --primary-color: #3ddbd4;
+        --primary-button-color:#001e1d;
+        --primary-color-lighter:  #272e2e;
+        --primary-color-light: #272e2e;
+        --primary-text-color: #001e1d;
+        --secondary-text-color: #66606b;
+        --outline-style: 3px var(--primary-color) dashed;
+    }
+  </style>
+<section id="comments" class="doodle-blue">
+    <h2 class="text-center grey-500">Have something to add?</h2>
+    <div class="just-comments FCtheme type-wrap" data-apikey="46245c50-2d0d-414a-bdf4-a726bf8dfe5b"></div>
+<script async src="https://just-comments.com/w2.js"></script>
+</section>
+{{ end }}
 {{ end }}
