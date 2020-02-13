@@ -11,11 +11,11 @@ You're looking for a way to reach us? Well, consider us flattered. The email add
 
 ## On Social Media
 
-We'd love to connect! Follow us via:
+We'd love to connect! Catch us on:
 
 * [Instagram](https://instagram.com/facilitatorcards)
 * [Facebook](https://facebook/facilitatorcards)
-* [Twitter](https://twitter.com/facilitatorcards)
+* [Twitter](https://twitter.com/facilitatorcard)
 
 ## Bulk Orders & Retail
 
