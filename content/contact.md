@@ -11,15 +11,15 @@ You're looking for a way to reach us? Well, consider us flattered. The email add
 
 ## On Social Media
 
-Everywhere you can find us, we're @FacilitatorCards:
+We'd love to connect! Catch us on:
 
 * [Instagram](https://instagram.com/facilitatorcards)
 * [Facebook](https://facebook/facilitatorcards)
-* [Twitter](https://twitter.com/facilitatorcards)
+* [Twitter](https://twitter.com/facilitatorcard)
 
 ## Bulk Orders & Retail
 
-Facilitator Cards are not yet available for retail resale or bulk orders. Check back after a (hopefully!) successful [Kickstarter](https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards), and we'll have information here for you. Oh, and speaking of which: **we will have a 10-pack option as a Kickstarter backer reward**, so jump on that if you want the best deal.
+Facilitator Cards are not yet available for retail resale or bulk orders. Check back after a (hopefully!) successful [Kickstarter](https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards), and we'll have information here for you. Oh, and speaking of which: **we will have 10-pack & 20-pack options for Kickstarter backer rewards**, so jump on that if you want the best deal.
 
 ## Mailing Address
 
