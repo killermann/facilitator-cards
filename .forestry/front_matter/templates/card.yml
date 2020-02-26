@@ -20,4 +20,5 @@ fields:
   name: props
   label: props
 pages:
+- content/cards/matchstick-convos.md
 - content/cards/test-card-1.md
