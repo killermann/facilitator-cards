@@ -40,10 +40,15 @@
 <section id="home-cards" class="carousel overlapping">
     {{ range where .Site.RegularPages "Section" "cards" }}
     <div class="carousel-cell">
-        <article class="flip-container ">
-            <a class="flipper" href="{{ .Permalink }}" title="{{ .Title}}" aria-label="Visit {{ .Title}} Card">
+        <article class="flip-container">
+            <div class="flipper">
                 {{ partial "card.html" . }}
-            </a>
+            </div>  
+            {{ if eq .Params.category "mystery" }}
+            <a class="absolute-link" href="https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards" target="_blank" rel="noopener noreferrer" title="This Card card will be revealed during our Kickstart Campaign"></a>
+            {{ else }}
+            <a class="absolute-link" href="{{ .Permalink }}" title="{{ .Title}}" aria-label="Visit {{ .Title}} Card"></a>
+            {{ end }}
         </article>
     </div>
     {{ end }}

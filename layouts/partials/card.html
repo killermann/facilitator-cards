@@ -1,45 +1,58 @@
-<div class="card front {{ .Params.category | urlize }}">
-    <header class="card-header">
-		<ul class="icon-list">
-			<li class="icon group-size">
-				<i class="fci fci-{{ .Params.group | urlize }}"></i>
-			</li>
-			<li class="icon category">
-				<i class="fci fci-{{ .Params.category | urlize }}"></i>
-			</li>
-			<li class="icon props">
-                {{ range .Params.props }}
-                <i class="fci fci-{{ . | urlize }}"></i>
-                {{ end }}
-			</li>
-		</ul>
-        <span class="title">
-            {{ .Title }}
-        </span>
-    </header>
-	<footer class="card-description">
-	</footer>
+<div class="front">
+	<div class="card {{ .Params.category | urlize }}">
+		<header class="card-header">
+		{{ if eq .Params.category "mystery" }}
+		{{ else }}
+			<ul class="icon-list">
+				<li class="icon group-size">
+					<i class="fci fci-{{ .Params.group | urlize }}"></i>
+				</li>
+				<li class="icon category">
+					<i class="fci fci-{{ .Params.category | urlize }}"></i>
+				</li>
+				<li class="icon props">
+					{{ range .Params.props }}
+					<i class="fci fci-{{ . | urlize }}"></i>
+					{{ end }}
+				</li>
+			</ul>
+			<span class="title">
+					{{ .Title }}
+			</span>			
+		{{ end }}
+		</header>
+		<footer class="card-description">
+		</footer>
+	</div>
 </div>
-<div class="card back {{ .Params.category | urlize }}">
+<div class="back">
+	<div class="card {{ .Params.category | urlize }}">
     <header class="card-header">
-		<ul class="icon-list">
-			<li class="icon group-size">
-				<i class="fci fci-{{ .Params.group | urlize }}"></i>
-			</li>
-			<li class="icon category">
-				<i class="fci fci-{{ .Params.category | urlize }}"></i>
-			</li>
-			<li class="icon props">
-                {{ range .Params.props }}
-                <i class="fci fci-{{ . | urlize }}"></i>
-                {{ end }}
-			</li>
-		</ul>
-        <span class="title">
-            {{ .Title }}
-        </span>
+		{{ if eq .Params.category "mystery" }}
+		<span class="theme-font">This card will be revealed during our Kickstarter. Click for deets.</span>
+		{{ else }}
+			<ul class="icon-list">
+				<li class="icon group-size">
+					<i class="fci fci-{{ .Params.group | urlize }}"></i>
+				</li>
+				<li class="icon category">
+					<i class="fci fci-{{ .Params.category | urlize }}"></i>
+				</li>
+				<li class="icon props">
+						{{ range .Params.props }}
+						<i class="fci fci-{{ . | urlize }}"></i>
+						{{ end }}
+				</li>
+			</ul>
+			<span class="title">
+					{{ .Title }}
+			</span>
+		{{ end }}
     </header>
 	<footer class="card-description">
 		<p>{{ .Params.description }}</p>
 	</footer>
 </div>
+	
+</div>
+

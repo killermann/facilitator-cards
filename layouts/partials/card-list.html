@@ -1,13 +1,16 @@
 <div class="cards">
-
     {{ range (where .Data.Pages "Section" "cards") }}
-
-    <article class="flip-container">
-        <a class="flipper" href="{{ .Permalink }}" title="{{ .Title }}">
-            {{ partial "card.html" . }}
-        </a>
-    </article>
-
+    <div class="card-cell">
+        <article class="flip-container">
+            <div class="flipper">
+                {{ partial "card.html" . }}
+            </div>  
+            {{ if eq .Params.category "mystery" }}
+            <a class="absolute-link" href="https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards" target="_blank" rel="noopener noreferrer" title="This Card card will be revealed during our Kickstart Campaign"></a>
+            {{ else }}
+            <a class="absolute-link" href="{{ .Permalink }}" title="{{ .Title}}" aria-label="Visit {{ .Title}} Card"></a>
+            {{ end }}
+        </article>
+    </div>
     {{ end }}
 </div>
-{{ partial "pagination.html" . }}

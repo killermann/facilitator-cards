@@ -2,21 +2,18 @@
 
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
 	[data-tilt] {
-		-webkit-transform: none !important;
 		transform: none !important;
 	}
 }
 
 @supports (-ms-ime-align:auto){
 	[data-tilt] {
-		-webkit-transform: none !important;
 		transform: none !important;
 	}
 }
 
 @media only screen and (max-width: 600px) {
 	[data-tilt], .tilt, .aside .card {
-		-webkit-transform: none !important;
 		transform: none !important;
 
 		.js-tilt-glare {
