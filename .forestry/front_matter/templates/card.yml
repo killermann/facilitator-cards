@@ -19,3 +19,5 @@ fields:
 - type: list
   name: props
   label: props
+pages:
+- content/cards/test-card-1.md
