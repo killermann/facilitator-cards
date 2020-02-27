@@ -8,6 +8,5 @@ group: full-group
 props:
 - writing-utensils
 - index-cards
-draft: true
 
 ---
