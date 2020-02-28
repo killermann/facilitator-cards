@@ -8,6 +8,5 @@ group: individual
 props:
 - paper
 - writing-utensils
-draft: true
 
 ---
