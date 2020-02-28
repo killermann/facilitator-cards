@@ -9,6 +9,5 @@ group: 'individual '
 props:
 - tape
 - custom
-draft: true
 
 ---
