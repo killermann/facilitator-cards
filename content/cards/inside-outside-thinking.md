@@ -7,7 +7,7 @@ description: View your situation or decision from two angles, the "insider" and 
 category: execution
 group: full-group
 props:
+- markers
 - flipchart
-- marker
 
 ---
