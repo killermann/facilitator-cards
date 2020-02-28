@@ -21,6 +21,7 @@ fields:
   label: props
 pages:
 - content/cards/100-bad-ideas.md
+- content/cards/4-squares.md
 - content/cards/analogizing.md
 - content/cards/concentric-circles.md
 - content/cards/fill-in-the-model.md
