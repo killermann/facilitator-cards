@@ -10,6 +10,5 @@ group: Individual
 props:
 - Flipchart
 - Markers
-draft: true
 
 ---
