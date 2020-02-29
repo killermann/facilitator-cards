@@ -95,3 +95,36 @@
         }
     }
 }
+
+#footer-menu {
+    background: hsla(177%, 10%, 6%, 1);
+    color: hsla(177%, 10%, 76%, 1);
+    font-size: 1.2em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    ul {
+        list-style: none;
+        margin: 0;
+
+        li {
+            padding: 0;
+            margin-bottom: 1em;
+        }
+    }
+
+    a {
+        color: hsla(177%, 10%, 76%, 1);
+        border-bottom: .12em solid hsla(177%, 10%, 46%, 1);
+
+        &.teal {
+            color: $blue;
+            border-color: $blue;
+        }
+
+        &:hover {
+            border-color: white;
+        }
+    }
+}
