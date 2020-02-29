@@ -1,6 +1,6 @@
 +++
 date = ""
-description = ""
+description = "Terms of service for Facilitator Cards. "
 draft = true
 priority = nil
 title = "Terms of Service"
