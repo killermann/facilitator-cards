@@ -16,3 +16,4 @@ fields:
   label: description
 pages:
 - content/contact.md
+- content/terms-of-service.md
