@@ -179,10 +179,13 @@
 /* FOR COMING SOON CARDS */
 
 .card.mystery {
-	background: $grey-900;
+	background: $grey-100;
+	
 
 	.card-header {
 		position: relative;
+		color: $grey-700;
+		text-align: center;
 		
 		&:after {
 			position: absolute;
