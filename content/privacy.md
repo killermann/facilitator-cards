@@ -11,11 +11,9 @@ When you visit the Site, we automatically collect certain information about your
 
 We collect Device Information using the following technologies:
 
-    - “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org.](http://www.allaboutcookies.org. "http://www.allaboutcookies.org.")
-
-    - “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
-
-    - “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
+- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org.](http://www.allaboutcookies.org. "http://www.allaboutcookies.org.")
+- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+- “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
 Additionally, when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, email address, and phone number.  We refer to this information as “Order Information.”
 
@@ -48,11 +46,9 @@ As described above, we use your Personal Information to provide you with targete
 
 You can opt out of targeted advertising by visiting the sites that you use and choosing to opt out:
 
-    FACEBOOK - [https://www.facebook.com/settings/?tab=ads](https://www.facebook.com/settings/?tab=ads "https://www.facebook.com/settings/?tab=ads")
-
-    GOOGLE - [https://www.google.com/settings/ads/anonymous](https://www.google.com/settings/ads/anonymous "https://www.google.com/settings/ads/anonymous")
-
-    BING - [https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads](https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads "https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads")
+- FACEBOOK - [https://www.facebook.com/settings/?tab=ads](https://www.facebook.com/settings/?tab=ads "https://www.facebook.com/settings/?tab=ads")
+- GOOGLE - [https://www.google.com/settings/ads/anonymous](https://www.google.com/settings/ads/anonymous "https://www.google.com/settings/ads/anonymous")
+- BING - [https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads](https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads "https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads")
 
 Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at:  [http://optout.aboutads.info/.](http://optout.aboutads.info/. "http://optout.aboutads.info/.")
 
