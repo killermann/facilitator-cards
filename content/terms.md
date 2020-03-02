@@ -1,12 +1,7 @@
 +++
-date = ""
-description = "Terms of service for Facilitator Cards. "
-draft = true
-priority = nil
-title = "Terms of Service"
-
+description = "Facilitator Cards Terms of Service"
+title = "Terms"
 +++
-# Terms of Service
 
 ## OVERVIEW
 
@@ -44,7 +39,7 @@ We are not responsible if information made available on this site is not accurat
 
 This site may contain certain historical information. Historical information, necessarily, is not current and is provided for your reference only. We reserve the right to modify the contents of this site at any time, but we have no obligation to update any information on our site. You agree that it is your responsibility to monitor changes to our site.
 
-# SECTION 4 - MODIFICATIONS TO THE SERVICE AND PRICES
+## SECTION 4 - MODIFICATIONS TO THE SERVICE AND PRICES
 
 Prices for our products are subject to change without notice.
 
@@ -52,8 +47,7 @@ We reserve the right at any time to modify or discontinue the Service (or any pa
 
 We shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Service.
 
-##   
-SECTION 5 - PRODUCTS OR SERVICES (if applicable)
+## SECTION 5 - PRODUCTS OR SERVICES (if applicable)
 
 Certain products or services may be available exclusively online through the website. These products or services may have limited quantities and are subject to return or exchange only according to our Return Policy.
 
@@ -107,7 +101,7 @@ Occasionally there may be information on our site or in the Service that contain
 
 We undertake no obligation to update, amend or clarify information in the Service or on any related website, including without limitation, pricing information, except as required by law. No specified update or refresh date applied in the Service or on any related website, should be taken to indicate that all information in the Service or on any related website has been modified or updated.
 
-# SECTION 12 - PROHIBITED USES
+## SECTION 12 - PROHIBITED USES
 
 In addition to other prohibitions as set forth in the Terms of Service, you are prohibited from using the site or its content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; or (k) to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet. We reserve the right to terminate your use of the Service or any related website for violating any of the prohibited uses.
 

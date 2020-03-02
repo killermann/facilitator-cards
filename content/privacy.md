@@ -1,12 +1,7 @@
 +++
-date = ""
 description = "The privacy policy for Facilitator Cards."
-draft = true
-priority = nil
 title = "Privacy Policy"
-
 +++
-# Facilitator Cards Privacy Policy
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from [http://Facilitator.cards](http://Facilitator.cards "http://Facilitator.cards") (the “Site”).
 
@@ -22,11 +17,7 @@ We collect Device Information using the following technologies:
 
     - “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-TK \[\[INSERT DESCRIPTIONS OF OTHER TYPES OF TRACKING TECHNOLOGIES USED\]\]
-
 Additionally, when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, email address, and phone number.  We refer to this information as “Order Information.”
-
-TK \[\[INSERT ANY OTHER INFORMATION YOU COLLECT:  OFFLINE DATA, PURCHASED MARKETING DATA/LISTS\]\]
 
 When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
@@ -40,19 +31,16 @@ Screen our orders for potential risk or fraud; and
 
 When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
-TK (Meg added) Update you when additional resources are available including guides, booster packs, and other Facilitator Cards related materials.
+Update you when additional resources are available including guides, booster packs, and other Facilitator Cards related materials.
 
 We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-TK \[\[INSERT OTHER USES OF DEVICE INFORMATION, INCLUDING:  ADVERTISING/RETARGETING\]\]
 
 ## SHARING YOUR PERSONAL INFORMATION
 
 We share your Personal Information with third parties to help us use your Personal Information, as described above.  We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  [https://www.google.com/intl/en/policies/privacy/.](https://www.google.com/intl/en/policies/privacy/. "https://www.google.com/intl/en/policies/privacy/.")  You can also opt-out of Google Analytics here:  [https://tools.google.com/dlpage/gaoptout.](https://tools.google.com/dlpage/gaoptout. "https://tools.google.com/dlpage/gaoptout.")
 
 Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
-
-TK \[\[INCLUDE IF USING REMARKETING OR TARGETED ADVERTISING\]\]
 
 ## BEHAVIORAL ADVERTISING
 
