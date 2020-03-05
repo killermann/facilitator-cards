@@ -1,3 +1,10 @@
 
 content/blog/.DS_Store
 static/.DS_Store
+.DS_Store
+content/.DS_Store
+layouts/.DS_Store
+static/img/.DS_Store
+static/img/blog/.DS_Store
+static/img/doodles/.DS_Store
+static/img/icons/.DS_Store
