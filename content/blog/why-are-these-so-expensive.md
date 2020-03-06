@@ -2,7 +2,7 @@
 author = "Sam Killermann"
 categories = "About the Cards"
 date = 2020-03-05T17:56:00Z
-description = "A response to a comment on our kickstarter, and explanation of what went into the price of the Facilitator Cards."
+description = "A response to a comment on our Kickstarter, and explanation of what went into the price of the Facilitator Cards."
 draft = true
 featured_image = ""
 images = []
@@ -19,13 +19,13 @@ Making physical things is hard. Pricing them "correctly" feels impossible.
 
 What we replied to the comment is most of what I have to say in general. And because it sums up a lot of our thoughts, I'm going to to share that now, in case anyone is similarly wondering (with some additional parentheticals).
 
-**To anyone who thinks these seem great, but the price seems high, we hear you:** the price seemed high to us, too. 
+**To anyone who thinks these seem great, but the price seems high, we hear you:** the price seemed high to us, too.
 
 And we’d love to be able to do everything we’re committing to — in regards to the quality of [the cards](/cards/), caring for the environment, humane manufacturing, and level of service — and sell the deck for $29. We just can’t.
 
 To give you some context, we didn’t land on a price by saying, “How much should these cost?” or “What’s an amount people will pay?”
 
-Instead, the questions we asked, over the course of two years, started with, “What would it take to make a deck that’s reusable and useful in every facilitation, and lasts as long as we remain in the field?” 
+Instead, the questions we asked, over the course of two years, started with, “What would it take to make a deck that’s reusable and useful in every facilitation, and lasts as long as we remain in the field?”
 
 (That led us down roads of different materials, and first [dry erase then wet erase compatibility](https://www.facilitator.cards/blog/testing-and-changing-directions/))
 
@@ -43,17 +43,17 @@ Once we had those answers, we asked “How can we make sure the entire process, 
 
 Finally, “What additional resources will facilitators need to ensure these make it into their bag for every training? How can we fundamentally support the ways people facilitate?”
 
-(This is our sweet spot. It's where we thrive. We know that some people don't even need an instruction manual, and for others an instruction manual barely scratches the surface. Above all, we know people need community.)
+(This is our sweet spot. It's where we thrive. We know that some people don't even need an instruction manual, and for others an instruction manual barely scratches the surface. Above all, we know people need and want community.)
 
 These questions reflect the _checking all the boxes_ post we wrote about a year ago here on the blog, ["The Questions We Asked Every Potential Manufacturer."](https://www.facilitator.cards/blog/questions-we-asked-manufacturers/ "The Questions We Asked Every Facilitator Cards Manufacturer") It was a long process, and required talking to dozens of companies that would (or would not) be part of our supply chain.
 
-And eventually we got to a place where we could say, "Yes!" 
+And eventually, we got to a place where we could say, "Yes!"
 
 It would just take extra measures, extra intention on our part, and extra cost.
 
 After we had all those answers, we added up what it would cost to deliver on those promises, and that’s where the price came from. It wasn’t something we set upfront. It was something we discovered.
 
-Ultimately, we’d love for these to be less expensive. Honestly, we’d prefer to give them away for free. 
+Ultimately, we’d love for these to be less expensive. Honestly, we’d prefer to give them away for free.
 
 That’s why we have the DIY deck (get the [preview pack for free right now ](/preview-pack)to test that out), and won’t be restricting anyone’s usage of the materials we create. We’re gifting all of that to the commons — unconditionally — for anyone to use for whom the cost of the deck is a barrier.
 
