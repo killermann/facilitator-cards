@@ -102,6 +102,10 @@
                 max-width:33.333vw;
                 width: 33.333vw;
                 z-index:0;
+
+                &:hover {
+                    z-index: 499;
+                }
             }
 
             &.with-caption {
