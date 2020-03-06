@@ -13,11 +13,11 @@ title = "Why Are These So Expensive?"
 +++
 In a comment [on our Kickstarter](https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards "Facilitator Cards Kickstarter"), Doug wrote, "Looks like a good product, but the price seems high. This would be much better at $29."
 
-We appreciated seeing this publicly, and for Doug to comment it (and back the project!). It perfectly synopsized the trickiness of a process we've been in the midst of for over a year now, and something that I've spent a lot of time trying to figure out.
+We appreciated seeing this publicly, and for Doug to comment it (and back the project!), because it perfectly synopsized the trickiness of a private process we've been in the midst of for over a year now, and something that I've spent a lot of time trying to figure out.
 
 Making physical things is hard. Pricing them "correctly" feels impossible.
 
-What we replied to the comment is most of what I have to say in general. It sums up our thoughts here.
+What we replied to the comment is most of what I have to say in general. And because it sums up a lot of our thoughts, I'm going to to share that now, in case anyone is similarly wondering.
 
 **To anyone who thinks these seem great, but the price seems high, we hear you:** the price seemed high to us, too. 
 
