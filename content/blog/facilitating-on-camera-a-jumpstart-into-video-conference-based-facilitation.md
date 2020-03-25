@@ -7,7 +7,7 @@ featured_image = "/img/blog/aleksi-tappura-unsplash.jpg"
 images = ["/img/blog/video-facilitation-tip-lighting.jpg", "/img/blog/video-facilitation-tip-eye-contact.jpg"]
 keywords = ["remote facilitation", "facilitator resources", "online facilitation", "zoom facilitation", "virtual facilitation", "facilitator", "facilitation"]
 photo_cred = "Aleksi Tappura"
-title = "Facilitating On-Camera: A Jumpstart into Video-Conference-Based Facilitation"
+title = "Facilitating On-Camera: A Jumpstart into Video-Based Facilitation"
 
 +++
 By now, you’ve probably heard of [Zoom](https://zoom.us/). In the past two weeks I’ve participated in more video chat sessions and webinars than in the past two years combined. Can you relate?
