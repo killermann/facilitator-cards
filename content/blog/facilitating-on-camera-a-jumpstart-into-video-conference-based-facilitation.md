@@ -58,11 +58,11 @@ The biggest perk of using Google: **a lot of people already have an account**. A
 
 If you want more features and to host huge groups, **you’ll need to pay for Meet, but it’s only $6 / month** (for up to 100-person video meetings), and there’s a good chance you’re already paying for it even if you haven’t used it yet (if you have G Suite for Business), so it’s essentially free in that case.
 
-**Meet and Hangouts don’t support easy breakout groups**, and far fewer user interface features than Zoom. You can find workarounds for this (e.g., host several meetings simultaneously, and treat them like virtual rooms you move between), but they’re workarounds.
+**Meet and Hangouts don’t support easy breakout groups**, and have generally far fewer user interface features than Zoom. You can find workarounds for this (e.g., host several meetings simultaneously, and treat them like virtual rooms you move between), but they’re workarounds.
 
-Works in any modern browser, so **people don’t need to download any software** (but mobile apps are available for the major operating systems, and result in a far better experience)
+The Google video apps work in any modern browser, so **people don’t need to download any software** (mobile apps are also available for the major operating systems, and result in a better experience than using a browser on your phone).
 
-### [**Skype**](https://www.skype.com/)**: free, ubiquitous, but feels like trying to smush a circle peg into a square hole**
+### [**Skype**](https://www.skype.com/)**: free, ubiquitous, but feels like trying to smush a square peg into a circle hole**
 
 **I’m sure you’ve heard of Skype. You probably have an account.** Those are both huge perks.
 
