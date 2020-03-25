@@ -30,5 +30,6 @@ fields:
   name: photo_cred
   label: photo_cred
 pages:
+- content/blog/facilitating-on-camera-a-jumpstart-into-video-conference-based-facilitation.md
 - content/blog/how-to-facilitate-magnet-statements.md
 - content/blog/why-are-these-so-expensive.md
