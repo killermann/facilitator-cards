@@ -168,6 +168,7 @@ I’m going to end my offerings there, and pass you off to other good hands. Her
 
 In the next few days, I’ll be following up this post with a series about all things virtual facilitation. Here are some topics I’ll be covering:
 
+* [**Modifying In-Person Activities for Virtual Facilitation**](https://www.facilitator.cards/blog/modifying-in-person-activities-for-virtual-facilitation/) **✅**
 * Adding New Tools & Tech to Your Belt (with things like Airtable, Miro, Mural, etc.)
 * Using Analog Tools in Digital Spaces (talking about things we are already comfy with, like sticky notes, and how they still work with slight changes)
 * Virtual Facilitation Pedagogy (What needs to change? What doesn't?)
