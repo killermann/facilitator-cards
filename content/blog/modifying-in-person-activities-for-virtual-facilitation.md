@@ -1,13 +1,12 @@
 +++
-author = ""
-categories = ""
-date = ""
-description = ""
-draft = true
+author = "Sam Killermann"
+categories = "Resources"
+date = 2020-03-27T19:44:00Z
+description = "From the digital tools you'll need, to the questions to ask yourself as you're rewriting your agendas, here's a great place to start if you're transitioning from physical rooms to Zoom."
 featured_image = "/img/blog/thomas-jensen-unsplash.jpg"
 images = []
 keywords = ["virtual facilitation activities", "virtual facilitation tools", "facilitator tools", "remote facilitation", "facilitation resources", "facilitators", "virtual facilitation"]
-photo_cred = ""
+photo_cred = "Thomas Jensen"
 title = "Modifying In-Person Activities for Virtual Facilitation"
 
 +++
