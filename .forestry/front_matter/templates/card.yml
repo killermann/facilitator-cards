@@ -35,7 +35,6 @@ pages:
 - content/cards/fishbowls.md
 - content/cards/generate-a-list.md
 - content/cards/go-around-share.md
-- content/cards/heads-down-hands-up-1.md
 - content/cards/heads-down-hands-up.md
 - content/cards/i-know-vs-i-wonder-lists.md
 - content/cards/make-a-model.md
@@ -47,6 +46,7 @@ pages:
 - content/cards/poster-presentation.md
 - content/cards/pro-con-lists.md
 - content/cards/rank-order-voting.md
+- content/cards/red-team-vs-blue-team.md
 - content/cards/silent-reflection.md
 - content/cards/spectrum-questions.md
 - content/cards/strike-a-pose.md
