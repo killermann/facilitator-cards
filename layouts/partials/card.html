@@ -17,7 +17,9 @@
 				</li>
 			</ul>
 			<span class="title">
+				{{ if not (eq .Params.group "blank") }}
 					{{ .Title }}
+				{{ end }}
 			</span>			
 		{{ end }}
 		</header>
@@ -45,12 +47,16 @@
 				</li>
 			</ul>
 			<span class="title">
+				{{ if not (eq .Params.group "blank") }}
 					{{ .Title }}
+				{{ end }}
 			</span>
 		{{ end }}
     </header>
 	<footer class="card-description">
+		{{ if not (eq .Params.group "blank") }}
 		<p>{{ .Params.description }}</p>
+		{{ end }}
 	</footer>
 </div>
 	
