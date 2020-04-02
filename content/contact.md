@@ -19,7 +19,7 @@ We'd love to connect! Catch us on:
 
 ## Bulk Orders & Retail
 
-Facilitator Cards are not yet available for retail resale or bulk orders. Check back after a (hopefully!) successful [Kickstarter](https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards), and we'll have information here for you. Oh, and speaking of which: **we will have 10-pack & 20-pack options for Kickstarter backer rewards**, so jump on that if you want the best deal.
+Facilitator Cards are available for pre-orders and the deck will ship in September. Please contact [hello@facilitator.cards](mailto: hello@facilitator.cards) to place a bulk pre-order or to inquire about our Authorized Reseller program.
 
 ## Mailing Address
 
