@@ -19,7 +19,7 @@ We'd love to connect! Catch us on:
 
 ## Bulk Orders & Retail
 
-Facilitator Cards are available for pre-orders and the deck will ship in September. Please contact [hello@facilitator.cards](mailto: hello@facilitator.cards) to place a bulk pre-order or to inquire about our Authorized Reseller program.
+Facilitator Cards are available for pre-orders and the decks will ship in September. Please contact [hello@facilitator.cards](mailto: hello@facilitator.cards) to place a bulk pre-order or to inquire about our Authorized Reseller program.
 
 ## Mailing Address
 
