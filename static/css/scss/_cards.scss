@@ -64,18 +64,20 @@
 	}
 
 	.card-header {
+		padding-bottom: .9em;
 		display:flex;
+		max-height: 8.09em;
 		flex-direction: column;
 		justify-content: space-between;
 		color: white;
 
 		.icon-list {
 			justify-content: space-between;
-			font-size:2em;
+			font-size:1.6em;
 		}
 
 		.props {
-			.fci + .fci {margin-top:.5em;}
+			.fci + .fci {margin-top:.42em;}
 		}
 
 		.title {
@@ -84,8 +86,8 @@
 			font-size:1.2em;
 			text-transform: uppercase;
 			margin:0;
-			max-width:80%;
-			line-height:1.2;
+			max-width:85%;
+			line-height:1.05;
 			hyphens: none;
 		}
 
@@ -94,8 +96,8 @@
 	.card-description {
 		p {
 			margin:0;
-			font-size:.8em;
-			line-height:1.15;
+			font-size:.9em;
+			line-height:1.2;
 			text-align: justify;
 			hyphens: auto;
 			color:black;
