@@ -70,6 +70,7 @@
 		flex-direction: column;
 		justify-content: space-between;
 		color: white;
+		max-height: 8.09em;
 
 		.icon-list {
 			justify-content: space-between;
@@ -96,8 +97,8 @@
 	.card-description {
 		p {
 			margin:0;
-			font-size:.9em;
-			line-height:1.2;
+			font-size:.85em;
+			line-height:1.15;
 			text-align: justify;
 			hyphens: auto;
 			color:black;
@@ -188,6 +189,7 @@
 		position: relative;
 		color: $grey-700;
 		text-align: center;
+		max-height: 8.09em;
 		
 		&:after {
 			position: absolute;
@@ -210,5 +212,13 @@
 	}
 	.card-description, .title {
 		display: none;
+	}
+}
+
+.kind-page.type-cards {
+	.content {
+		p, h1, h2, h3, h4, ul, ol, blockquote, address, pre, img {
+			margin-left: 0;
+		}
 	}
 }
