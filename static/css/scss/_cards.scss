@@ -64,7 +64,9 @@
 	}
 
 	.card-header {
+		padding-bottom: .9em;
 		display:flex;
+		max-height: 8.09em;
 		flex-direction: column;
 		justify-content: space-between;
 		color: white;
@@ -85,7 +87,7 @@
 			font-size:1.2em;
 			text-transform: uppercase;
 			margin:0;
-			max-width:80%;
+			max-width:85%;
 			line-height:1.05;
 			hyphens: none;
 		}
