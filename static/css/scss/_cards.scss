@@ -210,3 +210,11 @@
 		display: none;
 	}
 }
+
+.kind-page.type-cards {
+	.content {
+		p, h1, h2, h3, h4, ul, ol, blockquote, address, pre, img {
+			margin-left: 0;
+		}
+	}
+}

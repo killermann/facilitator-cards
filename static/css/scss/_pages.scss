@@ -8,17 +8,17 @@
 }
 
 .content {
-    p, h2, h3, h4, ul, ol, blockquote, address, pre, img {
+    p, h1, h2, h3, h4, ul, ol, blockquote, address, pre, img {
         @extend .type-wrap;
-    }
-
-    p:first-of-type {
-        @extend .big-copy;
     }
 
     h2, h3, h4 {
         margin-bottom: 1.5rem;
     }
+}
+
+.blog .content p:first-of-type {
+    @extend .big-copy;
 }
 
 .content, .entry-content {
@@ -230,7 +230,9 @@ li{
     .sidebar {
         display: flex;
         flex-wrap: wrap;
+        flex: none;
         justify-content: center;
+        align-items: flex-start;
     }
 
     .card {
@@ -245,7 +247,6 @@ li{
         font-size: 1.4em;
         font-family: $theme-font;
         line-height:1.2;
-        margin-left: .2em;
     }
 
     .card-aside {

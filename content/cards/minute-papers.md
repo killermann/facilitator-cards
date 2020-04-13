@@ -1,9 +1,25 @@
 ---
-title: Minute Papers
-description: Provide a prompt (or several) and give everyone a short amount of time (e.g., one minute) to write their response. The papers can be collected, or shared with other participants, or not. Just let the participants know your intentions before they write.
-category: Emotion
-group: Individual
-props:
-- Paper
-- Writing Utensils
+title: "Minute Papers"
+group: "Individual"
+for: "Emotion"
+prop_1: "Paper"
+prop_2: "Writing Utensils"
+prop_3: ""
+explanation: "Provide a prompt (or several) and give everyone a short amount of time (e.g., one minute) to write their response. The papers can be collected, or shared with other participants, or not. Just let the participants know your intentions before they write."
+longer_context: ""
+external_link: ""
+general_notes: ""
+pairs_with: ""
+attribution_notes: "Popularized by being in a book called  \"Classroom Assessment Techniques\". Summary here - https://vcsa.ucsd.edu/_files/assessment/resources/50_cats.pdf "
+why_these_categories: ""
+modifying_group: ""
+modifying_for: ""
+excels_at: ""
+use_when: ""
+not_when: ""
+stacks: ""
+zooming: ""
+
 ---
+
+Provide a prompt (or several) and give everyone a short amount of time (e.g., one minute) to write their response. The papers can be collected, or shared with other participants, or not. Just let the participants know your intentions before they write.
