@@ -68,14 +68,15 @@
 		flex-direction: column;
 		justify-content: space-between;
 		color: white;
+		max-height: 8.09em;
 
 		.icon-list {
 			justify-content: space-between;
-			font-size:2em;
+			font-size:1.6em;
 		}
 
 		.props {
-			.fci + .fci {margin-top:.5em;}
+			.fci + .fci {margin-top:.42em;}
 		}
 
 		.title {
@@ -85,7 +86,7 @@
 			text-transform: uppercase;
 			margin:0;
 			max-width:80%;
-			line-height:1.2;
+			line-height:1.05;
 			hyphens: none;
 		}
 
@@ -94,7 +95,7 @@
 	.card-description {
 		p {
 			margin:0;
-			font-size:.8em;
+			font-size:.85em;
 			line-height:1.15;
 			text-align: justify;
 			hyphens: auto;
@@ -186,6 +187,7 @@
 		position: relative;
 		color: $grey-700;
 		text-align: center;
+		max-height: 8.09em;
 		
 		&:after {
 			position: absolute;
