@@ -4,24 +4,42 @@
 {{ define "main" }}
 <section id="single-card" class="single grid wrap">
     <aside class="sidebar wow">
-        {{ partial "card.html" . }}
+        <div class="sticky">
+            {{ partial "card.html" . }}
+        </div>
     </aside>
-    <header class="content">
-        <h1>
-            {{ .Title }}
-        </h1>
-        <p class="card-blurb">
-            {{ .Params.description }}
-        </p>
-    </header>
-    <aside class="card-aside meta flex flex-col">
-
-    </aside>
-
     <main class="content">
-        {{ .Content }}
-    </main>
+        <header>
+            <h1>{{ .Title }}</h1>
+            <p class="card-blurb">{{ .Params.explanation }}</p>
+        </header>
+        <!-- <div class="content entry-content">
+        {{ if .Params.general_notes }}
+            <h2>General Notes</h2>
+            {{- $markdown := .Params.general_notes | markdownify -}}
+            {{ if not ( findRE "<[h|p][^>]*>" $markdown ) }}
+                <p>{{ $markdown }}</p>
+            {{ else }}
+                {{ $markdown }}
+            {{ end }}
+        {{ end }}    
+        {{ if .Params.zooming }}
+            <h2>Virtual Facilitation</h2>
+            <p>Everything you need to facilitate this process in a virtual meeting using Zoom or a platform with similar features.</p>
+            {{- $markdown := .Params.zooming | markdownify -}}
+            {{ if not ( findRE "<[h|p][^>]*>" $markdown ) }}
+                <p>{{ $markdown }}</p>
+            {{ else }}
+                {{ $markdown }}
+            {{ end }}
+        {{ end }}
+        </div> -->
 
+    </main>
+    <aside class="card-aside meta flex flex-col">
+    
+    </aside>
+   
 
 </section>
 {{ end }}

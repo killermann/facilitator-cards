@@ -1,19 +1,19 @@
 <div class="front">
-	<div class="card {{ .Params.category | urlize }}">
+	<div class="card {{ .Params.for | urlize }}">
 		<header class="card-header">
-		{{ if eq .Params.category "mystery" }}
+		{{ if eq .Params.for "mystery" }}
 		{{ else }}
 			<ul class="icon-list">
 				<li class="icon group-size">
 					<i class="fci fci-{{ .Params.group | urlize }}"></i>
 				</li>
 				<li class="icon category">
-					<i class="fci fci-{{ .Params.category | urlize }}"></i>
+					<i class="fci fci-{{ .Params.for | urlize }}"></i>
 				</li>
 				<li class="icon props">
-					{{ range .Params.props }}
-					<i class="fci fci-{{ . | urlize }}"></i>
-					{{ end }}
+					{{ with .Params.prop_1 }}<i class="fci fci-{{ . | urlize }}"></i>{{ end }}
+ 					{{ with .Params.prop_2 }}<i class="fci fci-{{ . | urlize }}"></i>{{ end }}
+ 					{{ with .Params.prop_3 }}<i class="fci fci-{{ . | urlize }}"></i>{{ end }}
 				</li>
 			</ul>
 			<span class="title">
@@ -28,9 +28,9 @@
 	</div>
 </div>
 <div class="back">
-	<div class="card {{ .Params.category | urlize }}">
+	<div class="card {{ .Params.for | urlize }}">
     <header class="card-header">
-		{{ if eq .Params.category "mystery" }}
+		{{ if eq .Params.for "mystery" }}
 		<span class="theme-font">This card will be revealed during our Kickstarter. Click for deets.</span>
 		{{ else }}
 			<ul class="icon-list">
@@ -38,12 +38,12 @@
 					<i class="fci fci-{{ .Params.group | urlize }}"></i>
 				</li>
 				<li class="icon category">
-					<i class="fci fci-{{ .Params.category | urlize }}"></i>
+					<i class="fci fci-{{ .Params.for | urlize }}"></i>
 				</li>
 				<li class="icon props">
-						{{ range .Params.props }}
-						<i class="fci fci-{{ . | urlize }}"></i>
-						{{ end }}
+					{{ with .Params.prop_1 }}<i class="fci fci-{{ . | urlize }}"></i>{{ end }}
+					{{ with .Params.prop_2 }}<i class="fci fci-{{ . | urlize }}"></i>{{ end }}
+					{{ with .Params.prop_3 }}<i class="fci fci-{{ . | urlize }}"></i>{{ end }}
 				</li>
 			</ul>
 			<span class="title">
@@ -55,7 +55,7 @@
     </header>
 	<footer class="card-description">
 		{{ if not (eq .Params.group "blank") }}
-		<p>{{ .Params.description }}</p>
+		<p>{{ .Params.explanation }}</p>
 		{{ end }}
 	</footer>
 </div>

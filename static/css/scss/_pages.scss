@@ -8,7 +8,7 @@
 }
 
 .content {
-    p, h2, h3, h4, ul, ol, blockquote, address, pre, img {
+    p, h1, h2, h3, h4, ul, ol, blockquote, address, pre, img {
         @extend .type-wrap;
     }
 
@@ -227,10 +227,12 @@ li{
         margin-top:0;
     }
 
-    .sidebar {
+    .sidebar .sticky {
         display: flex;
         flex-wrap: wrap;
+        flex: none;
         justify-content: center;
+        align-items: flex-start;
     }
 
     .card {
@@ -245,7 +247,6 @@ li{
         font-size: 1.4em;
         font-family: $theme-font;
         line-height:1.2;
-        margin-left: .2em;
     }
 
     .card-aside {
