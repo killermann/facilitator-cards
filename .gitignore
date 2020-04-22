@@ -1,4 +1,3 @@
-
 content/blog/.DS_Store
 static/.DS_Store
 .DS_Store
@@ -23,3 +22,4 @@ static/img/.DS_Store
 layouts/.DS_Store
 static/img/.DS_Store
 prepros-6.config
+data/cards.csv
