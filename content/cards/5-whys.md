@@ -5,7 +5,7 @@ for: "Clarification"
 prop_1: "Sticky Notes"
 prop_2: "Writing Utensils"
 prop_3: ""
-explanation: "Generate a question that everyone in the group is going to answer. For example, “What makes a great...?” Everyone should write their first answer on a sticky note. Then they should answer “Why  is that true?”, sticking that answer on top of their first answer. Repeat this process (at least) 5 times."
+explanation: "Provide all participants with 5 sticky notes, then ask a big question or highlight an important sticking point. For example, “What makes a great...?” Everyone is to write their answer to the question on a sticky note. Keep answers short. Next, have them stick a new note on top and answer \"Why?\" (i.e., Why is that true? Why is that so? Why did you answer that way?). Repeat this process 3 more times."
 longer_context: ""
 external_link: "http://gamestorming.com/the-5-whys/"
 general_notes: "This could also be done with scrap paper rather than sticky notes."
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Generate a question that everyone in the group is going to answer. For example, “What makes a great...?” Everyone should write their first answer on a sticky note. Then they should answer “Why  is that true?”, sticking that answer on top of their first answer. Repeat this process (at least) 5 times.
+Provide all participants with 5 sticky notes, then ask a big question or highlight an important sticking point. For example, “What makes a great...?” Everyone is to write their answer to the question on a sticky note. Keep answers short. Next, have them stick a new note on top and answer "Why?" (i.e., Why is that true? Why is that so? Why did you answer that way?). Repeat this process 3 more times.

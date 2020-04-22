@@ -5,7 +5,7 @@ for: "Execution"
 prop_1: "Flipchart"
 prop_2: "Markers"
 prop_3: ""
-explanation: "Using separate flipchart sheets, generate a pro (in favor of) list and con (against) list regarding a potential plan, goal, or strategy. Welcome all suggestions (from the petty to the massive) and record them on the appropriate list."
+explanation: "Using separate flipchart sheets, generate a pro (in favor of) list and con (against) list regarding your potential option. Welcome all suggestions (from the petty to the massive) and record them on the appropriate list, scribing any share that is unique. Continue until you run out of input, time, or the decision becomes obvious."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Using separate flipchart sheets, generate a pro (in favor of) list and con (against) list regarding a potential plan, goal, or strategy. Welcome all suggestions (from the petty to the massive) and record them on the appropriate list.
+Using separate flipchart sheets, generate a pro (in favor of) list and con (against) list regarding your potential option. Welcome all suggestions (from the petty to the massive) and record them on the appropriate list, scribing any share that is unique. Continue until you run out of input, time, or the decision becomes obvious.

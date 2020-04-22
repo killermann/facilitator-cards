@@ -5,7 +5,7 @@ for: "Ideation"
 prop_1: "Flipchart"
 prop_2: "Markers"
 prop_3: ""
-explanation: "Given a particular idea, concept, or problem, generate two lists from the group and scribe them on flipcharts: one list of the things you know (\"I know...\"), the other of the things you wonder (\"I wonder...\")."
+explanation: "Given a particular idea, question, concept, or problem, generate two lists from the group and scribe them on flipcharts: one list of the things you know (bulleted statements starting with \"I know...\"), the other of the things you wonder (\"I wonder...\"). Keep going until you run out of time, flipchart space, or ideas."
 longer_context: ""
 external_link: "https://www.youtube.com/watch?v=UsZwdUvFnSc&feature=youtu.be&t=34m13s"
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Given a particular idea, concept, or problem, generate two lists from the group and scribe them on flipcharts: one list of the things you know ("I know..."), the other of the things you wonder ("I wonder...").
+Given a particular idea, question, concept, or problem, generate two lists from the group and scribe them on flipcharts: one list of the things you know (bulleted statements starting with "I know..."), the other of the things you wonder ("I wonder..."). Keep going until you run out of time, flipchart space, or ideas.

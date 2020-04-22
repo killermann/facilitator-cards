@@ -5,7 +5,7 @@ for: "Emotion"
 prop_1: "None"
 prop_2: ""
 prop_3: ""
-explanation: "With the group arranged in a circle, deliver a prompt or question for the group to respond to. Start with a volunteer, a participant to your left or right, or choose a participant at random. Everyone is expected to share."
+explanation: "With the group arranged in a circle, deliver a prompt or question for the group to respond to. Start with a volunteer, a participant to your left or right, or choose a participant at random. Everyone is expected to share. Repeat with new prompts as many times as you\'d like, and you can mix up the order with new rules."
 longer_context: ""
 external_link: "https://www.playmeo.com/activities/debriefing-activities/whip-around/"
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-With the group arranged in a circle, deliver a prompt or question for the group to respond to. Start with a volunteer, a participant to your left or right, or choose a participant at random. Everyone is expected to share.
+With the group arranged in a circle, deliver a prompt or question for the group to respond to. Start with a volunteer, a participant to your left or right, or choose a participant at random. Everyone is expected to share. Repeat with new prompts as many times as you'd like, and you can mix up the order with new rules.

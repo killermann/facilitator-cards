@@ -28,7 +28,6 @@ copyright = "This work is Uncopyrighted"
 [[menu.main]]
     name = "Cards"
     url = "/cards/"
-    class = "button"
     weight = 1
 
 [[menu.main]]

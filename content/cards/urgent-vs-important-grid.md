@@ -5,7 +5,7 @@ for: "Execution"
 prop_1: "Flipchart"
 prop_2: "Sticky Notes"
 prop_3: "Markers"
-explanation: "Create a grid with four quadrants. Label one axis “Important” and the other “Urgent,” such that the top right quadrant is very important and very urgent (and bottom left is not important, not urgent). Use sticky notes to place to-dos or tasks into the appropriate quadrant."
+explanation: "Create a grid with four quadrants. Label one axis “Important” and the other “Urgent,” such that the top right quadrant is very important and very urgent (and bottom left is not important, not urgent). Use sticky notes to place individual to-dos or tasks into the appropriate quadrant."
 longer_context: ""
 external_link: "https://seedsforchange.org.uk/tools.pdf"
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Create a grid with four quadrants. Label one axis “Important” and the other “Urgent,” such that the top right quadrant is very important and very urgent (and bottom left is not important, not urgent). Use sticky notes to place to-dos or tasks into the appropriate quadrant.
+Create a grid with four quadrants. Label one axis “Important” and the other “Urgent,” such that the top right quadrant is very important and very urgent (and bottom left is not important, not urgent). Use sticky notes to place individual to-dos or tasks into the appropriate quadrant.

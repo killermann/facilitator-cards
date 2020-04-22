@@ -5,7 +5,7 @@ for: "Emotion"
 prop_1: "None"
 prop_2: ""
 prop_3: ""
-explanation: "Set up the space for easy movement. Prime the group with a topic or concept, and ask for one participant to make a related statement they believe. Other participants respond by moving closer or farther based on their agreement or disagreement. Ask for another statement, then repeat."
+explanation: "Set up the space for easy movement. Prime the group with a topic or concept, and ask for one participant to make a related statement they believe, (e.g., \"I think more clearly when I am alone.”). Other participants respond by moving closer or farther based on their agreement or disagreement with the speaker. Once everyone has moved, ask for another statement, then repeat."
 longer_context: "The ideal space is a wide-open area where participants can easily move past one another, be at varying distances, and reposition themselves without navigating around obstacles. If you need to move chairs, tables, or other furniture in the room, be sure to do this before giving instructions or you will likely have to repeat yourself.
 
 Set up by introducing the topic.  You want a topic that is broad enough to allow for a lot of differences of interpretation and opinion, but narrow enough that it will spark strong reactions in your participants.
@@ -54,4 +54,4 @@ zooming: ""
 
 ---
 
-Set up the space for easy movement. Prime the group with a topic or concept, and ask for one participant to make a related statement they believe. Other participants respond by moving closer or farther based on their agreement or disagreement. Ask for another statement, then repeat.
+Set up the space for easy movement. Prime the group with a topic or concept, and ask for one participant to make a related statement they believe, (e.g., "I think more clearly when I am alone.”). Other participants respond by moving closer or farther based on their agreement or disagreement with the speaker. Once everyone has moved, ask for another statement, then repeat.

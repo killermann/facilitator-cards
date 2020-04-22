@@ -5,11 +5,7 @@
             <div class="flipper">
                 {{ partial "card.html" . }}
             </div>  
-            {{ if eq .Params.category "mystery" }}
-            <a class="absolute-link" href="https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards" target="_blank" rel="noopener noreferrer" title="This Card card will be revealed during our Kickstart Campaign"></a>
-            {{ else }}
             <a class="absolute-link" href="{{ .Permalink }}" title="{{ .Title}}" aria-label="Visit {{ .Title}} Card"></a>
-            {{ end }}
         </article>
     </div>
     {{ end }}

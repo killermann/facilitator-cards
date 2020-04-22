@@ -5,7 +5,7 @@ for: "Clarification"
 prop_1: "Flipchart"
 prop_2: "Markers"
 prop_3: ""
-explanation: "Prepare a numbered list of frequently asked questions on flip chart or somewhere the entire group can see. Ask the group what question(s) they\'d like to discuss or get answered (have them shout out the number of the question). Answer the question. Repeat."
+explanation: "Prepare a numbered list of \"frequently asked questions\" that the entire group can read. These can be questions you often answer for groups like this, things people are wondering but afraid to ask, or unanswered questions surfaced earlier. Ask for a volunteer to shout a number of a question they want answered. Read the question aloud then answer it yourself, or have a volunteer try. Repeat."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Prepare a numbered list of frequently asked questions on flip chart or somewhere the entire group can see. Ask the group what question(s) they'd like to discuss or get answered (have them shout out the number of the question). Answer the question. Repeat.
+Prepare a numbered list of "frequently asked questions" that the entire group can read. These can be questions you often answer for groups like this, things people are wondering but afraid to ask, or unanswered questions surfaced earlier. Ask for a volunteer to shout a number of a question they want answered. Read the question aloud then answer it yourself, or have a volunteer try. Repeat.

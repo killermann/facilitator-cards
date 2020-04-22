@@ -5,7 +5,7 @@ for: "Clarification"
 prop_1: "Index Cards"
 prop_2: "Writing Utensils"
 prop_3: ""
-explanation: "Pass out index cards to all of the participants (at least one per person). Ask everyone to write a question on the card, or to scribble something else, then collect all of the cards. Read the question aloud, answer it, repeat."
+explanation: "Ask the group to write questions they have on their index cards (if they don’t have a question, instruct them to scribble something else), then collect all the cards. Optionally, sort the questions prior to answering them (to remove duplicates, sequence them, filter questions out, etc.). Read the question aloud, answer it, repeat."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Pass out index cards to all of the participants (at least one per person). Ask everyone to write a question on the card, or to scribble something else, then collect all of the cards. Read the question aloud, answer it, repeat.
+Ask the group to write questions they have on their index cards (if they don’t have a question, instruct them to scribble something else), then collect all the cards. Optionally, sort the questions prior to answering them (to remove duplicates, sequence them, filter questions out, etc.). Read the question aloud, answer it, repeat.

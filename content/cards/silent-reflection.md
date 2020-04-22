@@ -5,7 +5,7 @@ for: "Emotion"
 prop_1: "Paper"
 prop_2: "Writing Utensils"
 prop_3: ""
-explanation: "With several prepared questions, instruct the group to write the each question down, then tell them you\'ll give them a few minutes to answer them. The answers can be collected, or shared with other participants, or not. Just let the participants know your intentions before they write."
+explanation: "With several prepared questions or prompts, instruct the participants to write each one down on a sheet of paper. Then give them a few minutes to silently answer them in writing. The answers can be collected, or shared with other participants, or not. State your intentions for sharing before they start writing."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-With several prepared questions, instruct the group to write the each question down, then tell them you'll give them a few minutes to answer them. The answers can be collected, or shared with other participants, or not. Just let the participants know your intentions before they write.
+With several prepared questions or prompts, instruct the participants to write each one down on a sheet of paper. Then give them a few minutes to silently answer them in writing. The answers can be collected, or shared with other participants, or not. State your intentions for sharing before they start writing.

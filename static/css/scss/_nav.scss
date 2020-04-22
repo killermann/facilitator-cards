@@ -48,37 +48,50 @@
     z-index: 999;
     @extend .rainbow-bg;
     margin: 0;
-    padding: 2px;
+    padding: 2px 2px 2vh;
     border-top: .1em solid hsla(177%, 15%, 60%, .3);
 
-    ul {
+    .menu {
         justify-content: space-between;
         width: 100%;
         text-align:center;
         align-items: stretch;
         padding-left: .5em;
+    }
 
-        li {
-            align-items: stretch;
-            display: flex;
-        }
-
-        .menu-cta {
-            margin: 2px;
-            display: flex;
-
-            a {
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                padding: .3em .8em;
-            }
-        }
+    .menu-item {
+        align-items: stretch;
+        display: flex;
+        margin-right: 2vw;
 
         a {
             padding:.75em .2em;
             font-weight: 600;
             line-height: 1.1;
+        }
+
+        &.Contact {
+            @extend .mobile-hide;
+        }
+
+        @include mq('tablet') {
+            
+            a {
+                font-weight: 400;
+                padding: .75em 0;
+            }
+        }
+    }
+
+    .menu-cta {
+        margin: 2px;
+        display: flex;
+
+        a {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: .3em .8em;
         }
     }
 
@@ -89,11 +102,6 @@
         padding: 0;
         border: none;
         min-width: 20em;
-
-        ul a {
-            font-weight: 400;
-            padding: .75em 0;
-        }
     }
 }
 

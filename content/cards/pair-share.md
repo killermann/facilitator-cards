@@ -5,7 +5,7 @@ for: "Ideation"
 prop_1: "None"
 prop_2: ""
 prop_3: ""
-explanation: "Get with one other person and discuss the question or questions at hand. If you want to you can also give specific limitations around the way participants share by saying they have two minutes uninterrupted to share and the listener can\'t respond. Then the listener has two minutes uninterrupted to share."
+explanation: "Have pairs discuss ideas in response to a question, prompt, or concept. Optionally, give specific instructions for how they converse (e.g., one participant shares, the other listens, then swap). Once they\'ve both had time to talk, have volunteers from each pair share their favorite ideas surfaced with the full group. Repeat with new prompts as many times as you\'d like."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Get with one other person and discuss the question or questions at hand. If you want to you can also give specific limitations around the way participants share by saying they have two minutes uninterrupted to share and the listener can't respond. Then the listener has two minutes uninterrupted to share.
+Have pairs discuss ideas in response to a question, prompt, or concept. Optionally, give specific instructions for how they converse (e.g., one participant shares, the other listens, then swap). Once they've both had time to talk, have volunteers from each pair share their favorite ideas surfaced with the full group. Repeat with new prompts as many times as you'd like.

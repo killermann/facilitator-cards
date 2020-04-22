@@ -1,3 +1,10 @@
+.mobile-hide {
+    display: none;
+
+    @include mq('tablet') {
+        display: inherit;
+    }
+}
 /* Layout Classes */
 
 .smallpad {

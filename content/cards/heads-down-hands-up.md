@@ -5,7 +5,7 @@ for: "Execution"
 prop_1: "None"
 prop_2: ""
 prop_3: ""
-explanation: "Ask participants to put their heads down (or close their eyes). Then prompt the group with \"yes or no\" questions, asking participants to raise their hands to symbolize a vote for \"yes.\" Count the hands raised."
+explanation: "Ask the group to put their heads down (or close their eyes). Prompt them with a \"yes or no\" question, asking participants to raise their hands to symbolize a vote for \"yes.\" Count the hands raised. Can be repeated with several prompts in a row. Optionally, sharing the results in between votes might inform the next decision."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Ask participants to put their heads down (or close their eyes). Then prompt the group with "yes or no" questions, asking participants to raise their hands to symbolize a vote for "yes." Count the hands raised.
+Ask the group to put their heads down (or close their eyes). Prompt them with a "yes or no" question, asking participants to raise their hands to symbolize a vote for "yes." Count the hands raised. Can be repeated with several prompts in a row. Optionally, sharing the results in between votes might inform the next decision.

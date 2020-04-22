@@ -5,7 +5,7 @@ for: "Ideation"
 prop_1: "Paper"
 prop_2: "Writing Utensils"
 prop_3: ""
-explanation: "Pass out paper and writing utensils. Have participants divide their page into four quadrants. Then give them a distinct prompt for each square, asking them to respond in writing, drawing, key words, etc."
+explanation: "Have participants divide their page into four quadrants. Give them a distinct prompt or question for each quadrant to respond to in writing, drawing, key words, etc. Either have them write down each prompt in the squares all at once, or deliver them sequentially. In both cases, provide ample time for participants to respond to all four. State your intentions for sharing before they start."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Pass out paper and writing utensils. Have participants divide their page into four quadrants. Then give them a distinct prompt for each square, asking them to respond in writing, drawing, key words, etc.
+Have participants divide their page into four quadrants. Give them a distinct prompt or question for each quadrant to respond to in writing, drawing, key words, etc. Either have them write down each prompt in the squares all at once, or deliver them sequentially. In both cases, provide ample time for participants to respond to all four. State your intentions for sharing before they start.

@@ -5,7 +5,7 @@ for: "Ideation"
 prop_1: "Paper"
 prop_2: "Writing Utensils"
 prop_3: ""
-explanation: "Ask participants to draw a caricature (i.e., an exaggerated, unrealistic depiction) of a concept, emphasizing the aspects  they believe are the most important. Have them present their drawings, or work as a group to draw a team drawing composed of the individual caricatures."
+explanation: "Ask pairs to draw a caricature (i.e., an exaggerated, unrealistic depiction) of a concept, emphasizing the aspects they believe are the most important. After they\'ve had enough time to finish, have them present their drawings, or work as a group to construct a team drawing composed of features of the individual caricatures. State your intentions for sharing before they start."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Ask participants to draw a caricature (i.e., an exaggerated, unrealistic depiction) of a concept, emphasizing the aspects  they believe are the most important. Have them present their drawings, or work as a group to draw a team drawing composed of the individual caricatures.
+Ask pairs to draw a caricature (i.e., an exaggerated, unrealistic depiction) of a concept, emphasizing the aspects they believe are the most important. After they've had enough time to finish, have them present their drawings, or work as a group to construct a team drawing composed of features of the individual caricatures. State your intentions for sharing before they start.

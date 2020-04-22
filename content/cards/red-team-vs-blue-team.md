@@ -5,7 +5,7 @@ for: "Execution"
 prop_1: "None"
 prop_2: ""
 prop_3: ""
-explanation: "Appoint (randomly or strategically) members of your group to be on the \"Red Team,\" and play devil\'s advocates to your current plans. What flaws do they see? What vulnerabilities can they exploit? What responses does Blue Team have in light of these issues?"
+explanation: "Designate (randomly or strategically) some members of your group to be on the \"Red Team,\" and play devil\'s advocates to your current plans. Empower them to point out the flaws they see. What vulnerabilities can they exploit? What responses does the Blue Team (believers in the current plan) have to the issues they surface?"
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Appoint (randomly or strategically) members of your group to be on the "Red Team," and play devil's advocates to your current plans. What flaws do they see? What vulnerabilities can they exploit? What responses does Blue Team have in light of these issues?
+Designate (randomly or strategically) some members of your group to be on the "Red Team," and play devil's advocates to your current plans. Empower them to point out the flaws they see. What vulnerabilities can they exploit? What responses does the Blue Team (believers in the current plan) have to the issues they surface?

@@ -5,7 +5,7 @@ for: "Execution"
 prop_1: "Flipchart"
 prop_2: "Markers"
 prop_3: ""
-explanation: "Regarding a plan or strategy, ask the group to highlight your strengths (known advantages), weaknesses (known disadvantages), opportunities (potential benefits), and threats (potential setbacks). Dedicate a flipchart sheet to each dimension. Aim for breadth over depth."
+explanation: "Regarding a potential option, ask the group to highlight your strengths (known advantages), weaknesses (known disadvantages), opportunities (potential benefits), and threats (potential setbacks). Dedicate a flipchart sheet to each dimension. Aim for breadth over depth, and continue until you have at least several bullets in each category, or run out of time."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Regarding a plan or strategy, ask the group to highlight your strengths (known advantages), weaknesses (known disadvantages), opportunities (potential benefits), and threats (potential setbacks). Dedicate a flipchart sheet to each dimension. Aim for breadth over depth.
+Regarding a potential option, ask the group to highlight your strengths (known advantages), weaknesses (known disadvantages), opportunities (potential benefits), and threats (potential setbacks). Dedicate a flipchart sheet to each dimension. Aim for breadth over depth, and continue until you have at least several bullets in each category, or run out of time.

@@ -5,7 +5,7 @@ for: "Emotion"
 prop_1: "None"
 prop_2: ""
 prop_3: ""
-explanation: "Arrange your participants into two concentric circles such that everyone in the inner circle has a partner in the outer circle. Provide a discussion prompt or question, allow the partners to share, then have the outside circle move one participant to right. Repeat."
+explanation: "Arrange your group into two concentric circles such that everyone in the inner circle has a partner in the outer circle (with odd-numbered groups, fill in as a facilitator). Provide a discussion prompt or question, allow partners to converse, then have the outside circle move one participant to the right. Repeat several times with new prompts."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Arrange your participants into two concentric circles such that everyone in the inner circle has a partner in the outer circle. Provide a discussion prompt or question, allow the partners to share, then have the outside circle move one participant to right. Repeat.
+Arrange your group into two concentric circles such that everyone in the inner circle has a partner in the outer circle (with odd-numbered groups, fill in as a facilitator). Provide a discussion prompt or question, allow partners to converse, then have the outside circle move one participant to the right. Repeat several times with new prompts.

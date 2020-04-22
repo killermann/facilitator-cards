@@ -5,7 +5,7 @@ for: "Execution"
 prop_1: "None"
 prop_2: ""
 prop_3: ""
-explanation: "Regarding potential plans or actions, have pairs discuss: How would you would feel about it in 10 minutes? How would you feel about it in 10 months? How would you feel about it in 10 years? Repeat with different ideas. Ask participants to share with the full group the things they heard that felt poignant."
+explanation: "Regarding potential options, have pairs discuss how they would feel about their ideal candidate in 10 minutes? How would they feel about it in 10 months? How would they feel about it in 10 years? Repeat with different options. Ask participants to share with the full group the things they heard from their partner that felt poignant, or revelations that influenced their decision-making."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -23,4 +23,4 @@ zooming: ""
 
 ---
 
-Regarding potential plans or actions, have pairs discuss: How would you would feel about it in 10 minutes? How would you feel about it in 10 months? How would you feel about it in 10 years? Repeat with different ideas. Ask participants to share with the full group the things they heard that felt poignant.
+Regarding potential options, have pairs discuss how they would feel about their ideal candidate in 10 minutes? How would they feel about it in 10 months? How would they feel about it in 10 years? Repeat with different options. Ask participants to share with the full group the things they heard from their partner that felt poignant, or revelations that influenced their decision-making.
