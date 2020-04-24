@@ -5,7 +5,7 @@ for: "Execution"
 prop_1: "None"
 prop_2: ""
 prop_3: ""
-explanation: "Give each group a fact, potential options for the future, or something that has already happened, and ask them to consider how things would be different if that weren\'t true, you did the opposite, or that didn\'t happen. What alternative timelines do you discover? What can you learn from these counterfactuals that can inform your decision-making now?"
+explanation: "Give each group a fact, plan for the future, or something that has already happened, and ask them to consider how things would be different if that weren\'t true, if you did the opposite, or if that hadn\'t happened. What alternative timelines do you discover? What can you learn from these counterfactuals that can inform your decision-making now?"
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -23,4 +23,4 @@ zooming: ""
 
 ---
 
-Give each group a fact, potential options for the future, or something that has already happened, and ask them to consider how things would be different if that weren't true, you did the opposite, or that didn't happen. What alternative timelines do you discover? What can you learn from these counterfactuals that can inform your decision-making now?
+Give each group a fact, plan for the future, or something that has already happened, and ask them to consider how things would be different if that weren't true, if you did the opposite, or if that hadn't happened. What alternative timelines do you discover? What can you learn from these counterfactuals that can inform your decision-making now?

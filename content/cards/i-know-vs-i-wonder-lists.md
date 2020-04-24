@@ -1,5 +1,5 @@
 ---
-title: "\"I Know\" vs. \"I Wonder\" Lists "
+title: "\"I Know\" vs. \"I Wonder\" Lists"
 group: "Full Group"
 for: "Ideation"
 prop_1: "Flipchart"

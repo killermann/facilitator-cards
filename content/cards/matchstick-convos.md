@@ -5,7 +5,7 @@ for: "Ideation"
 prop_1: "Custom"
 prop_2: ""
 prop_3: ""
-explanation: "Everyone in the group gets a certain number of small objects (e.g., match sticks, paper clips) that will be tokens they spend each time they respond. Make a rule before you start the discussion whether or not you’ll allow gifting of tokens among participants. Continue discussion until all tokens are spent."
+explanation: "Everyone in the group gets a certain number of small objects (e.g., matchsticks, paper clips) to use as tokens they spend every time they respond. Before you start the discussion, make a rule about whether or not you’ll allow gifting of tokens among participants. Continue discussion until all tokens are spent."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Everyone in the group gets a certain number of small objects (e.g., match sticks, paper clips) that will be tokens they spend each time they respond. Make a rule before you start the discussion whether or not you’ll allow gifting of tokens among participants. Continue discussion until all tokens are spent.
+Everyone in the group gets a certain number of small objects (e.g., matchsticks, paper clips) to use as tokens they spend every time they respond. Before you start the discussion, make a rule about whether or not you’ll allow gifting of tokens among participants. Continue discussion until all tokens are spent.

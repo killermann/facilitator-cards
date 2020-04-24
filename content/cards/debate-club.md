@@ -5,7 +5,7 @@ for: "Clarification"
 prop_1: "None"
 prop_2: ""
 prop_3: ""
-explanation: "Choose two participants (or small teams) to argue on behalf of different ideas, or opposite sides of the same idea. Give one side an allotted amount of time to make their case. Give the other side the same amount of time. Then give time for open debate and retorts. Optionally, surface questions from the rest of the group for them to respond to."
+explanation: "Choose two participants (or small teams) to argue on behalf of different ideas or opposite sides of the same idea. Give one side a set amount of time to make their case. Give the other side the same amount of time. Then give time for open debate and retorts. Optionally, solicit questions from the rest of the group for them to respond to."
 longer_context: ""
 external_link: ""
 general_notes: "Inspired by \"Cage Match\" in Art of Gathering"
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Choose two participants (or small teams) to argue on behalf of different ideas, or opposite sides of the same idea. Give one side an allotted amount of time to make their case. Give the other side the same amount of time. Then give time for open debate and retorts. Optionally, surface questions from the rest of the group for them to respond to.
+Choose two participants (or small teams) to argue on behalf of different ideas or opposite sides of the same idea. Give one side a set amount of time to make their case. Give the other side the same amount of time. Then give time for open debate and retorts. Optionally, solicit questions from the rest of the group for them to respond to.

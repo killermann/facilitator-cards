@@ -5,7 +5,7 @@ for: "Execution"
 prop_1: "Sticky Notes"
 prop_2: "Custom"
 prop_3: ""
-explanation: "Write down potential options on individual stickies and put them on a surface. Have the group “dot vote” by placing their dots (circle stickers, marker dots, etc.) on the option(s) they support. You can vary the number of votes per participant, number of votes allowed per idea, and more based on your goals. Can be repeated for several rounds, removing options that don\'t hit a critical number of votes."
+explanation: "Write down potential options on individual stickies and put them on a surface. Have the group “dot vote” by placing their dots (circle stickers, marker dots, etc.) on the option(s) they support. You can vary the number of votes per participant, number of votes allowed per idea, etc. based on your goals. Can be repeated for several rounds, removing options that don\'t hit a critical number of votes."
 longer_context: "To prep for *Dot Voting* take ideas and plans the group has identified they want to vote on and write them up on sticky notes, one idea per sticky note. Place these sticky notes in a place that is easily accessible for the group. Everyone will need to be able to see and to interact with the sticky notes. Writing with markers can help make the writing more bold and legible from a distance.
 
 Before inviting participants to vote, read out the sticky notes out loud for everyone to hear (or ask a participant to volunteer to do this). You can do this in addition to having all the participants read the sticky notes before voting. Regardless of your method of review, do not have people begin voting until everyone has had a chance to review the sticky notes they’ll be voting on.
@@ -52,4 +52,4 @@ zooming: ""
 
 ---
 
-Write down potential options on individual stickies and put them on a surface. Have the group “dot vote” by placing their dots (circle stickers, marker dots, etc.) on the option(s) they support. You can vary the number of votes per participant, number of votes allowed per idea, and more based on your goals. Can be repeated for several rounds, removing options that don't hit a critical number of votes.
+Write down potential options on individual stickies and put them on a surface. Have the group “dot vote” by placing their dots (circle stickers, marker dots, etc.) on the option(s) they support. You can vary the number of votes per participant, number of votes allowed per idea, etc. based on your goals. Can be repeated for several rounds, removing options that don't hit a critical number of votes.

@@ -5,7 +5,7 @@ for: "Ideation"
 prop_1: "Sticky Notes"
 prop_2: "Markers"
 prop_3: ""
-explanation: "The epitome of \"no idea is a bad idea.\" Ask the group to generate 100 (literally, or as many as you can) ideas, one per sticky note, in response to a prompt or concept. Explain that the ideas can be bad, unpractical, or otherwise worthless. The only rule is they need to be unique. Set a time limit, or keep going until you hit your count goal."
+explanation: "The epitome of \"no idea is a bad idea.\" Ask the group to generate one hundred (literally, or just as many as you can) ideas, one per sticky note, in response to a prompt or concept. Explain that the ideas can be bad, unpractical, or otherwise worthless. The only rule is that they can\'t repeat ideas. Set a time limit or keep going until you hit your count goal."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-The epitome of "no idea is a bad idea." Ask the group to generate 100 (literally, or as many as you can) ideas, one per sticky note, in response to a prompt or concept. Explain that the ideas can be bad, unpractical, or otherwise worthless. The only rule is they need to be unique. Set a time limit, or keep going until you hit your count goal.
+The epitome of "no idea is a bad idea." Ask the group to generate one hundred (literally, or just as many as you can) ideas, one per sticky note, in response to a prompt or concept. Explain that the ideas can be bad, unpractical, or otherwise worthless. The only rule is that they can't repeat ideas. Set a time limit or keep going until you hit your count goal.

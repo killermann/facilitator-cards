@@ -5,7 +5,7 @@ for: "Ideation"
 prop_1: "Paper"
 prop_2: "Writing Utensils"
 prop_3: ""
-explanation: "Ask participants to imagine that they\'re in a future where you\'ve accomplished your goals, or achieved perfection in regards to a particular concept. Viewing that finished product, what steps were taken to accomplish it? What pitfalls were avoided? Have them record their reflections on paper. State your intentions for sharing before they start writing."
+explanation: "Ask participants to imagine that they\'re in a future where you\'ve accomplished your goals or achieved perfection in regards to a particular concept. Viewing that finished product, what steps were taken to accomplish it? What pitfalls were avoided? Have them record their reflections on paper. State your intentions for sharing before they start writing."
 longer_context: "Pass out paper and writing utensils to participants. After everyone has supplies, provide initial context for the activity. Give the instructions, asking participants to imagine they’re in a future where whatever you’re currently concerned with (i.e., the project, goal, concept, idea) is perfect. A utopian version of whatever you’re focusing on. Pause for a moment so they can reflect on that idea.
 
 This is one of those situations where the old adage “there is no ‘correct’ answer” answer applies. You want to encourage them to come up with as bold, creative, or unique of an idea for their future as they feel compelled to imagine. No limitations and this won’t be graded. It’s okay if everyone’s answers are different. If you’re going to be having them share their reflections, tell them that up front.
@@ -13,7 +13,7 @@ This is one of those situations where the old adage “there is no ‘correct’
 After they’ve had a moment to reflect, ask them to write down any thoughts they have on how that future was accomplished. For example, “What needed to happen in order to get to that perfect future? What were the steps taken to succeed? How were pitfalls avoided along the way? What were the big milestones? Forks in the road? Decisions?”"
 external_link: ""
 general_notes: ""
-pairs_with: "Subcommittees,Sticky Note Generator ,Mindmapping"
+pairs_with: "Subcommittees,Sticky Note Generator,Mindmapping"
 attribution_notes: "No copyright stuff."
 why_these_categories: "Having participants work as individuals on this activity allows participants to generate different ideas for what the perfect future would look like and the steps to get there. This enables the group to get a sense of what everyone is currently viewing as the ideal outcome, with all the different outcomes and steps along the way.
 
@@ -48,4 +48,4 @@ zooming: ""
 
 ---
 
-Ask participants to imagine that they're in a future where you've accomplished your goals, or achieved perfection in regards to a particular concept. Viewing that finished product, what steps were taken to accomplish it? What pitfalls were avoided? Have them record their reflections on paper. State your intentions for sharing before they start writing.
+Ask participants to imagine that they're in a future where you've accomplished your goals or achieved perfection in regards to a particular concept. Viewing that finished product, what steps were taken to accomplish it? What pitfalls were avoided? Have them record their reflections on paper. State your intentions for sharing before they start writing.

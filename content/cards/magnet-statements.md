@@ -5,7 +5,7 @@ for: "Emotion"
 prop_1: "None"
 prop_2: ""
 prop_3: ""
-explanation: "Set up the space for easy movement. Prime the group with a topic or concept, and ask for one participant to make a related statement they believe, (e.g., \"I think more clearly when I am alone.”). Other participants respond by moving closer or farther based on their agreement or disagreement with the speaker. Once everyone has moved, ask for another statement, then repeat."
+explanation: "Set up the space for easy movement. Prime the group with a topic or concept, and ask for one participant to make a related statement they believe (e.g., \"I think more clearly when I am alone.”). Other participants respond by moving closer or farther away based on their agreement or disagreement with the speaker. Once everyone has moved, ask for another statement, then repeat."
 longer_context: "The ideal space is a wide-open area where participants can easily move past one another, be at varying distances, and reposition themselves without navigating around obstacles. If you need to move chairs, tables, or other furniture in the room, be sure to do this before giving instructions or you will likely have to repeat yourself.
 
 Set up by introducing the topic.  You want a topic that is broad enough to allow for a lot of differences of interpretation and opinion, but narrow enough that it will spark strong reactions in your participants.
@@ -19,7 +19,7 @@ Between each magnet statement, invite the participants to observe where they are
 Let the *Magnet Statements* run for as long as you like, until the group runs out of statements to make, or until you feel the energy waning."
 external_link: ""
 general_notes: ""
-pairs_with: "Poster Presentation,Matchstick Convos,What\'s the MVP?,5 Why\'s "
+pairs_with: "Poster Presentation,Matchstick Convos,What\'s the MVP?,5 Whys"
 attribution_notes: "No copyright stuff."
 why_these_categories: "This tool provides a means for everyone in the group to participate and express their thoughts and opinions without actually needing to verbally respond. The bigger the group the better, because you’ll have a wider range of statements shared, showcasing the variety of perspectives in the group through movement. At times, there will be several islands of belief, which can suddenly transform into one unified continent. This allows the entire group to get a sense of where the rest of the group is quickly on a wide range of ideas."
 modifying_group: "For small groups, designate an area within your larger space for each group (e.g., divide the room into quadrants for four groups). Change the goals slightly: challenge participants within each small group to make statements in response to the prompt that results in everyone in their group standing near them. As long as there’s disagreement (distance between participants), they need to keep revising the statement until everyone can agree (or they give up, or run out of time). Once every small group is in agreement (or they run out of time), have them share the statement with the full group, and invite the other groups’ participants to respond with movement. Did you find a statement everyone in the room agrees with? You can repeat this several times, giving the groups short time limits (e.g., 3 minutes) for each prompt."
@@ -54,4 +54,4 @@ zooming: ""
 
 ---
 
-Set up the space for easy movement. Prime the group with a topic or concept, and ask for one participant to make a related statement they believe, (e.g., "I think more clearly when I am alone.”). Other participants respond by moving closer or farther based on their agreement or disagreement with the speaker. Once everyone has moved, ask for another statement, then repeat.
+Set up the space for easy movement. Prime the group with a topic or concept, and ask for one participant to make a related statement they believe (e.g., "I think more clearly when I am alone.”). Other participants respond by moving closer or farther away based on their agreement or disagreement with the speaker. Once everyone has moved, ask for another statement, then repeat.

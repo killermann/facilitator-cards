@@ -5,7 +5,7 @@ for: "Clarification"
 prop_1: "Paper"
 prop_2: "Writing Utensils"
 prop_3: ""
-explanation: "Have pairs come up with analogies to describe the idea or situation you\'re focusing on (i.e., a comparison of two otherwise unlike things). Ask the pairs to be specific about how the analog captures all of the elements of your problem, connecting specific elements of your central concept to the chosen analog. Give them time to consider multiple analogies, searching for the best fit."
+explanation: "Have pairs come up with analogies (i.e., comparisons of two otherwise unlike things) to describe the idea or concept you\'re focusing on. Ask the pairs to be specific about how the analog captures all of the elements of that concept. Give them time to consider multiple analogies, searching for the best fit."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Have pairs come up with analogies to describe the idea or situation you're focusing on (i.e., a comparison of two otherwise unlike things). Ask the pairs to be specific about how the analog captures all of the elements of your problem, connecting specific elements of your central concept to the chosen analog. Give them time to consider multiple analogies, searching for the best fit.
+Have pairs come up with analogies (i.e., comparisons of two otherwise unlike things) to describe the idea or concept you're focusing on. Ask the pairs to be specific about how the analog captures all of the elements of that concept. Give them time to consider multiple analogies, searching for the best fit.

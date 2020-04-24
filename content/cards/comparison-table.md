@@ -5,7 +5,7 @@ for: "Execution"
 prop_1: "Flipchart"
 prop_2: "Markers"
 prop_3: ""
-explanation: "Draw a table with potential options listed along the Y axis, and important criteria (or boundaries you\'re working within) along the X axis (e.g., cost, timeframe). Prompt the group to review intersection-by-intersection, placing notes, checkmarks, Xs, or other shorthand information in the cell. Once completed, compare the options using the resulting information."
+explanation: "Draw a table with potential options listed along the left, each labeling a row, and important criteria (or boundaries you\'re working within) along the top, each labeling a column (e.g., cost, timeframe). Prompt the group to review each intersection, placing notes, check marks, or other shorthand information in the cell. Once completed, compare options using the resulting information."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Draw a table with potential options listed along the Y axis, and important criteria (or boundaries you're working within) along the X axis (e.g., cost, timeframe). Prompt the group to review intersection-by-intersection, placing notes, checkmarks, Xs, or other shorthand information in the cell. Once completed, compare the options using the resulting information.
+Draw a table with potential options listed along the left, each labeling a row, and important criteria (or boundaries you're working within) along the top, each labeling a column (e.g., cost, timeframe). Prompt the group to review each intersection, placing notes, check marks, or other shorthand information in the cell. Once completed, compare options using the resulting information.

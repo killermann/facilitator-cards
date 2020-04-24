@@ -5,7 +5,7 @@ for: "Ideation"
 prop_1: "Paper"
 prop_2: "Tape"
 prop_3: "Writing Utensils"
-explanation: "Write a central concept that you want to explore in a bubble at the center of the paper. Have groups generate all the ideas, themes, and categories that branch from that central concept. Encourage them to continue to explore those sub-themes, combining sheets of paper with tape as necessary."
+explanation: "In a bubble at the center of the paper, write a central concept that you want to explore. Have groups generate all the ideas, themes, and categories that branch from that central concept. Encourage them to continue to explore those sub-themes, combining sheets of paper with tape as necessary."
 longer_context: ""
 external_link: ""
 general_notes: "It\'s advisable to have a generic example rather than simply giving verbal directions."
@@ -41,4 +41,4 @@ Place a central concept that you want to explore at the center of your Mural boa
 
 ---
 
-Write a central concept that you want to explore in a bubble at the center of the paper. Have groups generate all the ideas, themes, and categories that branch from that central concept. Encourage them to continue to explore those sub-themes, combining sheets of paper with tape as necessary.
+In a bubble at the center of the paper, write a central concept that you want to explore. Have groups generate all the ideas, themes, and categories that branch from that central concept. Encourage them to continue to explore those sub-themes, combining sheets of paper with tape as necessary.

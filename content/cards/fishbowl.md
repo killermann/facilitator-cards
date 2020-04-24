@@ -1,5 +1,5 @@
 ---
-title: "Fishbowls"
+title: "Fishbowl"
 group: "Full Group"
 for: "Clarification"
 prop_1: "None"

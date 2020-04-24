@@ -5,7 +5,7 @@ for: "Ideation"
 prop_1: "None"
 prop_2: ""
 prop_3: ""
-explanation: "Have pairs discuss ideas in response to a question, prompt, or concept. Optionally, give specific instructions for how they converse (e.g., one participant shares, the other listens, then swap). Once they\'ve both had time to talk, have volunteers from each pair share their favorite ideas surfaced with the full group. Repeat with new prompts as many times as you\'d like."
+explanation: "Have pairs discuss ideas in response to a question, prompt, or concept. Optionally, give specific instructions for how they converse (e.g., one participant shares while the other listens, then swap). Once they\'ve both had time to talk, have volunteers from each pair share their favorite ideas surfaced with the larger group. Repeat with new prompts as many times as you\'d like."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Have pairs discuss ideas in response to a question, prompt, or concept. Optionally, give specific instructions for how they converse (e.g., one participant shares, the other listens, then swap). Once they've both had time to talk, have volunteers from each pair share their favorite ideas surfaced with the full group. Repeat with new prompts as many times as you'd like.
+Have pairs discuss ideas in response to a question, prompt, or concept. Optionally, give specific instructions for how they converse (e.g., one participant shares while the other listens, then swap). Once they've both had time to talk, have volunteers from each pair share their favorite ideas surfaced with the larger group. Repeat with new prompts as many times as you'd like.

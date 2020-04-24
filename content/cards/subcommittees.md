@@ -5,7 +5,7 @@ for: "Clarification"
 prop_1: "Flipchart"
 prop_2: "Markers"
 prop_3: ""
-explanation: "Break a big idea into smaller parts, and assign each group a different component to discuss. On their flipchart, ask them to scribe definitions, keywords, or drawings that explain or problem-solve their component. When subcommittees have had enough time to work through their concept, have each group appoint a spokesperson to share their findings with the full group."
+explanation: "Break a big idea into smaller parts, and assign each group a different component to discuss. On their own flipchart sheet, ask them to scribe definitions, keywords, or drawings that explain or problem-solve their component. When subcommittees have had enough time to work through their concepts, have each group appoint a spokesperson to share their findings with the full group."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Break a big idea into smaller parts, and assign each group a different component to discuss. On their flipchart, ask them to scribe definitions, keywords, or drawings that explain or problem-solve their component. When subcommittees have had enough time to work through their concept, have each group appoint a spokesperson to share their findings with the full group.
+Break a big idea into smaller parts, and assign each group a different component to discuss. On their own flipchart sheet, ask them to scribe definitions, keywords, or drawings that explain or problem-solve their component. When subcommittees have had enough time to work through their concepts, have each group appoint a spokesperson to share their findings with the full group.

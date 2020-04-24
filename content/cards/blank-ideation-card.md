@@ -5,7 +5,7 @@ for: "Ideation"
 prop_1: ""
 prop_2: ""
 prop_3: ""
-explanation: "A customizable card that you can fill out with your favorite process for forming, generating, and brainstorming ideas and concepts, that\'s not already included in the deck."
+explanation: "A customizable card that you can fill out with your favorite process (that\'s not already included in the deck) for forming, generating, and brainstorming ideas and concepts."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-A customizable card that you can fill out with your favorite process for forming, generating, and brainstorming ideas and concepts, that's not already included in the deck.
+A customizable card that you can fill out with your favorite process (that's not already included in the deck) for forming, generating, and brainstorming ideas and concepts.

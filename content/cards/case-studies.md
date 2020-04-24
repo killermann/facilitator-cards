@@ -5,7 +5,7 @@ for: "Clarification"
 prop_1: "Custom"
 prop_2: ""
 prop_3: ""
-explanation: "Prepare a case study handout for each group. Ideally, in addition to the explanation of the situation, include a series of questions for groups to work through. You can give all the groups the same case study (to compare different answers), or different case studies (to cover more ground). When they\'re all done, have a spokesperson from each group summarize their discussion for the full group."
+explanation: "Prepare a case study handout for each group. Ideally, in addition to the explanation of the situation, include a series of questions for groups to work through. You can give all the groups the same case study (to compare different answers) or different case studies (to cover more ground). When they\'re all done, have a spokesperson from each group summarize their discussion for the full group."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Prepare a case study handout for each group. Ideally, in addition to the explanation of the situation, include a series of questions for groups to work through. You can give all the groups the same case study (to compare different answers), or different case studies (to cover more ground). When they're all done, have a spokesperson from each group summarize their discussion for the full group.
+Prepare a case study handout for each group. Ideally, in addition to the explanation of the situation, include a series of questions for groups to work through. You can give all the groups the same case study (to compare different answers) or different case studies (to cover more ground). When they're all done, have a spokesperson from each group summarize their discussion for the full group.
