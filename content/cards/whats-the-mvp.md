@@ -1,11 +1,11 @@
 ---
 title: "What\'s the MVP?"
-group: "Full Group"
-for: "Execution"
-prop_1: "Sticky Notes"
-prop_2: "Markers"
+group: "full group"
+for: "execution"
+prop_1: "sticky notes"
+prop_2: "markers"
 prop_3: ""
-explanation: "This activity reduces all of the potential options to what would constitute the “minimum viable product”: what is absolutely necessary (the minimum) in order to end up with something that is sufficient for you to move forward (viable). Sort all potential options, written on sticky notes, as either part of the MVP or to be saved for future improvements."
+explanation: "This activity reduces all of the potential options to what would constitute the \"minimum viable product\": what is absolutely necessary (the minimum) in order to end up with something that is sufficient for you to move forward (viable). Sort all potential options, written on sticky notes, as either part of the MVP or to be saved for future improvements."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-This activity reduces all of the potential options to what would constitute the “minimum viable product”: what is absolutely necessary (the minimum) in order to end up with something that is sufficient for you to move forward (viable). Sort all potential options, written on sticky notes, as either part of the MVP or to be saved for future improvements.
+This activity reduces all of the potential options to what would constitute the "minimum viable product": what is absolutely necessary (the minimum) in order to end up with something that is sufficient for you to move forward (viable). Sort all potential options, written on sticky notes, as either part of the MVP or to be saved for future improvements.

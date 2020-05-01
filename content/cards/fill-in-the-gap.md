@@ -1,8 +1,8 @@
 ---
 title: "Fill in the Gap"
-group: "Full Group"
-for: "Emotion"
-prop_1: "None"
+group: "full group"
+for: "emotion"
+prop_1: "none"
 prop_2: ""
 prop_3: ""
 explanation: "Share a sentence that contains an important gap. For example, \"The best thing about working with this group is ___________.\" Then prompt the group to say the whole sentence and to fill in the gap. Repeat with new prompts as many times as you\'d like, and you can mix up participation with new rules (e.g., \"someone we haven\'t heard from yet\")."

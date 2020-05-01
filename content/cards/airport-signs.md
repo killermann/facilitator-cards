@@ -1,11 +1,11 @@
 ---
 title: "Airport Signs"
-group: "Individual"
-for: "Emotion"
-prop_1: "Paper"
-prop_2: "Markers"
+group: "individuals"
+for: "emotion"
+prop_1: "paper"
+prop_2: "markers"
 prop_3: ""
-explanation: "Set up the space for easy movement. Provide participants with a prompt or question to respond to. Each participant then makes a sign proclaiming a statement (should be short and easily readable). After everyone has made a sign, have participants move around the space silently viewing each other\'s signs, giving them enough time to read all the signs."
+explanation: "Set up the space for easy movement. Provide participants with a prompt or question to respond to. Each participant then makes a sign proclaiming a statement (should be short and easily readable). After everyone has made a sign, have participants move around the space silently viewing each other\'s signs, giving them enough time to read all the signs."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -40,4 +40,4 @@ Each person makes a Google Slide proclaiming a statement (should be short, with 
 
 ---
 
-Set up the space for easy movement. Provide participants with a prompt or question to respond to. Each participant then makes a sign proclaiming a statement (should be short and easily readable). After everyone has made a sign, have participants move around the space silently viewing each other's signs, giving them enough time to read all the signs.
+Set up the space for easy movement. Provide participants with a prompt or question to respond to. Each participant then makes a sign proclaiming a statement (should be short and easily readable). After everyone has made a sign, have participants move around the space silently viewing each other's signs, giving them enough time to read all the signs.

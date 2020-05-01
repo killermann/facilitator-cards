@@ -1,11 +1,11 @@
 ---
 title: "Minute Papers"
-group: "Individual"
-for: "Emotion"
-prop_1: "Paper"
-prop_2: "Writing Utensils"
+group: "individuals"
+for: "emotion"
+prop_1: "paper"
+prop_2: "writing utensils"
 prop_3: ""
-explanation: "Provide a prompt (or several) and give participants a short amount of time (e.g., one minute) to write their responses. The papers can be collected by the facilitator, shared between participants, or neither. State your intentions for sharing before they start writing."
+explanation: "Provide a prompt (or several) and give participants a short amount of time (e.g., one minute) to write their responses. The papers can be collected by the facilitator, shared among participants, or neither. State your intentions for sharing before they start writing."
 longer_context: ""
 external_link: ""
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Provide a prompt (or several) and give participants a short amount of time (e.g., one minute) to write their responses. The papers can be collected by the facilitator, shared between participants, or neither. State your intentions for sharing before they start writing.
+Provide a prompt (or several) and give participants a short amount of time (e.g., one minute) to write their responses. The papers can be collected by the facilitator, shared among participants, or neither. State your intentions for sharing before they start writing.

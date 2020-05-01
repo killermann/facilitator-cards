@@ -1,9 +1,9 @@
 ---
 title: "Reverse Engineering"
-group: "Individual"
-for: "Ideation"
-prop_1: "Paper"
-prop_2: "Writing Utensils"
+group: "individuals"
+for: "ideation"
+prop_1: "paper"
+prop_2: "writing utensils"
 prop_3: ""
 explanation: "Ask participants to imagine that they\'re in a future where you\'ve accomplished your goals or achieved perfection in regards to a particular concept. Viewing that finished product, what steps were taken to accomplish it? What pitfalls were avoided? Have them record their reflections on paper. State your intentions for sharing before they start writing."
 longer_context: "Pass out paper and writing utensils to participants. After everyone has supplies, provide initial context for the activity. Give the instructions, asking participants to imagine they’re in a future where whatever you’re currently concerned with (i.e., the project, goal, concept, idea) is perfect. A utopian version of whatever you’re focusing on. Pause for a moment so they can reflect on that idea.

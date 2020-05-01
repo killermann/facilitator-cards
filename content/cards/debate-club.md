@@ -1,8 +1,8 @@
 ---
 title: "Debate Club"
-group: "Full Group"
-for: "Clarification"
-prop_1: "None"
+group: "full group"
+for: "clarification"
+prop_1: "none"
 prop_2: ""
 prop_3: ""
 explanation: "Choose two participants (or small teams) to argue on behalf of different ideas or opposite sides of the same idea. Give one side a set amount of time to make their case. Give the other side the same amount of time. Then give time for open debate and retorts. Optionally, solicit questions from the rest of the group for them to respond to."

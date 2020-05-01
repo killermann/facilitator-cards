@@ -1,11 +1,11 @@
 ---
 title: "Urgent vs. Important Grid"
-group: "Full Group"
-for: "Execution"
-prop_1: "Flipchart"
-prop_2: "Sticky Notes"
-prop_3: "Markers"
-explanation: "Create a grid with four quadrants. Along the top, label the first column \"Important\" and the second \"Not Important.\" Along the left, the first row \"Urgent\" and the second row \"Not Urgent.\" Use sticky notes to place individual tasks or plans into the appropriate quadrant."
+group: "full group"
+for: "execution"
+prop_1: "flipchart"
+prop_2: "sticky notes"
+prop_3: "markers"
+explanation: "Create a grid with four quadrants. Along the top, label the first column \"Not Important\" and the second \"Important.\" Along the left, the first row \"Urgent\" and the second row \"Not Urgent.\" Use sticky notes to place individual tasks or plans into the appropriate quadrant."
 longer_context: ""
 external_link: "https://www.developgoodhabits.com/eisenhower-matrix/"
 general_notes: ""
@@ -22,4 +22,4 @@ zooming: ""
 
 ---
 
-Create a grid with four quadrants. Along the top, label the first column "Important" and the second "Not Important." Along the left, the first row "Urgent" and the second row "Not Urgent." Use sticky notes to place individual tasks or plans into the appropriate quadrant.
+Create a grid with four quadrants. Along the top, label the first column "Not Important" and the second "Important." Along the left, the first row "Urgent" and the second row "Not Urgent." Use sticky notes to place individual tasks or plans into the appropriate quadrant.

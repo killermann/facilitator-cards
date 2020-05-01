@@ -1,7 +1,7 @@
 ---
 title: "Blank Emotion Card"
 group: "blank"
-for: "Emotion"
+for: "emotion"
 prop_1: ""
 prop_2: ""
 prop_3: ""

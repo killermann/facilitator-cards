@@ -1,7 +1,7 @@
 ---
 title: "Blank Ideation Card"
 group: "blank"
-for: "Ideation"
+for: "ideation"
 prop_1: ""
 prop_2: ""
 prop_3: ""

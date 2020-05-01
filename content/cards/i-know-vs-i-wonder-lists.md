@@ -1,9 +1,9 @@
 ---
 title: "\"I Know\" vs. \"I Wonder\" Lists"
-group: "Full Group"
-for: "Ideation"
-prop_1: "Flipchart"
-prop_2: "Markers"
+group: "full group"
+for: "ideation"
+prop_1: "flipchart"
+prop_2: "markers"
 prop_3: ""
 explanation: "Given a particular idea, question, concept, or problem, generate two lists from the group and scribe them on flipcharts: one list of the things you know (bulleted statements starting with \"I know...\"), the other of the things you wonder (\"I wonder...\"). Keep going until you run out of time, flipchart space, or ideas."
 longer_context: ""

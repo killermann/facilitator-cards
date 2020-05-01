@@ -1,7 +1,7 @@
 ---
 title: "Blank Execution Card"
 group: "blank"
-for: "Execution"
+for: "execution"
 prop_1: ""
 prop_2: ""
 prop_3: ""

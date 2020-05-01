@@ -1,7 +1,7 @@
 ---
 title: "Blank Clarification Card"
 group: "blank"
-for: "Clarification"
+for: "clarification"
 prop_1: ""
 prop_2: ""
 prop_3: ""
