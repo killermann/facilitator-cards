@@ -1,0 +1,17 @@
+[context.production.environment]
+HUGO_VERSION = "0.70.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, s-max-age=604800"
+[[headers]]
+  for = "/*.css"
+  [headers.values]
+    Cache-Control = "public, s-max-age=604800"
+[[headers]]
+  for = "/js/*.js"
+  [headers.values]
+    Cache-Control = "public, s-max-age=604800"
