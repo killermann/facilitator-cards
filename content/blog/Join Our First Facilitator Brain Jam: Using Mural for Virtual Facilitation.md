@@ -1,7 +1,7 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = ""
+date = 2020-05-14T16:29:00Z
 description = "We're bringing facilitators together to explore new digital tools and crowdsource creative ways to use these tools in our facilitation. "
 featured_image = "/img/blog/charles-deluvio-unsplash.png"
 images = []
