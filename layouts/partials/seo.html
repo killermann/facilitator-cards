@@ -6,7 +6,12 @@
 	"name": "Facilitator Cards",
 	"description": "Tools for facilitation planning, running meetings with a co-facilitator, & improvising when the unexpected comes up. Creative, engaging trainings made easy.",
 	"image": "https://www.facilitator.cards/img/social-share-facilitator-cards.png",
-	"logo": "https://www.facilitator.cards/img/fac-cards-logo-800.png",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.facilitator.cards/img/fac-cards-logo-800.png",
+        "width": 800,
+        "height": 107
+    },
 	"url": "https://www.facilitator.cards",
 	"sameAs": ["https://www.twitter.com/facilitatorcard","https://www.linkedin.com/company/facilitatorcards/","https://www.facebook.com/facilitatorcards","https://www.youtube.com/channel/UCjPhE8TYepdE-t1b2j6AoOg","https://www.instagram.com/facilitatorcards"],
 	"address": {
@@ -34,11 +39,23 @@
     "publisher": {
         "@type": "Organization",
         "name": "Facilitator Cards",
+        "description": "Tools for facilitation planning, running meetings with a co-facilitator, & improvising when the unexpected comes up. Creative, engaging trainings made easy.",
+        "image": "https://www.facilitator.cards/img/social-share-facilitator-cards.png",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://www.facilitator.cards/img/fac-cards-logo-800.png"
+            "url": "https://www.facilitator.cards/img/fac-cards-logo-800.png",
+            "width": 800,
+            "height": 107
         },
-        "sameAs": ["https://www.twitter.com/facilitatorcard","https://www.linkedin.com/company/facilitatorcards/","https://www.facebook.com/facilitatorcards","https://www.youtube.com/channel/UCjPhE8TYepdE-t1b2j6AoOg","https://www.instagram.com/facilitatorcards"]
+        "url": "https://www.facilitator.cards",
+        "sameAs": ["https://www.twitter.com/facilitatorcard","https://www.linkedin.com/company/facilitatorcards/","https://www.facebook.com/facilitatorcards","https://www.youtube.com/channel/UCjPhE8TYepdE-t1b2j6AoOg","https://www.instagram.com/facilitatorcards"],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "P.O. Box 684412",
+            "addressLocality": "Austin",
+            "postalCode": "78768",
+            "addressCountry": "United States"
+        }
     },
     "url" : "{{ .Permalink }}",
     "image": {{ .Params.featured_image | absURL }},
