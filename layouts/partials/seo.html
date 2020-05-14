@@ -1,44 +1,52 @@
 <script type="application/ld+json">
 {
     "@context" : "http://schema.org",
-    {{ if .IsHome }}
-	"@type": "WebSite",
-	{{ else }}
-	"@type": "Article",
-	{{ end }}
-    "mainEntityOfPage": {
-         "@type": "WebPage",
-         "@id": "{{ .Site.BaseURL }}"
-    },
+{{- if .IsHome }}
+    "@type": "Organization",
+	"name": "Facilitator Cards",
+	"description": "Tools for facilitation planning, running meetings with a co-facilitator, & improvising when the unexpected comes up. Creative, engaging trainings made easy.",
+	"image": "https://www.facilitator.cards/img/social-share-facilitator-cards.png",
+	"logo": "https://www.facilitator.cards/img/fac-cards-logo-800.png",
+	"url": "https://www.facilitator.cards",
+	"sameAs": ["https://www.twitter.com/facilitatorcard","https://www.linkedin.com/company/facilitatorcards/","https://www.facebook.com/facilitatorcards","https://www.youtube.com/channel/UCjPhE8TYepdE-t1b2j6AoOg","https://www.instagram.com/facilitatorcards"],
+	"address": {
+		"@type": "PostalAddress",
+		"streetAddress": "P.O. Box 684412",
+		"addressLocality": "Austin",
+		"postalCode": "78768",
+		"addressCountry": "United States"
+	}
+{{- else }}
+    "@type": "Article",
     "articleSection" : "{{ .Section }}",
-    "name" : "{{ .Title }}",
-    "headline" : "{{ if .Params.seo_title }}{{ .Params.seo_title }}{{ else }}{{ .Title }}{{ end }}",
-    "description" : "{{ if .Params.description }}{{ .Params.description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ .Site.Params.description}}{{ end }}{{ end }}",
+    "name" : "{{ .Title | plainify | safeHTML }}",
+    "headline" : "{{ if .Params.seo_title }}{{ .Params.seo_title | plainify | safeHTML }}{{ else }}{{ .Title | plainify | safeHTML }}{{ end }}",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Permalink }}"
+    },
+    "description" : {{ if .Params.description }}{{ .Params.description | plainify | safeHTML }}{{ else }}{{ .Summary | plainify | safeHTML }}{{ end }},
     "inLanguage" : "en-US",
-
     "author": {
               "@type": "Person",
               "name": "{{ if .Params.author }}{{ .Params.author }}{{ else }}{{ range .Site.Author }}{{ . }}{{ end }}{{ end }}"
             },
-    "creator" : "{{ range .Site.Author }}{{ . }}{{ end }}",
     "publisher": {
         "@type": "Organization",
         "name": "Facilitator Cards",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://www.facilitator.cards/img/fac-cards-logo-800.png",
-            "height": 107
-        }
+            "url": "https://www.facilitator.cards/img/fac-cards-logo-800.png"
+        },
+        "sameAs": ["https://www.twitter.com/facilitatorcard","https://www.linkedin.com/company/facilitatorcards/","https://www.facebook.com/facilitatorcards","https://www.youtube.com/channel/UCjPhE8TYepdE-t1b2j6AoOg","https://www.instagram.com/facilitatorcards"]
     },
-    "accountablePerson" : "{{ range .Site.Author }}{{ . }}{{ end }}",
-    "copyrightHolder" : "{{ range .Site.Author }}{{ . }}{{ end }}",
-    "copyrightYear" : "{{ 2019 }}",
-
-    "datePublished": "{{ if not .Date.IsZero }}{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}{{ end }}",
-    "dateCreated": "{{ if not .Date.IsZero }}{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}{{ end }}",
-    "dateModified": "{{ if not .Lastmod.IsZero }}{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}{{ end }}",
     "url" : "{{ .Permalink }}",
+    "image": {{ .Params.featured_image | absURL }},
     "wordCount" : "{{ .WordCount }}",
-    "keywords" : [ {{ with .Site.Params.keywords }}"{{ . }}"{{ end }} ]
+    "keywords" : [ {{ with .Site.Params.keywords }}"{{ . }}"{{ end }} ],   
+    {{- $ISO8601 := "2006-01-02T15:04:05-07:00" }}
+    "datePublished": {{ (.Date.Format $ISO8601) }},
+    "dateModified" : {{ (.Lastmod.Format $ISO8601) | default (.Date.Format $ISO8601) }}
+{{- end }}
 }
 </script>
