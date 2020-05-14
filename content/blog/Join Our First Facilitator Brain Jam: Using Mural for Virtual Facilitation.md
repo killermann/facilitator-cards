@@ -21,10 +21,14 @@ Here’s the RSVP link: [https://hues.typeform.com/to/Uu1FSr](https://hues.typef
 
 Read on for more details 👇
 
-# What’s a Brain Jam?
+## What’s a Brain Jam?
 
 In our Brain Jams, we’ll be meeting on Zoom to explore a digital tool and crowdsource creative ways to use it in our facilitation. For the first few, we’ll be focusing on virtual facilitation (for obvious reasons).
 
 This round, our Brain Jam will be on [Mural](http://mural.co/), a digital workspace for visual collaboration. Think collaborative whiteboard + markers + sticky notes, but 100% online.
 
 Here is a 90-second video explaining Mural:
+
+    
+    {{< youtube mBFFpsy-RUo >}}
+    
