@@ -1,10 +1,10 @@
 +++
-author = ""
-categories = ""
+author = "Meg Bolger"
+categories = "resources"
 date = ""
 description = ""
 draft = true
-featured_image = ""
+featured_image = "/img/blog/charles-deluvio-unsplash.png"
 images = []
 keywords = []
 photo_cred = ""
