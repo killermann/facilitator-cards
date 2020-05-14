@@ -30,6 +30,7 @@ fields:
   name: photo_cred
   label: photo_cred
 pages:
+- 'content/blog/Join Our First Facilitator Brain Jam: Using Mural for Virtual Facilitation.md'
 - content/blog/facilitating-on-camera-a-jumpstart-into-video-conference-based-facilitation.md
 - content/blog/how-to-facilitate-magnet-statements.md
 - content/blog/modifying-in-person-activities-for-virtual-facilitation.md

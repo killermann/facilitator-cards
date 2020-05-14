@@ -31,9 +31,7 @@ pages:
 - content/cards/different-angles.md
 - content/cards/drawing-caricatures.md
 - content/cards/fill-in-the-model.md
-- content/cards/fill-the-gap.md
 - content/cards/finger-voting.md
-- content/cards/fishbowls.md
 - content/cards/generate-a-list.md
 - content/cards/go-around-share.md
 - content/cards/heads-down-hands-up.md
@@ -41,12 +39,10 @@ pages:
 - content/cards/i-know-vs-i-wonder-lists.md
 - content/cards/make-a-model.md
 - content/cards/matchstick-convos.md
-- content/cards/number-showdown.md
 - content/cards/opposite-thinking.md
 - content/cards/pair-share.md
 - content/cards/popcorn-share.md
 - content/cards/poster-presentation.md
-- content/cards/pro-con-lists.md
 - content/cards/rank-order-voting.md
 - content/cards/red-team-vs-blue-team.md
 - content/cards/silent-reflection.md
@@ -59,4 +55,3 @@ pages:
 - content/cards/urgent-vs-important-grid.md
 - content/cards/vanishing-options.md
 - content/cards/venn-diagram.md
-- content/cards/what-s-the-mvp.md
