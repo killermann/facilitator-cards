@@ -8,7 +8,7 @@ featured_image = ""
 images = []
 keywords = []
 photo_cred = ""
-title = ""
+title = "Join Our First Facilitator Brain Jam: Using Mural for Virtual Facilitation"
 
 +++
 In the wake of COVID-19, many of us have found ourselves thrust into a world of virtual facilitation for the first time. We’re having to put down many of the tools we know and love that don’t translate into this new virtual space. As facilitators, we want to keep our groups engaged and our processes dynamic, but we need to find [new tools and new ways](https://www.facilitator.cards/blog/modifying-in-person-activities-for-virtual-facilitation/) to adapt to make that happen.
