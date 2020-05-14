@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "resources"
 date = ""
 description = "We're bringing facilitators together to explore new digital tools and crowdsource creative ways to use these tools in our facilitation. "
-draft = true
 featured_image = "/img/blog/charles-deluvio-unsplash.png"
 images = []
 keywords = ["digital facilitation", "facilitators", "virtual facilitation", "facilitation resources", "remote facilitation", "facilitator tools", "virtual facilitation tools"]
