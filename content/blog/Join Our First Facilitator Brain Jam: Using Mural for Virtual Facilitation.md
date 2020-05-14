@@ -67,6 +67,6 @@ You’ll find the meeting details at the end of the [RSVP](https://hues.typeform
 
 I can’t wait to jam with y’all!
 
-—
+***
 
 P.S. We are not affiliated with or sponsored by Mural or Zoom. We simply think they're neat tools that can help us enhance and adjust our practices in this [digital facilitation moment](https://www.facilitator.cards/blog/modifying-in-person-activities-for-virtual-facilitation/).
