@@ -3,7 +3,6 @@ author = ""
 categories = ""
 date = ""
 description = ""
-draft = true
 featured_image = ""
 images = []
 keywords = []
