@@ -12,7 +12,7 @@
     },
     "articleSection" : "{{ .Section }}",
     "name" : "{{ .Title }}",
-    "headline" : "{{ .Title }}",
+    "headline" : "{{ if .Params.seo_title }}{{ .Params.seo_title }}{{ else }}{{ .Title }}{{ end }}",
     "description" : "{{ if .Params.description }}{{ .Params.description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ .Site.Params.description}}{{ end }}{{ end }}",
     "inLanguage" : "en-US",
 

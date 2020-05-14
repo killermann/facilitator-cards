@@ -1,8 +1,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>{{ if .Params.seo_title }}{{ .Params.seo_title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 {{ with .Site.Author.name }}<meta name="author" content="{{ . }}">{{ end }}
-{{ with .Site.Params.description }}<meta name="description" content="{{ block "description" . }}{{ . }}{{ end }}">{{ end }}
+<meta name="description" content="{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
 {{ with .Site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
 {{ if .Params.noindex }}<meta name="robots" content="noindex" />{{ end }}
 {{- with .Params.canonical }}
