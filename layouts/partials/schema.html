@@ -32,17 +32,17 @@
     },
     "description" : {{ if .Params.description }}{{ .Params.description | plainify | safeHTML }}{{ else }}{{ .Summary | plainify | safeHTML }}{{ end }},
     "inLanguage" : "en-US",
-    {{- if .Params.author }}
+{{- if .Params.author }}
     "author": {
         "@type": "Person",
         "name": "{{ .Params.author | plainify | safeHTML }}"
     },
-    {{ else }}
+{{ else }}
     "author": {
         "@type": "Organization",
         "name": "Facilitator Cards"
     },
-    {{ end -}}
+{{ end -}}
     "publisher": {
         "@type": "Organization",
         "name": "Facilitator Cards",
