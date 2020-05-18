@@ -8,26 +8,17 @@
 {{ if .Params.noindex }}<meta name="robots" content="noindex" />{{ end }}
 {{- with .Params.canonical }}
 <link rel="canonical" href="{{ . }}"/>
+{{ else }}
+<link rel="canonical" href="{{ .Permalink }}">
 {{ end -}}
+<base href="{{ .Site.BaseURL }}">
 
 {{ template "_internal/twitter_cards.html" . }}
 {{ template "_internal/opengraph.html" . }}
 
 {{ partial "schema.html" . }}
 
-<base href="{{ .Site.BaseURL }}">
-
-<link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.BaseURL }}/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="96x96" href="{{ .Site.BaseURL }}/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="48x48" href="{{ .Site.BaseURL }}/favicon-48x48.png">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.BaseURL }}/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.BaseURL }}/favicon-16x16.png">
-<link rel="manifest" href="{{ .Site.BaseURL }}/site.webmanifest">
-<link rel="mask-icon" href="{{ .Site.BaseURL }}/safari-pinned-tab.svg" color="#3ddbd4">
-<meta name="msapplication-TileColor" content="#3ddbd4">
-<meta name="theme-color" content="#3ddbd4">
-
-<link rel="canonical" href="{{ .Permalink }}">
+{{ partial "favicon.html" . }}
 
 {{ partial "css.html" . }}
 
