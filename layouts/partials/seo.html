@@ -32,10 +32,17 @@
     },
     "description" : {{ if .Params.description }}{{ .Params.description | plainify | safeHTML }}{{ else }}{{ .Summary | plainify | safeHTML }}{{ end }},
     "inLanguage" : "en-US",
+    {{- if .Params.author }}
     "author": {
-              "@type": "Person",
-              "name": "{{ if .Params.author }}{{ .Params.author }}{{ else }}{{ range .Site.Author }}{{ . }}{{ end }}{{ end }}"
-            },
+        "@type": "Person",
+        "name": "{{ .Params.author | plainify | safeHTML }}"
+    },
+    {{ else }}
+    "author": {
+        "@type": "Organization",
+        "name": "Facilitator Cards"
+    },
+    {{ end -}}
     "publisher": {
         "@type": "Organization",
         "name": "Facilitator Cards",

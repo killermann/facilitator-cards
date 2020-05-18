@@ -108,6 +108,7 @@
 
 .rainbow-text {
     background: linear-gradient(to right, $blue, $green, $orange, $red);
+    display: inline-block;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     -webkit-box-decoration-break: clone;
