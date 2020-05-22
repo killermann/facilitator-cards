@@ -163,4 +163,4 @@ Look for little pointers and step-by-steps on [our insta](https://www.instagram.
 
 To everyone who jammed with us: it was a pleasure! I loved seeing all of your faces, and am grateful to have gained so much perspective in such a short amount of time.
 
-And to everyone who missed it: we’ll have another Brain Jam for you in the near future. [Stay tuned](https://facilitatorcards.ck.page/5450c9b287).
+And to everyone who missed it: we’ll have another Brain Jam for you in the near future. [Stay tuned](https://facilitatorcards.ck.page/2a44dda437).
