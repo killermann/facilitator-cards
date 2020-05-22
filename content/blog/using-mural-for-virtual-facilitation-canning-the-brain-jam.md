@@ -13,13 +13,13 @@ title = "Using MURAL for Virtual Facilitation: Canning the Brain Jam"
 +++
 This past week, Meg facilitated two [Brain Jams focused on using MURAL](https://www.facilitator.cards/blog/join-our-first-facilitator-brain-jam-using-mural-for-virtual-facilitation/) for virtual facilitation. I participated, learned a lot, and am here to share what stood out.
 
-First, I’ll say that we had a good range of [MURAL](https://mural.co) expertise in the few dozen facilitators who were jamming with us, from the “never used it” to the “very familiar”, and I’m smack dab in the middle.
+First, I’ll say that we had a good range of [MURAL](https://mural.co) expertise in the few dozen facilitators who were jamming with us, from the “never used it” to the “very familiar," and I’m smack dab in the middle.
 
 So please let me know (in [the comments](https://docs.google.com/document/d/1h-ik981jL_FpX6yCmdHQyTE66O4i18A2QuZ07QqIFUw/edit#comments), on [Insta](https://www.instagram.com/facilitatorcards), [via email](https://www.facilitator.cards/contact) — whatever) if I give a bad recommendation below, or misrepresent a core feature or functionality of MURAL.
 
-For example, I didn’t know until I started writing this blog post that it’s not “Mural,” it’s “MURAL,” which I’m TOTALLY here for.
+For example, I didn’t know until I started writing this blog post that it’s not “Mural,” it’s “MURAL,” which, as a fan of all-caps writing, I’m TOTALLY here for.
 
-I’ll also end this post with some general resources for learning to use MURAL for virtual facilitation, including links to other resources (including one amazing one they created for us!) that can get you going if you’re so inclined.
+I’ll also end this post with some general resources for learning to use MURAL for virtual facilitation, including links to downloads and videos (including one amazing resource MURAL created for us!) that can get you going if you’re so inclined.
 
 One last thing before we get into it: this Brain Jam was not sponsored by or affiliated with MURAL in any way; MURAL is just a cool technology that we were excited to learn about, and thought you all might benefit from learning about as well.
 
