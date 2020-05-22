@@ -105,7 +105,7 @@ It seemed that everyone in the Brain Jams was excited about learning MURAL, and 
 
 I’m in the same boat!
 
-MURAL replaces so many tools I’d bring to every training ([or ask the client to provide](https://www.facilitator.cards/blog/go-to-facilitation-rider/)): stickies, flip charts, scrap paper, markers, and more.
+MURAL replaces so many tools I’d bring to every training ([or ask the client to provide](https://www.facilitator.cards/blog/go-to-facilitation-rider/)): stickies, flipcharts, scrap paper, markers, and more.
 
 It’s also a really fun stand-in for Powerpoint/Keynote (see our slides at the top of the mural? That’s how Meg gave everyone an intro to MURAL), and with all the creative ways the groups came up with creating avatars and mood meters, I’m now seeing how beautifully it might stand in for, well, standing in a physical space.
 
