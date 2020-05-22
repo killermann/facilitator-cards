@@ -133,9 +133,9 @@ I appreciate their generosity in creating this and sharing it freely, and I’m 
 
 MURAL hosts free webinars introducing people to different dimensions of their platform. Some of them are weekly, some seem to be one-offs (with replays available!). You can find information about all of [their webinars here](https://www.mural.co/webinars), and I’ll highlight the ones they have scheduled now:
 
-* **There’s an** [**Introduction to MURAL**](https://mural.zoom.us/webinar/register/WN_KhGnsG5PTUKVn1pNd1sECg) **running almost every day next week (Monday at 1pm PT, Tuesday 2pm CET, Wednesday 11am AEST, and Thursday 9am PT)**, that is a “45-minute live demo gives you basic, hands-on guidance to using MURAL effectively. We cover a range of topics from the basics of adding content onto the canvas to common use cases, depending on the audience.”
-* **The** [**“Suddenly Remote? Teacher’s Lounge”**](https://mural.zoom.us/webinar/register/WN_OKyTdJJvSE2oyYXhjA-pBw) **webinars run several times a week** (Tuesday at 11am PT, Wednesday at 7am PT, and Thursday at 8pm PT) that I know a lot of Brain Jam participants would be excited to know about, because a lot of us were excited to get questions answered: it’s an “informal, informative sessions called the 'Teacher's Lounge', an exclusive space for educators new to the online learning space.”
-* **And every Friday (at 9am PT) they host** [**“Backstage Pass”**](https://www.mural.co/webinars/backstage-pass), which “gives you exclusive access to watch distributed teams collaborate on real work. From brainstorms to product launches, you’ll be able to follow along as we share our processes for organizing and executing our work.”
+* There’s an [Introduction to MURAL](https://mural.zoom.us/webinar/register/WN_KhGnsG5PTUKVn1pNd1sECg) running almost every day next week (Monday at 1pm PT, Tuesday 2pm CET, Wednesday 11am AEST, and Thursday 9am PT), that is a “45-minute live demo gives you basic, hands-on guidance to using MURAL effectively. We cover a range of topics from the basics of adding content onto the canvas to common use cases, depending on the audience.”
+* The [“Suddenly Remote? Teacher’s Lounge”](https://mural.zoom.us/webinar/register/WN_OKyTdJJvSE2oyYXhjA-pBw) webinars run several times a week (Tuesday at 11am PT, Wednesday at 7am PT, and Thursday at 8pm PT) that I know a lot of Brain Jam participants would be excited to know about, because a lot of us were excited to get questions answered: it’s an “informal, informative sessions called the 'Teacher's Lounge', an exclusive space for educators new to the online learning space.”
+* And every Friday (at 9am PT) they host [“Backstage Pass”](https://www.mural.co/webinars/backstage-pass), which “gives you exclusive access to watch distributed teams collaborate on real work. From brainstorms to product launches, you’ll be able to follow along as we share our processes for organizing and executing our work.”
 
 ### 4. MURAL’s YouTube Tutorials
 
@@ -145,9 +145,9 @@ If you’re someone who finds working with new software intimidating, these tuto
 
 They have them (conveniently!) arranged into a few different playlists:
 
-* [**Learning the Basics of MURAL**](https://www.youtube.com/playlist?list=PLDZa1OFNww6MPz6QwASaF8fFEQGeiJadL): 7 short videos (all around 2 mins) focusing on navigation, adding content, keyboard shortcuts, and more.
-* [**Facilitating Sessions in MURAL:**](https://www.youtube.com/playlist?list=PLDZa1OFNww6OfP-EYfv_mzYSzu7Et-0N1) **12 videos that get more into the live facilitation aspect of MURAL, giving tips for frameworks, how to use the interactive features, and solid examples for things like pre-work and voting.**
-* [**Administrate Your MURAL Workspace**](https://www.youtube.com/playlist?list=PLDZa1OFNww6PLyNeQypTyWcVZh5nGZKM-)**: 6 nitty-gritty videos detailing the back-end functions of using the app, with things like adding team members, the settings, and permissions.**
+* [Learning the Basics of MURAL](https://www.youtube.com/playlist?list=PLDZa1OFNww6MPz6QwASaF8fFEQGeiJadL): 7 short videos (all around 2 mins) focusing on navigation, adding content, keyboard shortcuts, and more.
+* [Facilitating Sessions in MURAL:](https://www.youtube.com/playlist?list=PLDZa1OFNww6OfP-EYfv_mzYSzu7Et-0N1) 12 videos that get more into the live facilitation aspect of MURAL, giving tips for frameworks, how to use the interactive features, and solid examples for things like pre-work and voting.
+* [Administrate Your MURAL Workspace](https://www.youtube.com/playlist?list=PLDZa1OFNww6PLyNeQypTyWcVZh5nGZKM-): 6 nitty-gritty videos detailing the back-end functions of using the app, with things like adding team members, the settings, and permissions.
 
 ## Brain Jamming Onward
 
