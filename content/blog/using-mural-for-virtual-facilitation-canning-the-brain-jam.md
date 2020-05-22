@@ -3,7 +3,6 @@ author = "Sam Killermann"
 categories = "resources"
 date = 2020-05-22T00:07:00Z
 description = "We surfaced dozens of facilitator challenges we're facing, and wise-crowds-ed solutions."
-draft = true
 featured_image = "/img/blog/facilitator-cards-brain-jam-mural-virtual-facilitation.jpg"
 images = ["/img/blog/facilitator-cards-brain-jam-mural-virtual-facilitation.jpg"]
 keywords = ["facilitator resources", "remote learning", "zoom", "mural", "virtual facilitation", "facilitators", "facilitation"]
