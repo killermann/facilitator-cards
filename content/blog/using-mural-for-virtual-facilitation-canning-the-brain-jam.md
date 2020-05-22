@@ -14,7 +14,7 @@ This past week, Meg facilitated two [Brain Jams focused on using MURAL](https://
 
 First, I’ll say that we had a good range of [MURAL](https://mural.co) expertise in the few dozen facilitators who were jamming with us, from the “never used it” to the “very familiar," and I’m smack dab in the middle.
 
-So please let me know (in [the comments](https://docs.google.com/document/d/1h-ik981jL_FpX6yCmdHQyTE66O4i18A2QuZ07QqIFUw/edit#comments), on [Insta](https://www.instagram.com/facilitatorcards), [via email](https://www.facilitator.cards/contact) — whatever) if I give a bad recommendation below, or misrepresent a core feature or functionality of MURAL.
+So please let me know (in [the comments](https://www.facilitator.cards/blog/using-mural-for-virtual-facilitation-canning-the-brain-jam/#comments), on [Insta](https://www.instagram.com/facilitatorcards), [via email](https://www.facilitator.cards/contact) — whatever) if I give a bad recommendation below, or misrepresent a core feature or functionality of MURAL.
 
 For example, I didn’t know until I started writing this blog post that it’s not “Mural,” it’s “MURAL,” which, as a fan of all-caps writing, I’m TOTALLY here for.
 
