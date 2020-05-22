@@ -4,7 +4,7 @@ categories = "resources"
 date = 2020-05-22T00:07:00Z
 description = "We surfaced dozens of facilitator challenges we're facing, and wise-crowds-ed solutions."
 featured_image = "/img/blog/facilitator-cards-brain-jam-mural-virtual-facilitation.jpg"
-images = ["/img/blog/facilitator-cards-brain-jam-mural-virtual-facilitation.jpg", "/img/blog/facilitator-cards-brain-jam-mural-all-challenges.jpg", "/img/blog/facilitator-cards-brain-jam-mural-solutions-for-digital-proficiency.jpg", "/img/blog/facilitator-cards-brain-jam-mural-may-15th.jpg", "/img/blog/facilitator-cards-brain-jam-mural-may-19th.jpg", "/img/blog/mural-book-facilitating-remote-workshops.png"]
+images = ["/img/blog/facilitator-cards-brain-jam-mural-virtual-facilitation.jpg", "/img/blog/facilitator-cards-brain-jam-mural-all-challenges.jpg", "/img/blog/facilitator-cards-brain-jam-mural-solutions-for-digital-proficiency.jpg", "/img/blog/facilitator-cards-brain-jam-mural-may-15th.jpg", "/img/blog/facilitator-cards-brain-jam-mural-may-19th.jpg"]
 keywords = ["facilitator resources", "remote learning", "zoom", "mural", "virtual facilitation", "facilitators", "facilitation"]
 photo_cred = ""
 title = "Using MURAL for Virtual Facilitation: Canning the Brain Jam"
@@ -125,7 +125,7 @@ As part of their [Suddenly Remote? resource site](https://www.suddenlyremote.co)
 
 You can download it by visiting that link above ([or this one](https://www.mural.co/ebook)) — it’s the first thing you’ll see — and start reading it right now.
 
-[![](/img/blog/mural-book-facilitating-remote-workshops.png)](https://www.mural.co/ebook)
+[![](/img/blog/mural-book-facilitating-remote-workshops.jpg)](https://www.mural.co/ebook)
 
 I appreciate their generosity in creating this and sharing it freely, and I’m looking forward to reading it.
 
