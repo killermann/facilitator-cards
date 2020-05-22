@@ -11,7 +11,7 @@ photo_cred = ""
 title = "Using MURAL for Virtual Facilitation: Canning the Brain Jam"
 
 +++
-This past week, Meg facilitated two [Brain Jams on using MURAL](https://www.facilitator.cards/blog/join-our-first-facilitator-brain-jam-using-mural-for-virtual-facilitation/) for virtual facilitation. I participated, learned a lot, and am here to share what stood out.
+This past week, Meg facilitated two [Brain Jams focused on using MURAL](https://www.facilitator.cards/blog/join-our-first-facilitator-brain-jam-using-mural-for-virtual-facilitation/) for virtual facilitation. I participated, learned a lot, and am here to share what stood out.
 
 First, I’ll say that we had a good range of [MURAL](https://mural.co) expertise in the few dozen facilitators who were jamming with us, from the “never used it” to the “very familiar”, and I’m smack dab in the middle.
 
