@@ -160,8 +160,8 @@ I know I’ll be using MURAL a lot in the coming months. One place where I know 
 
 And when we get back to in-person facilitation (When! Not if!), I can see myself continuing to use MURAL for facilitation planning and collaboration. What’s not to love about unlimited sticky notes? I’ve never known such power.
 
-Look for little pointers and step-by-steps on [our insta](https://www.instagram.com/facilitatorcards), and let me know what tips and tricks you’re finding useful if you’re dabbling in MURAL land.
+Look for little pointers and step-by-steps on [our insta](https://www.instagram.com/facilitatorcards), and tell us there what tips & tricks you’re finding useful if you’re dabbling in MURAL land.
 
-To everyone who jammed with us: it was a pleasure! I loved seeing all of your faces, and am grateful to have gained so much perspective in such a short amount of time!
+To everyone who jammed with us: it was a pleasure! I loved seeing all of your faces, and am grateful to have gained so much perspective in such a short amount of time.
 
 And to everyone who missed it: we’ll have another Brain Jam for you in the near future. [Stay tuned](https://facilitatorcards.ck.page/5450c9b287).
