@@ -42,6 +42,10 @@
         #main-nav {
             flex-grow: 0;
         }
+
+        .c-dropdown__menu {
+            border-radius: 0 0 .5rem .5rem;
+        }
     }
 
     @include mq('tablet') {
