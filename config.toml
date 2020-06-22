@@ -25,27 +25,33 @@ copyright = "This work is Uncopyrighted"
     email_list = "https://facilitatorcards.ck.page/4c87ee0944"
 
 # main menu
+
 [[menu.main]]
-    name = "Cards"
-    url = "/cards/"
+    name = "Shop Now"
+    url = "/shop/"
     weight = 1
 
 [[menu.main]]
-    name = "Story"
+    name = "The Cards"
+    url = "/cards/"
+    weight = 2
+
+[[menu.main]]
+    name = "Our Story"
     url = "/story/"
-    weight = 2
+    weight = 4
 
 [[menu.main]]
-    name = "How-To"
+    name = "How To Use"
     url = "/how/"
-    weight = 2
-
-[[menu.main]]
-    name = "Blog"
-    url = "/blog/"
     weight = 3
 
 [[menu.main]]
-    name = "Contact"
+    name = "The Blog"
+    url = "/blog/"
+    weight = 5
+
+[[menu.main]]
+    name = "Contact Meg & Sam"
     url = "/contact/"
-    weight = 4
+    weight = 6

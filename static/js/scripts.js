@@ -1,5 +1,6 @@
 //@prepros-prepend plugins/vanilla-tilt.min.js
 //@prepros-prepend plugins/wow.min.js
+//@prepros-prepend plugins/a11y-dropdown-component.js
 
 VanillaTilt.init(document.querySelectorAll(".sidebar .card"), {
 	glare: true,
@@ -19,9 +20,11 @@ window.onscroll = function changeNav(){
     var navBar = document.getElementById('masthead');
     var scrollPosY = window.pageYOffset | document.body.scrollTop;
 
-    if(scrollPosY > 15) {
+    if(scrollPosY > 1) {
           navBar.className = ('scrolled');
-    } else if(scrollPosY <= 15) {
+    } else if(scrollPosY <= 1) {
          navBar.className =  ('unscrolled');
     }
 }
+
+Dropdowns.init();

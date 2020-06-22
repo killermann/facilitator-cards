@@ -4,16 +4,21 @@
         {{ .Site.Title }}
     </a>
     <!-- <strong><a class="red" href="https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards?utm_source=HeaderText&utm_medium=FCSite&utm_campaign=Kickstarter" target="_blank" rel="noopener noreferrer">Kickstarter funded!</a></strong> -->
-    <nav id="main-nav" class="nav center-everything" role="navigation">
-        <ul class="menu center-everything">
-            {{ range .Site.Menus.main }}
-                <li class="menu-item {{ .Name }}"><a href="{{ .URL }}">{{ .Name }}</a></li>
-            {{ end }}
-            <li class="menu-cta">
-                <a class="button" href="https://gum.co/QYvjm" target="_blank" rel="noopener noreferrer" title="Get Early Bird Pricing">
-                     Preorder<span class="mobile-hide">&nbsp;Now</span>
-                </a>
-            </li>
-        </ul>
+    <nav id="main-nav" class="nav flex" role="navigation">
+        <div class="c-dropdown">
+            <button type="button" id="dropdown-trigger" class="c-btn u-p" data-component="dropdown" data-target="dropdown-menu">
+                Menu
+            </button>
+            <ul id="dropdown-menu" class="menu c-dropdown__menu" aria-hidden="true">
+                {{ range .Site.Menus.main }}
+                    <li class="c-dropdown__link {{ .Name }}"><a href="{{ .URL }}" data-focus>{{ .Name }}</a></li>
+                {{ end }}
+            </ul>
+        </div>
+        <div class="menu-cta">
+            <a href="https://gum.co/QYvjm" target="_blank" rel="noopener noreferrer" title="Get Early Bird Pricing">
+                 Get Your Deck
+            </a>
+        </div>
     </nav>
 </header>
