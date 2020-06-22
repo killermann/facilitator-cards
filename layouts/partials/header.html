@@ -16,8 +16,8 @@
             </ul>
         </div>
         <div class="menu-cta">
-            <a href="https://gum.co/QYvjm" target="_blank" rel="noopener noreferrer" title="Get Early Bird Pricing">
-                 Get Your Deck
+            <a href="{{ .Params.cta_link | default .Site.Params.cta_link }}" target="_blank" rel="noopener noreferrer" title="Get Early Bird Pricing">
+                 {{ .Params.cta_text | default .Site.Params.cta_text }}
             </a>
         </div>
     </nav>
