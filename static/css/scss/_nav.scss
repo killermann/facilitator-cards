@@ -25,6 +25,7 @@
         justify-content: space-between;
         position: fixed;
         padding: .5rem 1rem;
+        box-shadow: 0 0 2.5em 0 hsla(177%, 15%, 60%, .35);
 
         #logo-wrap {
             width: 44px;
@@ -49,8 +50,7 @@
         padding: 1rem;
 
         &.scrolled {
-            box-shadow: 0 0 2em 0 hsla(177%, 15%, 60%, .3);
-
+            
             #logo-wrap {
                 width: 400px;
                 height: auto;
@@ -239,6 +239,7 @@
 
     a:after {
         content: "→";
-        opacity: .3;
+        opacity: .2;
+        transition: ease-out .1s;
     }
   }
