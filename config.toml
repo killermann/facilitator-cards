@@ -24,13 +24,13 @@ copyright = "This work is Uncopyrighted"
     images = ["/img/social-share-facilitator-cards.png"]
     email_list = "https://facilitatorcards.ck.page/4c87ee0944"
     cta_link = "https://gum.co/QYvjm"
-    cta_text = "Get Your Deck"
+    cta_text = "Preorder Now"
 
 # main menu
 
 [[menu.main]]
     name = "Shop Now"
-    url = "/shop/"
+    url = "https://shop.facilitator.cards/"
     weight = 1
 
 [[menu.main]]
