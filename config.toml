@@ -23,29 +23,37 @@ copyright = "This work is Uncopyrighted"
     keywords = "facilitator, facilitation, facilitator tools, facilitator cards, training, trainer, training tools, training planning, resources, faciliatator resources"
     images = ["/img/social-share-facilitator-cards.png"]
     email_list = "https://facilitatorcards.ck.page/4c87ee0944"
+    cta_link = "https://gum.co/QYvjm"
+    cta_text = "Preorder Now"
 
 # main menu
+
 [[menu.main]]
-    name = "Cards"
-    url = "/cards/"
+    name = "Shop Now"
+    url = "https://shop.facilitator.cards/"
     weight = 1
 
 [[menu.main]]
-    name = "Story"
+    name = "The Cards"
+    url = "/cards/"
+    weight = 2
+
+[[menu.main]]
+    name = "Our Story"
     url = "/story/"
-    weight = 2
+    weight = 4
 
 [[menu.main]]
-    name = "How-To"
+    name = "How To Use"
     url = "/how/"
-    weight = 2
-
-[[menu.main]]
-    name = "Blog"
-    url = "/blog/"
     weight = 3
 
 [[menu.main]]
-    name = "Contact"
+    name = "The Blog"
+    url = "/blog/"
+    weight = 5
+
+[[menu.main]]
+    name = "Contact Meg & Sam"
     url = "/contact/"
-    weight = 4
+    weight = 6
