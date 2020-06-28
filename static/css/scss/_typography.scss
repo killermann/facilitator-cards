@@ -25,15 +25,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, .huge {
-    font-size: 3.815em;
+    font-size: 3.052em;
+    
+    @include mq('tablet') {
+        font-size: 3.815em;
+    }
 }
 
 h2, .big {
-    font-size:3.052em;
+    font-size: 1.953em;
+    @include mq('tablet') {
+        font-size:3.052em;
+    }
 }
 
 h3, .medium {
-    font-size:1.953em;
+    font-size: 1.563em;
+    @include mq('tablet') {
+        font-size:1.953em;
+    }
 }
 
 h4, .big-copy {
