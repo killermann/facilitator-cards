@@ -2,6 +2,7 @@
     <article class="page page--{{ .Params.class }}">
         <header class="page-title type-wrap text-center">
             <h1 class="huge">{{ .Title }}</h1>
+            {{ with .Params.subtitle }}<h2 class="big grey-500">{{ . }}</h2>{{ end }}
         </header>
         <section class="content entry-content">
             {{ .Content }}

@@ -31,29 +31,34 @@ copyright = "This work is Uncopyrighted"
 [[menu.main]]
     name = "Shop Now"
     url = "https://shop.facilitator.cards/"
-    weight = 1
+    weight = 100
 
 [[menu.main]]
-    name = "The Cards"
-    url = "/cards/"
-    weight = 2
+    name = "Preview Pack (Free!)"
+    url = "/preview-pack/"
+    weight = 200
 
 [[menu.main]]
     name = "Our Story"
     url = "/story/"
-    weight = 4
+    weight = 300
+
+[[menu.main]]
+    name = "The Cards"
+    url = "/cards/"
+    weight = 400
 
 [[menu.main]]
     name = "How To Use"
     url = "/how/"
-    weight = 3
+    weight = 500
 
 [[menu.main]]
     name = "The Blog"
     url = "/blog/"
-    weight = 5
+    weight = 600
 
 [[menu.main]]
     name = "Contact Meg & Sam"
     url = "/contact/"
-    weight = 6
+    weight = 700

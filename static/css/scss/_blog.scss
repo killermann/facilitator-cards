@@ -218,30 +218,3 @@
 .seva-custom-content {
     padding: 4vw;
 }
-
-.type-blog {
-    .entry-content {
-        h2 {
-            margin-top: 1.35em;
-            padding-top: .7em;
-            position: relative;
-            
-            &:before {
-                top: 0px;
-                left: 0px;
-                height: .15em;
-                width: 33.33%;
-                content: '';
-                background: $blue;
-                display: block;
-                position: absolute;
-                border-radius: .03em;
-            }
-        }
-
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    }
-}

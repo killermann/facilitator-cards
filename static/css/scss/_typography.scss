@@ -24,38 +24,22 @@ h1, h2, h3, h4, h5, h6 {
     line-height:1.05;
 }
 
-h1 {
-    font-size: 4em;
+h1, .huge {
+    font-size: 3.815em;
 }
 
-h2 {
-    font-size:3em;
+h2, .big {
+    font-size:3.052em;
 }
 
-h3 {
-    font-size:2.4em;
+h3, .medium {
+    font-size:1.953em;
 }
 
-h4 {
-    font-size:1.8em;
+h4, .big-copy {
+    font-size:1.25em;
 }
 
-
-.huge {
-    font-size:calc(2.7em + 1.5vw);
-}
-
-.big {
-    font-size:calc(2.2em + .7vw);
-}
-
-.medium {
-    font-size:calc(1.4em + .2vw);
-}
-
-.big-copy {
-    font-size: 1.25em;
-}
 
 .theme-font {
     font-family: $theme-font;

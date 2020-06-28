@@ -22,12 +22,15 @@ a:visited {
 
 
 .biglink {
+    @extend .big-copy;
     background:none;
     font-weight:bold;
     font-family:$theme-font;
     max-width:24em;
     display:inline-block;
-    border-bottom: 2px solid $blue;
+    border-bottom: .13em solid $blue;
+    text-decoration: none !important;
+    transition-duration: .1s !important;
 
     &:hover {
         color:$blue;
