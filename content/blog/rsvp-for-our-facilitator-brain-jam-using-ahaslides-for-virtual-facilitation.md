@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "resources"
 date = 2020-07-02T07:00:00Z
 description = "Join us as we crowdsource creative ways to use live polling to enhance Zoom meetings."
-draft = true
 featured_image = "/img/blog/element5-digital-t9cxbzluvic-unsplash-cropped.jpg"
 images = ["/img/blog/element5-digital-t9cxbzluvic-unsplash-cropped.jpg"]
 keywords = ["facilitator tool", "facilitator", "facilitation", "virtual facilitation", "remote facilitation", "digital facilitation"]
