@@ -24,8 +24,6 @@ If you’re interested in joining, [RSVP](https://hues.typeform.com/to/uuszYepV)
 
 When you fill out the [RSVP](https://hues.typeform.com/to/uuszYepV) for the Brain Jam you’ll be asked to do a quick AhaSlides survey and you’ll be able to get a sense of what engaging with the technology looks like from the participants’ perspective. To understand the experience for facilitators, the best way is to create a free account and check it out.
 
-![](https://lh4.googleusercontent.com/ncn9vOARa9XBnlF2B4zwiDZ6ikgHeQDjphvEmtjnzNqK-z81JHOIHDc22EDXTjUM81_n_u8ZCJ5Oxd4tWOsjaddmJoiouKaxBfuyq7XK6I7rkpgkLa-mDxiK2D6Rsglm8rU9L6Ip =595x337)
-
 ## What’s the flow of the Brain Jam?
 
 We’ll start by reviewing AhaSlides, ensuring everyone is familiar with the functionalities. We’ll get to see the results of your RSVP surveys and we’ll identify challenges in virtual facilitation AhaSlides can help us solve. In breakout groups, we’ll brainstorm how to use AhaSlides to address these challenges. And finally, we’ll close out by sourcing wisdom and insights from the small groups, leaving with new creative solutions to improve our facilitation practice.
