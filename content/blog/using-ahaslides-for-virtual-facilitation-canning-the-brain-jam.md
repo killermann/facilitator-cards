@@ -4,7 +4,7 @@ categories = "resources"
 date = ""
 description = ""
 draft = true
-featured_image = ""
+featured_image = "/img/blog/facilitator-cards-brain-jam-2-ahaslides.jpg"
 images = ["/img/blog/facilitator-cards-brain-jam-2-ahaslides.jpg", "/img/blog/ahaslides-brain-jam-brainstorming-vote.jpg", "/img/blog/ahaslides-brain-jam-environment-vote.jpg", "/img/blog/ahaslides-stoplight.jpg", "/img/blog/ahaslides-engage.jpg", "/img/blog/ahaslides-kinsey.jpg", "/img/blog/ahaslides-open-agenda.jpg"]
 keywords = ["ahaslides", "zoom", "digital facilitation", "facilitation tools", "virtual facilitator", "facilitator", "virtual facilitation", "facilitation"]
 photo_cred = ""
@@ -96,7 +96,6 @@ A lot of us have grown accustomed to start in-person facilitations with some sor
 
 Using AhaSlides, you can elegantly do this in a way that is inviting, smile-inducing, and actually a little more seamless than it usually happens in-person.
 
-  
 ![AhaSlides Poll - I plan to engage...](/img/blog/ahaslides-engage.jpg)
 
 You can see this in action in the video recap of our Brain Jam, or [check out the presentation view of our demo](https://presenter.ahaslides.com/share/1595008667117-a9psoeo6ys?presenting=true) to see what your fellow blog readers have submitted.
@@ -125,7 +124,6 @@ While we wouldn’t typically line up our participants and have them disclose th
 
 Here’s the slide we demonstrated in the Brain Jam:
 
-  
 ![](/img/blog/ahaslides-kinsey.jpg)
 
 This same premise can be applied to a lot of other disclosures, creating spaces for vulnerability without risk, and getting a sense of where a group _really_ stands on an issue.
@@ -148,7 +146,7 @@ One of the questions Meg asked had the potential for a split vote, so we needed 
 
 I wrote up an explanation of that [on our Instagram](https://www.instagram.com/p/CCZCrKynivS/), and you can click through it below:
 
-TK INSTAGRAM
+{{< instagram CCZCrKynivS >}}
 
 ### **Double Bonus: Create Open Agendas with AhaSlides**
 
