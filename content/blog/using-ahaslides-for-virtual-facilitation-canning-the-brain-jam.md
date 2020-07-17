@@ -1,12 +1,12 @@
 +++
-author = ""
-categories = ""
+author = "Sam Killermann"
+categories = "resources"
 date = ""
 description = ""
 draft = true
 featured_image = ""
 images = ["/img/blog/facilitator-cards-brain-jam-2-ahaslides.jpg", "/img/blog/ahaslides-brain-jam-brainstorming-vote.jpg", "/img/blog/ahaslides-brain-jam-environment-vote.jpg", "/img/blog/ahaslides-stoplight.jpg", "/img/blog/ahaslides-engage.jpg", "/img/blog/ahaslides-kinsey.jpg", "/img/blog/ahaslides-open-agenda.jpg"]
-keywords = []
+keywords = ["ahaslides", "zoom", "digital facilitation", "facilitation tools", "virtual facilitator", "facilitator", "virtual facilitation", "facilitation"]
 photo_cred = ""
 title = "Using AhaSlides for Virtual Facilitation: Canning the Brain Jam"
 
@@ -27,7 +27,7 @@ What’s the verdict for AhaSlides? I think you’ll be able to guess my vote by
 
 As you know, because you’re a facilitator, watching a recording of a facilitation experience isn’t the same as participating. But we have the video below for your watching regardless And if you’re not a facilitator, how did you get past the guard?
 
-{{< youtube 4pGvkv-LKAY >}}
+{{< youtube Ph56JhjdmmA >}}
 
 What you’ll see if you watch that video, and the general flow of this week’s Brain Jam:
 
