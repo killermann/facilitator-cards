@@ -2,7 +2,7 @@
 author = "Sam Killermann"
 categories = "resources"
 date = 2020-07-17T20:00:00Z
-description = "What roles can live polling software play in a Zoom meeting? Turns out, a lot!"
+description = "What roles can live polling software play in a Zoom meeting? Turns out, a bunch!"
 featured_image = "/img/blog/facilitator-cards-brain-jam-2-ahaslides.jpg"
 images = ["/img/blog/facilitator-cards-brain-jam-2-ahaslides.jpg", "/img/blog/ahaslides-brain-jam-brainstorming-vote.jpg", "/img/blog/ahaslides-brain-jam-environment-vote.jpg", "/img/blog/ahaslides-stoplight.jpg", "/img/blog/ahaslides-engage.jpg", "/img/blog/ahaslides-kinsey.jpg", "/img/blog/ahaslides-open-agenda.jpg"]
 keywords = ["ahaslides", "zoom", "digital facilitation", "facilitation tools", "virtual facilitator", "facilitator", "virtual facilitation", "facilitation"]
