@@ -175,3 +175,7 @@ If you’re struggling in your virtual facilitations in similar ways to how we a
 As soon as you start poking around the backend, I bet it’ll be lightbulb after lightbulb of ways this tool can help you. And if that’s the case, please [tell us](https://www.facilitator.cards/contact) about the ideas you’re most excited about! Maybe we can add to this list, or do a follow-up.
 
 And with that, I’ll leave you with this: 🤡.
+
+***
+
+Oh, and full (non-)disclosure: this Brain Jam / blog post was not sponsored by or affiliated with AhaSlides in any way; AhaSlides is just a cool technology that we were excited to learn about, and thought you all might benefit from learning about as well.
