@@ -153,4 +153,23 @@ We reserve the right, at our sole discretion, to update, change or replace any p
 
 ## SECTION 20 - CONTACT INFORMATION
 
-Questions about the Terms of Service should be sent to us at Hello@facilitator.cards.
+Questions about the Terms of Service should be sent to us at hello@facilitator.cards.
+
+## Reader Submission Terms
+
+If you submit content to this site (via a form submission, via email, or via one of our official social media profiles), and we choose to publish it, here's **our promise to you**:
+
+- We'll attribute you however you want to be attributed (including keeping your name anonymous if that's your request).
+- We'll edit the submission for grammar/clarity and work to present your content in the best possible light.
+
+**By submitting content, you agree** that you have read, understand and accept the following terms in relation to the content and information (“Your Content”) you will send to Facilitator Cards (FC,” "we," "us,” "our"):
+
+- Subject to the following and preceding provisions, Your Content may be published in any media format by us. Your Content will be put into the public domain, as everything we publish here is uncopyrighted.
+- You are legally responsible for Your Content.
+- Your content is not false or libelous, does not plagiarize or otherwise infringe on the rights, data protection, or confidentiality of any third party.
+- Your Content is truthful and honest, and to the best of your ability it reflects the reality of your situation or beliefs.
+- Your Content does not impersonate anyone else.
+- You retain any copyright you may have in Your Content.  By submitting Your Content to us, you grant us a royalty-free, perpetual, irrevocable, non-exclusive worldwide license to use, copy, host, index, cache, tag, encode, edit, transmit, adapt, modify, publish, translate, publicly display, publicly perform, create derivative works from, make available, communicate and distribute Your Content (in whole or part) and/or to incorporate it in other works in any form, media, or technology now known or later developed.  By submitting Your Content, you warrant that you have the right to grant this license. The license is capable of sub-license by me to other entities and brands in our group as well as third parties.
+- To the extent permitted by law, you waive your moral rights (e.g., the right to be identified as author or to object to derogatory treatment) in Your Content.
+- FC may edit, add to, remove or otherwise amend Your Content (or any part of it) in any way as we see fit in our sole discretion (e.g., without limitation we may edit Your Content for length and style and/or use it for or incorporate it in related articles).  We may do any of these things whether or not Your Content has been published.  We are not obliged to do any of these things and we may not.
+- You agree to the General Terms & Conditions as stated above, and have read and understood our [Privacy Policy](/privacy/).
