@@ -30,7 +30,7 @@ copyright = "This work is Uncopyrighted"
 
 [[menu.main]]
     name = "Shop Now"
-    url = "https://shop.facilitator.cards/"
+    url = "/shop/"
     weight = 100
 
 [[menu.main]]
