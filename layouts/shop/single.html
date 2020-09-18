@@ -1,0 +1,314 @@
+{{ define "title" }}
+    {{ .Title }}
+{{ end }}
+{{ define "main" }}
+<div class="container">
+  <header class="wrap content hero">
+    <img class="hero-image"
+      srcset="
+      /img/product/facilitator-cards-social-card-blended-500w.jpg 500w,
+      /img/product/facilitator-cards-social-card-blended-750w.jpg 750w"
+      src="/img/product/facilitator-cards-social-card-blended-1000w.jpg"
+      alt="A stack of facilitator cards with Magnet Statements top"
+      />
+    <div class="hero-text">
+      <h1 class="big">{{ .Params.cta }}</h1>
+      <p class="medium">{{ .Params.description }}</p>
+      <a href="https://shop.blackbox.cool/products/prod_0xafq1i2judxci/facilitator-cards" class="blackbox-widget" data-product="prod_0xafq1i2judxci" data-color="#097484" title="Buy Facilitator Cards on Blackbox">Buy Facilitator Cards</a>
+      <script>
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://cdn.blackbox.cool/embed/widget.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'bb-wjs');
+      </script>
+    </div>
+  </header>
+  <section class="bigpad">
+    <ul class="gallery">
+      {{ range .Params.images }}
+      <li><img src="{{ . }}"/></li>
+      {{ end }}
+    </ul>   
+  </section>
+  <section class="buyindie center-everything theme-font text-center">
+    <div class="buyindie-code">
+      <strong class="medium">Use code BUYINDIE for $10+ off your deck.</strong>
+    </div>
+    <small>*Technically, you’ll get 15% off. So that’s even more than $10, but who’s counting?</small>
+  </section>
+  <div class="text-center pad">
+    <a href="https://shop.blackbox.cool/products/prod_0xafq1i2judxci/facilitator-cards" class="blackbox-widget" data-product="prod_0xafq1i2judxci" data-color="#097484" title="Buy Facilitator Cards on Blackbox">Buy Facilitator Cards</a>
+  </div>
+  <section class="bigpad theme-font">
+    <div class="type-wrap">
+      <h2 class="big text-center">Creative facilitation<br/> made easy.</h2>
+      <p class="medium text-center">Our mission is to help people who engage groups in process. Here's how the cards fit into that.</p>
+    </div>
+   
+      <div class="flex-list">
+        <div class="flex-list-item flex wow">
+            <div class="icon grey-500">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.2;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-map</title><g class="cls-1"><polygon class="cls-2" points="40 55.5 23 48.5 23 8.5 40 14.5 40 55.5"/><polygon class="cls-3" points="23 48.5 6 55.5 6 14.5 23 8.5 23 48.5"/><polygon class="cls-3" points="40 55.5 23 48.5 23 8.5 40 14.5 40 55.5"/><polygon class="cls-3" points="58 49.5 40 55.5 40 14.5 58 8.5 58 49.5"/></g></svg>
+            </div>
+            <div class="text theme-font">
+                <h3 class="medium grey-500">
+                    For Planning
+                </h3>
+                <p class="big-copy">
+                    Easily map out the processing tools and flow you'll use to accomplish your goals. Jot down the activity you're planning on each card. Erase or reorder &mdash; flexibility on demand.
+                </p>
+            </div>
+        </div><!--/planning-->
+        <div class="flex-list-item flex wow">
+            <div class="icon grey-500">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.2;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-reply</title><g class="cls-1"><path class="cls-2" d="M12,32,9,40l11-3s1-8,7-12,14.76-2.88,14.76-2.88c0-7.8-8-14.12-17.88-14.12S6,14.32,6,22.12a12.89,12.89,0,0,0,5.65,10.29"/></g><path class="cls-3" d="M11.65,32.41A12.89,12.89,0,0,1,6,22.12C6,14.32,14,8,23.88,8s17.88,6.32,17.88,14.12"/><polyline class="cls-3" points="11.65 32.47 8.82 40 20 37"/><path class="cls-3" d="M52,47.94c3.69-2.74,6-6.63,6-10.94,0-8.28-8.51-15-19-15S20,28.72,20,37c0,7.75,7.45,14.13,17,14.92.66,0,1.32.08,2,.08"/><polyline class="cls-3" points="52 48 55 56 39 52"/></svg>
+            </div>
+            <div class="text theme-font">
+                <h3 class="medium grey-500">
+                    For Responding
+                </h3>
+                <p class="big-copy">
+                    When a new need presents itself during a facilitation, choose from your remaining cards to react accordingly. Give your group the power to help steer the ship.
+                </p>
+            </div>
+        </div><!--/responding-->
+        <div class="flex-list-item theme-font flex wow">
+            <div class="icon grey-500">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><style>.cls-1{isolation:isolate;}.cls-2{opacity:0.2;mix-blend-mode:color-burn;}.cls-3{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><title>fcicons-hat</title><g class="cls-1"><ellipse class="cls-2" cx="32" cy="19" rx="13.5" ry="4.5"/><path class="cls-2" d="M34,29.5l-17-2v8c0,.33,17,1.66,17,2v11c0,4-5,9-10,7,0,0,21.76,4.49,24-7,.8-4.11-2.18-19.31-1-22C47,26.5,44,29.5,34,29.5Z"/></g><path class="cls-3" d="M48,48c0,4.69-7.16,8.5-16,8.5S16,52.69,16,48"/><ellipse class="cls-3" cx="32" cy="18.5" rx="22.5" ry="11"/><line class="cls-3" x1="16" y1="48.5" x2="17" y2="27.5"/><line class="cls-3" x1="48" y1="48.5" x2="47" y2="27.5"/><path class="cls-3" d="M47,35.5a40.84,40.84,0,0,1-15,3,40.84,40.84,0,0,1-15-3"/><path class="cls-3" d="M21,18.5s2,2,11,2,11-2,11-2"/></svg>
+            </div>
+            <div class="text theme-font">
+                <h3 class="medium grey-500">
+                    For Improvising
+                </h3>
+                <p class="big-copy">
+                  Have an hour left that you weren't expecting? Did your ideation activity fall flat on its face? No worries! Shuffle the deck. Choose another card.
+                </p>
+            </div>
+        </div><!--/improvising-->
+        <div class="flex-list-item theme-font flex wow">
+          <div class="icon grey-500">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><g><path opacity=".2" style="mix-blend-mode:color-burn" d="M44.9 37.1L39.8 32l7.8-7.8-7.8-7.8-7.8 7.8-9.1-9-7.8 7.7 9.1 9.1L4.4 51.9l7.7 7.7L32 39.8h.1L52 59.7l7.7-7.7L45 37z"/><path d="M44 32l17.8-17.7a3 3 0 000-4.3L54 2.2a3 3 0 00-4.2 0L38.9 13.1 32 20 14.3 2.2a3 3 0 00-4.3 0L2.2 10a3 3 0 000 4.2l10.9 10.9L20 32 3 49a3 3 0 000 4.2l7.8 7.8a3 3 0 004.2 0l17-17 17 17a3 3 0 004.2 0l7.8-7.8a3 3 0 000-4.2zm7.9-23.4l3.5 3.5-6.6 6.6-3.5-3.5zM12 8.6l6.6 6.6-3.5 3.5-6.6-6.6zM19.4 23l3.6-3.6 4.8 4.8-3.5 3.6zM13 54.6l-3.5-3.5L34 26.3l6.9-6.9 3.6 3.6zm38.2 0L36.2 39.8l3.6-3.6 14.8 14.9z" fill="currentColor"/></g></svg>
+          </div>
+          <div class="text theme-font">
+              <h3 class="medium grey-500">
+                  For Co-Facilitating
+              </h3>
+              <p class="big-copy">
+                Sharing a common language and a comprehensive set of tools, you can seamlessly work alongside other facilitators. Whether it's your first time teaming up or the thousandth.
+              </p>
+          </div>
+      </div><!--/co-facilitating-->
+    </div><!--/flex-list-->
+    <div class="text-center">
+      <a href="/cards/" class="biglink">Preview the cards &rarr;</a>&nbsp;&nbsp;&nbsp;&nbsp;  
+      <a href="/how/" class="biglink">More on how to use them &rarr;</a>
+    </div>
+  </section>
+  <section id="multipack-discounts" class="bigpad theme-font">
+    <div class="narrow-type">
+      <h2 class="medium">Want a bigger discount?</h2>
+      <p class="big-copy">We’re happy to help! We offer easy-peasy, no-questions rebates on all multi-deck orders placed directly with us.</p>
+    </div>
+    
+    <div class="pricing">
+      <div class="pricing-items">
+        <div class="pricing-item">
+          <div class="pricing-item-inner">
+            <div class="pricing-item-content">
+              <div class="pricing-item-header">
+                <div
+                  class="pricing-item-price medium"
+                  data-price-output='{
+                    "0": ["1", "$0", "deck"],
+                    "1": ["2", "$10", "decks"],
+                    "2": ["3", "$15", "decks"],
+                    "3": ["4", "$24", "decks"],
+                    "4": ["5", "$30", "decks"],
+                    "5": ["6", "$42", "decks"],
+                    "6": ["7", "$49", "decks"],
+                    "7": ["8", "$64", "decks"],
+                    "8": ["9", "$72", "decks"]
+                  }'
+                >
+                  <strong>
+                    Order 
+                    <span class="big-counter"><span class="pricing-item-price-currency"></span></span>
+                    <span class="pricing-item-price-after"></span>
+                    and<br/> save an extra
+                    <span class="big-counter"><span class="pricing-item-price-amount"></span></span>
+                    after rebate.
+                  </strong>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div><!--pricing-items-->
+      <div class="pricing-slider">
+        <label class="form-slider">
+          <span class="slide-this">Slide this:</span>
+          <input
+            type="range"
+            value="1"
+            data-price-input='{
+                "0": "1",
+                "1": "2",
+                "2": "3",
+                "3": "4",
+                "4": "5",
+                "5": "6",
+                "6": "7",
+                "7": "8",
+                "8": "9"
+              }'
+          />
+        </label>
+        <span class="pricing-slider-value"></span>
+      </div>
+      <p class="big-copy">Get a co-facilitator (or two, or five) to order with you. Every extra deck gets you another chunk of cash back. Slide this bar and bask in the savings.</p>
+      <p>For orders of more than 9 decks, contact us for bulk pricing discounts.</p>
+    </div>
+  </section>
+
+  <script>
+    (function() {
+  const pricingSliders = document.querySelectorAll(".pricing-slider");
+
+  if (pricingSliders.length > 0) {
+    for (let i = 0; i < pricingSliders.length; i++) {
+      const pricingSlider = pricingSliders[i];
+
+      // Build the input object
+      const pricingInput = {
+        el: pricingSlider.querySelector("input")
+      };
+      pricingInput.data = JSON.parse(
+        pricingInput.el.getAttribute("data-price-input")
+      );
+      pricingInput.currentValEl = pricingSlider.querySelector(
+        ".pricing-slider-value"
+      );
+      pricingInput.thumbSize = parseInt(
+        window
+          .getComputedStyle(pricingInput.currentValEl)
+          .getPropertyValue("--thumb-size"),
+        10
+      );
+
+      // Build the output array
+      const pricingOutputEls = pricingSlider.parentNode.querySelectorAll(
+        ".pricing-item-price"
+      );
+      const pricingOutput = [];
+      for (let i = 0; i < pricingOutputEls.length; i++) {
+        const pricingOutputEl = pricingOutputEls[i];
+        const pricingOutputObj = {};
+        pricingOutputObj.currency = pricingOutputEl.querySelector(
+          ".pricing-item-price-currency"
+        );
+        pricingOutputObj.amount = pricingOutputEl.querySelector(
+          ".pricing-item-price-amount"
+        );
+        pricingOutputObj.after = pricingOutputEl.querySelector(
+          ".pricing-item-price-after"
+        );
+        pricingOutputObj.data = JSON.parse(
+          pricingOutputEl.getAttribute("data-price-output")
+        );
+        pricingOutput.push(pricingOutputObj);
+      }
+
+      pricingInput.el.setAttribute("min", 0);
+      pricingInput.el.setAttribute(
+        "max",
+        Object.keys(pricingInput.data).length - 1
+      );
+      !pricingInput.el.getAttribute("value") &&
+        pricingInput.el.setAttribute("value", 0);
+
+      handlePricingSlider(pricingInput, pricingOutput);
+      window.addEventListener("input", function() {
+        handlePricingSlider(pricingInput, pricingOutput);
+      });
+    }
+  }
+
+  function handlePricingSlider(input, output) {
+    // output the current slider value
+    if (input.currentValEl)
+      input.currentValEl.innerHTML = input.data[input.el.value];
+    // update prices
+    for (let i = 0; i < output.length; i++) {
+      const outputObj = output[i];
+      if (outputObj.currency)
+        outputObj.currency.innerHTML = outputObj.data[input.el.value][0];
+      if (outputObj.amount)
+        outputObj.amount.innerHTML = outputObj.data[input.el.value][1];
+      if (outputObj.after)
+        outputObj.after.innerHTML = outputObj.data[input.el.value][2];
+    }
+    handleSliderValuePosition(input);
+  }
+
+  function handleSliderValuePosition(input) {
+    const multiplier = input.el.value / input.el.max;
+    const thumbOffset = input.thumbSize * multiplier;
+    const priceInputOffset =
+      (input.thumbSize - input.currentValEl.clientWidth) / 2;
+    input.currentValEl.style.left =
+      input.el.clientWidth * multiplier - thumbOffset + priceInputOffset + "px";
+  }
+})();
+
+  </script>
+
+  <div class="text-center">
+    <a href="https://shop.blackbox.cool/products/prod_0xafq1i2judxci/facilitator-cards" class="blackbox-widget" data-product="prod_0xafq1i2judxci" data-color="#097484" title="Buy Facilitator Cards on Blackbox">Buy Facilitator Cards</a>
+  </div>
+  
+  <section class="grey-900 doodle-yellow">
+    <div class="whats-included pad">
+      <h2 class="medium"><span>↑ What's Included?</span></h2>
+      <ul class="theme-font big-copy">
+          <li>
+            A deck of <strong>60 waterproof, basically-indestructible Facilitator Cards</strong> (and a box to keep them in). 
+          </li>
+          <li>
+            <strong>Instructions</strong> for using the cards, the theory behind them, and more.
+          </li>
+          <li>
+            A .PDF of our book, <a target="_blank" rel="noopener noreferrer" href="http://facilitationmagic.com/"><strong>Unlocking the Magic of Facilitation</strong>: 11 Key Concepts You Didn't Know You Didn't Know</a>
+          </li>
+          <li>
+            The set of <strong>facilitator icons</strong> (that you see on the cards) you can use however you want (e.g., for your planning, or virtual facilitation).
+          </li>
+          <li>
+            Exclusive <strong>access to a community</strong> of card-carrying facilitators.
+          </li>
+          <li>
+            <strong>Facilitator Guide</strong> detailing the processes on the cards, specifically tailored for virtual (i.e. Zoom) facilitation (as soon it's published!).
+          </li>
+          <li>
+            And <strong>a cavalcade of facilitator resources</strong> delivered to you as we make them. As a Card-Carrying Facilitator, we'll give you access to everything we make here for as long as we are able to keep making stuff.
+          </li>
+        </ul>
+    </div>
+
+    <div class="share-this">
+      <p>Share with a friend who would love easy, creative facilitation on demand:</p>
+      <p>
+        <a class="social-share button" target="_blank" rel="noopener noreferrer" href="//www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" title="Share on Facebook">
+          <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-square" class="svg-inline--fa fa-facebook-square fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"></path></svg>        
+        </a>
+        <a class="social-share button" target="_blank" rel="noopener noreferrer" href="//twitter.com/share?url={{ .Permalink }}&amp;text={{ .Title }}&amp;via={{ .Site.Social.twitter }}" title="Share on Twitter">
+          <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>
+        </a>
+        <a class="social-share button" target="_blank" rel="noopener noreferrer" href="//www.linkedin.com/shareArticle?url={{ .Permalink }}&amp;title={{ .Title }}" title="Share on LinkedIn">
+            <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>
+        </a>
+        <a class="social-share button" target="_blank" rel="noopener noreferrer" href="mailto:?subject=Check out the Facilitator Cards Preview Pack&amp;body={{ .Permalink }}" title="Share via Email">
+            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope-square" class="svg-inline--fa fa-envelope-square fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M400 32H48C21.49 32 0 53.49 0 80v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V80c0-26.51-21.49-48-48-48zM178.117 262.104C87.429 196.287 88.353 196.121 64 177.167V152c0-13.255 10.745-24 24-24h272c13.255 0 24 10.745 24 24v25.167c-24.371 18.969-23.434 19.124-114.117 84.938-10.5 7.655-31.392 26.12-45.883 25.894-14.503.218-35.367-18.227-45.883-25.895zM384 217.775V360c0 13.255-10.745 24-24 24H88c-13.255 0-24-10.745-24-24V217.775c13.958 10.794 33.329 25.236 95.303 70.214 14.162 10.341 37.975 32.145 64.694 32.01 26.887.134 51.037-22.041 64.72-32.025 61.958-44.965 81.325-59.406 95.283-70.199z"></path></svg>
+        </a>
+      </p>
+    </div>
+   
+  </section>
+</div>
+{{ end }}

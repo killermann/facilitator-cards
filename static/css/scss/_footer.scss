@@ -47,6 +47,10 @@
         margin-bottom: -1px;
     }
 
+    .button {
+        min-width: 200px;
+    }
+
     .mailing-list {
         input[type=email]{
             background:hsla(0,0,100%,.95);

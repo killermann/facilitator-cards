@@ -1,11 +1,12 @@
-
+<div class="banner-notice text-center theme-font">
+    <span><strong>Free shipping</strong> on all domestic orders! (And we’ll split the cost with you on international shipping.)</span>
+</div>
 <header id="masthead">
     <div id="logo-wrap">
         <a id="logo" href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">
             {{ .Site.Title }}
         </a>
     </div>
-    <!-- <strong><a class="red" href="https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards?utm_source=HeaderText&utm_medium=FCSite&utm_campaign=Kickstarter" target="_blank" rel="noopener noreferrer">Kickstarter funded!</a></strong> -->
     <nav id="main-nav" class="nav flex" role="navigation">
         <div class="c-dropdown">
             <button type="button" id="dropdown-trigger" class="c-btn u-p" data-component="dropdown" data-target="dropdown-menu">
@@ -18,8 +19,8 @@
             </ul>
         </div>
         <div class="menu-cta">
-            <a href="{{ .Params.cta_link | default .Site.Params.cta_link }}" target="_blank" rel="noopener noreferrer" title="Get Early Bird Pricing">
-                 {{ .Params.cta_text | default .Site.Params.cta_text }}
+            <a href="{{ .Params.cta_link | default .Site.Params.cta_link }}">
+                {{ .Params.cta_text | default .Site.Params.cta_text }}
             </a>
         </div>
     </nav>
