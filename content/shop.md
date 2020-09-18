@@ -1,5 +1,7 @@
 ---
 title: "Shop"
+seo_title: "The Facilitator Cards Shop"
+seo_description: "Tools for facilitators, not your participants. A deck of cards that give creativity on demand as you plan trainings and run meetings."
 cta: "A deck for you, not your participants."
 description: "Creative facilitation made easy. 60 waterproof cards for planning, responding, improvising, and co-facilitating."
 type: "shop"
