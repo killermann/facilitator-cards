@@ -137,9 +137,10 @@
     background: hsla(177%, 10%, 6%, 1);
     color: hsla(177%, 10%, 76%, 1);
     padding-top: 0;
+    margin-top: -2px;
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    align-items: flex-start;
+    justify-content: center;
 
     p {
         margin: 0;
@@ -153,6 +154,13 @@
     
 
     svg {
+        min-width: 80px;
+        margin: 0 1em 0 0;
         background: hsla(177%, 10%, 12%, 1);
+
+        @include mq('tablet'){
+            min-width: 150px;
+            margin: 0 4vw 0 0;
+        }
     }
 }
