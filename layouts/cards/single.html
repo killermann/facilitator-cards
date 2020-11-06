@@ -13,8 +13,8 @@
             <h1>{{ .Title }}</h1>
             <p class="card-blurb">{{ .Params.explanation }}</p>
         </header>
-        <!-- <div class="content entry-content">
-        {{ if .Params.general_notes }}
+        <div class="content entry-content">
+        <!-- {{ if .Params.general_notes }}
             <h2>General Notes</h2>
             {{- $markdown := .Params.general_notes | markdownify -}}
             {{ if not ( findRE "<[h|p][^>]*>" $markdown ) }}
@@ -22,18 +22,15 @@
             {{ else }}
                 {{ $markdown }}
             {{ end }}
-        {{ end }}    
+        {{ end }} -->
         {{ if .Params.zooming }}
             <h2>Virtual Facilitation</h2>
-            <p>Everything you need to facilitate this process in a virtual meeting using Zoom or a platform with similar features.</p>
-            {{- $markdown := .Params.zooming | markdownify -}}
-            {{ if not ( findRE "<[h|p][^>]*>" $markdown ) }}
-                <p>{{ $markdown }}</p>
-            {{ else }}
-                {{ $markdown }}
-            {{ end }}
+            <p>In our <a href="https://virtual.facilitator.cards" target="_blank" rel="noopener noreferrer">Virtual Facilitation Guide</a>, we have activities that provide you with step-by-step instructions and everything you need to facilitate {{ .Title }} in a virtual meeting using Zoom or a platform with similar features.</p>
+            <p>
+                <a class="biglink" href="{{ .Params.zooming }}" target="_blank" rel="noopener noreferrer">Browse {{ .Title }} Virtual Activities &rarr;</a>
+            </p>
         {{ end }}
-        </div> -->
+        </div>
 
     </main>
     <aside class="card-aside meta flex flex-col">
