@@ -12,6 +12,9 @@
         {{ with .Params.description }}
         <p class="big-copy excerpt">{{ . }}</p>
         {{ end }}
+        {{ range .Params.tags }}
+        <a class="grey-700" href="tags/{{ . | urlize }}">#{{ . }}</a>
+        {{ end }}
     </aside>
 
     <header class="single-title content">

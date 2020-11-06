@@ -8,8 +8,8 @@ images = ["/img/blog/facilitator-cards-brain-jam-2-ahaslides.jpg", "/img/blog/ah
 keywords = ["ahaslides", "zoom", "digital facilitation", "facilitation tools", "virtual facilitator", "facilitator", "virtual facilitation", "facilitation"]
 photo_cred = ""
 title = "Using AhaSlides for Virtual Facilitation: Canning the Brain Jam"
-
 +++
+
 For [our second Brain Jam](https://www.facilitator.cards/blog/rsvp-for-our-facilitator-brain-jam-using-ahaslides-for-virtual-facilitation/), Meg facilitated two Zoom sessions where we explored the live-polling software [AhaSlides](https://ahaslides.com/), coming up with ways it might help us clear our biggest virtual facilitation hurdles. I’m here to share some of the ideas I was most excited about.
 
 If you’ve never used AhaSlides, think [Poll Everywhere](https://www.polleverywhere.com/?ref=PIW0qgbZ&campaignid=9995717487&adgroupid=102219838233&keyword=poll%20everywhere&matchtype=e&device=c&keywordid=aud-602677925722:kwd-304786950627&gclid=CjwKCAjwmMX4BRAAEiwA-zM4JhErc5n0lwYZwep4E40e1mHCIIR1cOyMmzZRAoh00toudAYCkiYxThoC_QIQAvD_BwE), but easier, and with a more inviting, modern user interface. And if you’ve never used either, you’re in for a treat.
@@ -144,8 +144,6 @@ This one isn’t directly related to those challenges. And it didn’t come up i
 One of the questions Meg asked had the potential for a split vote, so we needed a back-up plan. After talking it through, we realized how absolutely _perfect_ AhaSlides is for facilitating the execution process [vanishing options](https://www.facilitator.cards/cards/vanishing-options/).
 
 I wrote up an explanation of that [on our Instagram](https://www.instagram.com/p/CCZCrKynivS/), and you can click through it below:
-
-{{< instagram CCZCrKynivS >}}
 
 ### **Double Bonus: Create Open Agendas with AhaSlides**
 

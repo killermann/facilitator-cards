@@ -5,4 +5,5 @@ class = ""
 images = []
 tags = []
 categories = []
+disable_comments = true
 +++

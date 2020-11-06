@@ -9,6 +9,8 @@ We bet you could put these tools to work without any guidance from us. You’re 
 
 Consider us your humble guides, here to show you around a few different aspects of the cards we’re excited about, and to share some of the thinking that went into creating them, giving you a glimpse through our eyes.
 
+<div style="margin: 1.5em auto; font-size:.8em;" class="pad type-wrap rainbow-bg rounded"><p style="margin: 0 auto;">👩‍💻 Visit the <a href="https://virtual.facilitator.cards"><strong>Virtual Facilitator Cards Facilitation Guide</strong></a> if you're looking for help using these processes on Zoom!</p></div>
+
 That said, if you use Facilitator Cards for your planning, for responding to your group’s needs, or for improvising when the unexpected comes up — however you’re using them — you’re using them right. You really can’t do it wrong. 
 
 (By the way, we believe "you can't do it wrong" so adamantly that we’d love to hear from you, _especially_ if you’re using them in ways we don’t recommend. Our bet is you’re not doing anything wrong, but instead that you’ve figured out something brilliant we overlooked. [Would you care to share](/contact/) with the rest of the group?)

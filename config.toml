@@ -59,6 +59,11 @@ copyright = "This work is Uncopyrighted"
     weight = 600
 
 [[menu.main]]
+    name = "Virtual Guide"
+    url = "https://virtual.facilitator.cards"
+    weight = 700
+
+[[menu.main]]
     name = "Contact Meg & Sam"
     url = "/contact/"
-    weight = 700
+    weight = 800
