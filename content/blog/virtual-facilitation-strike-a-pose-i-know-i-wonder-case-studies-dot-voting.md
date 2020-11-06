@@ -2,7 +2,7 @@
 author = "Sam Killermann"
 categories = "Using the Cards"
 tags = ["Virtual Facilitation", "Stacks", "Virtual Stacks"]
-date = 2020-11-02T06:00:00Z
+date = 2020-11-06T06:00:00Z
 description = "A stack of cards you can use for an engaging Zoom meeting that surfaces emotions, ideas, clarifies those ideas, and finally lands on a collective decision."
 featured_image = "/img/blog/virtual-stack-strike-a-pose-to-dot-voting.jpg"
 images = ["/img/blog/virtual-stack-strike-a-pose-to-dot-voting.jpg"]
@@ -10,6 +10,7 @@ keywords = ["ahaslides", "zoom", "digital facilitation", "facilitation tools", "
 photo_cred = ""
 title = "Virtual Facilitation Agenda: Four Activities from Strike a Pose to Dot Voting"
 disable_comments = true
+facebook_discussion = "https://www.facebook.com/FacilitatorCards/posts/398809078195442"
 +++
 
 Last week we launched our [Virtual Facilitation Guide for Facilitator Cards](https://virtual.facilitator.cards). To help us all transition to this new world of virtual facilitation, we'll be publishing activities new stacks of cards there every week. Here, we'll be writing up agendas you can use to facilitate each stack.
