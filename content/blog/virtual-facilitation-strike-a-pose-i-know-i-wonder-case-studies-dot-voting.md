@@ -87,7 +87,7 @@ After you've filled the columns or exhausted the shares, transition with the fol
 
 > "Now we're going to be breaking into small groups to tackle a few of the more poignant shares you all are wondering about."
 
-## 3. Case Studies
+## 3. Case Studies on Zoom Using Google Docs
 
 Again, not to be repetitive, but remember what your overall goal is with this sequence. We're going to be moving into Dot Voting next, and the last thing we need before voting on options is clarification for everyone about what those options are (or what the important facts are undergirding your possible decisions).
 
@@ -109,7 +109,7 @@ After you've dispersed your groups, given them enough time to work through their
 
 > "It's Dot Voting time!"
 
-## 4. Dot Voting
+## 4. Dot Voting on Zoom using MURAL
 
 Like with Case Studies, there are two routes you might take with [Dot Voting on MURAL](https://virtual.facilitator.cards/dot-voting-on-zoom-using-mural-meg-bolger).
 
