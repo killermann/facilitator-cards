@@ -1,19 +1,19 @@
 +++
 author = "Sam Killermann"
 categories = "Using the Cards"
-tags = ["Virtual Facilitation", "Stacks", "Virtual Stacks"]
 date = 2020-11-12T07:32:21Z
 description = "A stack of cards for facilitating deep introspection, dialogue, and coaching participants to make a decision that will stand up to the test of time — all on Zoom."
+disable_comments = true
 featured_image = "/img/blog/virtual-facilitation-stack-minute-papers-10-10-10-analysis.jpg"
 images = ["/img/blog/virtual-facilitation-stack-minute-papers-10-10-10-analysis.jpg"]
 keywords = ["ahaslides", "zoom", "digital facilitation", "facilitation tools", "virtual facilitator", "facilitator", "virtual facilitation", "facilitation"]
+tags = ["Virtual Facilitation", "Stacks", "Virtual Stacks"]
 title = "Virtual Facilitation Agenda: Four Activities from Minute Papers to 10/10/10 Analysis"
-disable_comments = true
+
 +++
+Today's [virtual stack](/tags/virtual-stacks/) is perfect for facilitators hoping to dig deep into your participants' individual viewpoints, fostering a lot of structured reflection, and coming out with a decision you'll all be happy with for years to come. We'll start with [Minute Papers](/cards/minute-papers), move into [4 Squares](/cards/4-squares), clarify with [Echoed Dialogue](/cards/echoed-dialogue), and finally vet some potential plans with [10/10/10 Analysis](https://www.facilitator.cards/cards/101010-analysis/).
 
-Today's [virtual stack](/tags/virtual-stack/) is perfect for facilitators hoping to dig deep into your participants' individual viewpoints, fostering a lot of structured reflection, and coming out with a decision you'll all be happy with for years to come. We'll start with [Minute Papers](/cards/minute-papers), move into [4 Squares](/cards/4-squares), clarify with [Echoed Dialogue](/cards/echoed-dialogue), and finally vet some potential plans with [10/10/10 Analysis](/cards/10-10-10-analysis).
-
-Read the [primer on virtual stacks](https://www.facilitator.cards/blog/virtual-facilitation-strike-a-pose-i-know-i-wonder-case-studies-dot-voting/#a-tiny-primer-on-these-virtual-agendas) to get a sense of my goals in this write-up, and how you might put all this into action. 
+Read the [primer on virtual stacks](https://www.facilitator.cards/blog/virtual-facilitation-strike-a-pose-i-know-i-wonder-case-studies-dot-voting/#a-tiny-primer-on-these-virtual-agendas) to get a sense of my goals in this write-up, and how you might put all this into action.
 
 And if you dig this idea broadly and would like to get these guides in your inbox, sign up to get [our blog via email](https://facilitatorcards.ck.page/2a44dda437).
 
@@ -23,11 +23,11 @@ Now let's figure what prep we need to get _rill_ introspective up in this Zoom.
 
 To facilitate the stack of [Minute Papers](https://virtual.facilitator.cards/minute-papers-on-zoom-using-google-forms-sam-killermann) into [4 Squares](https://virtual.facilitator.cards/4-squares-on-zoom-using-google-drawings-sam-killermann) into [Echoed Dialogue](https://virtual.facilitator.cards/echoed-dialogue-on-zoom-sam-killermann) ending with [10/10/10 Analysis](https://virtual.facilitator.cards/10-10-10-analysis-on-zoom-sam-killermann), here's what you'll need to prep:
 
-- First, **read the individual write-ups for each of these activities** on the [Virtual Guide](https://virtual.facilitator.cards) (I linked each in the paragraph above).
-- **Get comfy with the basics of [Google Forms](https://forms.google.com/) and [Google Drawings](https://drawings.google.com)** (and make sure you have a Google account created, and your participants do as well).
-- **Create the Google Form** you'll be using to receive Minute Papers.
-- **Create the Google Drawings template** for 4 Squares.
-- **Have an end goal plan to make in mind.** This will be what you're working toward throughout the sequence, and each individual activity should nudge you closer to that.
+* First, **read the individual write-ups for each of these activities** on the [Virtual Guide](https://virtual.facilitator.cards) (I linked each in the paragraph above).
+* **Get comfy with the basics of** [**Google Forms**](https://forms.google.com/) **and** [**Google Drawings**](https://drawings.google.com) (and make sure you have a Google account created, and your participants do as well).
+* **Create the Google Form** you'll be using to receive Minute Papers.
+* **Create the Google Drawings template** for 4 Squares.
+* **Have an end goal plan to make in mind.** This will be what you're working toward throughout the sequence, and each individual activity should nudge you closer to that.
 
 I'll explain each of these in more depth below, but this checklist can help you prep before a workshop each time you facilitate this sequence.
 
@@ -37,7 +37,7 @@ I'll explain each of these in more depth below, but this checklist can help you 
 
 We'll start this introspection train with one of the best processes we know of for individual reflection: [Minute Papers, but on Zoom using Google Forms](https://virtual.facilitator.cards/minute-papers-on-zoom-using-google-forms-sam-killermann) (instead of paper).
 
-As always, you'll be providing your participants with a prompt and giving them a minute to free-write in response to it. Make it something that gives them the ability to indicate what they're currently thinking or feeling in regards to the overall goal for your workshop. 
+As always, you'll be providing your participants with a prompt and giving them a minute to free-write in response to it. Make it something that gives them the ability to indicate what they're currently thinking or feeling in regards to the overall goal for your workshop.
 
 Tell your group these submissions will be anonymous. Also let them know that while you will be reading the papers yourself, you won't be sharing them with the other participants (e.g., "I'm not going to be displaying your submissions, or reading them aloud for the rest of the group to hear.").
 
@@ -57,16 +57,16 @@ Follow the general instructions for 4 Squares on Google Drawings, including one 
 
 In creating your [4 Squares template on Google Drawings](https://docs.google.com/drawings/d/1xWUiI5QRGRal2FGYB5s4x9SlSo5SzlT31pQJWbR3Ydw/copy), here's what I would recommend:
 
-- Move away from writing, because they just Minute-Paper-ed and you have lots of words from them already.
-- Emphasize visual responses and ideas here (i.e., think "mood board" or "vision board"), really embracing Google Drawings abilities beyond adding text.
-- If you're going to have a prompt that is text-based, ask for keywords, phrases, bullets, or other short, quick bits.
+* Move away from writing, because they just Minute-Paper-ed and you have lots of words from them already.
+* Emphasize visual responses and ideas here (i.e., think "mood board" or "vision board"), really embracing Google Drawings abilities beyond adding text.
+* If you're going to have a prompt that is text-based, ask for keywords, phrases, bullets, or other short, quick bits.
 
 To get you started, **here are some generic prompts you can use** (with blanks you'll need to fill in, depending on what the goal or purpose of your facilitation is):
 
-- "Reduce your Minute Paper down one big idea or phrase, and use the Scribble tool to draw a Pictionary-like visualization of that phrase."
-- "Using only images from the web (Using the Insert Image feature, or copy-paste from [Google Images](https://images.google.com/?gws_rd=ssl) or [Unsplash](https://unsplash.com)), what are the primary aspects of ______ we should be focusing on?"
-- "In bullets of emojis or a few key words, what are most exciting pathways you see forward regarding ______?"
-- "In bullets of emojis or a few key words, what are most obstructive roadblocks you anticipate regarding ______?"
+* "Reduce your Minute Paper down one big idea or phrase, and use the Scribble tool to draw a Pictionary-like visualization of that phrase."
+* "Using only images from the web (Using the Insert Image feature, or copy-paste from [Google Images](https://images.google.com/?gws_rd=ssl) or [Unsplash](https://unsplash.com)), what are the primary aspects of ______ we should be focusing on?"
+* "In bullets of emojis or a few key words, what are most exciting pathways you see forward regarding ______?"
+* "In bullets of emojis or a few key words, what are most obstructive roadblocks you anticipate regarding ______?"
 
 (Psst.. If you don't use the "pathways" and "roadblocks" prompts, or something similar, know that the rest of this stack will require some swapping in whatever you prompted here. Not the end of the world. It's all very flexible. Just a heads up!)
 
@@ -90,10 +90,10 @@ One of the secret superpowers of this activity is the clarity offered when you h
 
 With that slightly different goal in mind, we'll still be instructing participants to follow the usual rules in Echoed Dialogue. And the prompts that we'll give them will relate to the drawings they created in 4 Squares:
 
-- "First, you'll be sharing your drawing with your partner so they can view it as you have your dialogue."
-- "Starting with the first square (top left), have the initial speaker explain what they created. The listener will then repeat their response back, echoing as accurately as possible."
-- "If the initial speaker deems the echo satisfactory, swap roles and repeat for that square."
-- "We'll repeat this through all four squares, ending with the bottom right."
+* "First, you'll be sharing your drawing with your partner so they can view it as you have your dialogue."
+* "Starting with the first square (top left), have the initial speaker explain what they created. The listener will then repeat their response back, echoing as accurately as possible."
+* "If the initial speaker deems the echo satisfactory, swap roles and repeat for that square."
+* "We'll repeat this through all four squares, ending with the bottom right."
 
 Tell the pairs how long you'll be giving them (three to four minutes per square should be enough, but be ready for some groups to return early and others not to finish). Alert them when they are at half time with a broadcast, and nudge them to the third and fourth squares if they haven't started them yet.
 
