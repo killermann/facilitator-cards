@@ -6,7 +6,7 @@ import unicodedata
 
 from pathlib import Path
 
-source = Path('/Users/borgdacious/Dropbox/Sites/FC/facilitator.cards/data/cards.csv')
+source = Path('/Users/Bodacious/Dropbox/Sites/FC/facilitator.cards/data/cards.csv')
 
 def slugify(value):
     value = str(value)
