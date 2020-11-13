@@ -4,31 +4,34 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: textarea
   name: description
-  label: description
+  label: Description
 - type: text
   name: categories
-  label: categories
+  label: Categories
 - type: text
   name: author
-  label: author
+  label: Author
 - type: datetime
   name: date
-  label: date
+  label: Date
 - type: list
   name: keywords
-  label: keywords
+  label: Keywords
 - type: file
   name: featured_image
-  label: featured_image
+  label: Featured Image
 - type: image_gallery
   name: images
-  label: images
+  label: Images
 - type: text
   name: photo_cred
-  label: photo_cred
+  label: Photo Cred
+- type: text
+  name: facebook_discussion
+  label: Facebook Discussion Link
 pages:
 - 'content/blog/Join Our First Facilitator Brain Jam: Using Mural for Virtual Facilitation.md'
 - content/blog/facilitating-on-camera-a-jumpstart-into-video-conference-based-facilitation.md
