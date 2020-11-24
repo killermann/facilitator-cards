@@ -9,7 +9,7 @@ images = ["/img/blog/virtual-facilitation-stack-minute-papers-10-10-10-analysis.
 keywords = ["zoom", "digital facilitation", "facilitation tools", "virtual facilitator", "facilitator", "virtual facilitation", "facilitation"]
 tags = ["Virtual Facilitation", "Stacks", "Virtual Stacks"]
 title = "Virtual Facilitation Agenda: Four Activities from Minute Papers to 10/10/10 Analysis"
-facebook_discussion = https://www.facebook.com/FacilitatorCards/posts/404829250926758
+facebook_discussion = "https://www.facebook.com/FacilitatorCards/posts/404829250926758"
 +++
 Today's [virtual stack](/tags/virtual-stacks/) is perfect for facilitators hoping to dig deep into your participants' individual viewpoints, fostering a lot of structured reflection, and coming out with a decision you'll all be happy with for years to come. We'll start with [Minute Papers](/cards/minute-papers), move into [4 Squares](/cards/4-squares), clarify with [Echoed Dialogue](/cards/echoed-dialogue), and finally vet some potential plans with [10/10/10 Analysis](https://www.facilitator.cards/cards/101010-analysis/).
 
