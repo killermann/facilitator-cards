@@ -29,13 +29,13 @@ When we publish a new virtual facilitation activity, like this [10/10/10 Analysi
 
 Without hearing back about the activities we're publishing, we can't be confident they're helpful for you. Or more broadly, for most facilitators in most settings (which is the bar we set for ourselves to clear). We don't even know if the app itself is at all useful (we have traffic numbers, but no story to make sense of them).
 
-Since we launched the guide, **we've gotten zero activity submissions and zero replies to the activities we published.** No constructive criticism. No stories of resounding success. No anything. Now, I'm not sharing those stats in the spirit of pressure or shame or even negatively-valenced encouragement -- but merely _I get it._
+Since we launched the guide, **we've gotten zero activity submissions and zero replies to the activities we published.** No constructive criticism. No stories of resounding success. No anything. Now, I'm not sharing those stats in the spirit of pressure or shame or even negatively-valenced encouragement -- but merely as an _I get it._
 
-Because what we have heard back, lots and lots, is a chorus of, "I'm not putting anything new on my calendar until 2021." And _oof_ do we feel you on that.
+Because what we _have_ heard back, lots and lots, is a chorus of, "I'm not putting anything new on my calendar until 2021." And _oof_ do we feel you on that.
 
-Hence the declaration of a winter break (summer break for our friends in the Southern Hemisphere -- I'm looking at all you new card-carrying facilitators in Australia and New Zealand!). No more activities until 2021. No ask or even want for community feedback and submissions.
+Hence the declaration of a winter break (summer break for our friends in the Southern Hemisphere -- I'm looking at all you new card-carrying facilitators in Australia and New Zealand!). No more activities will be added until 2021. No ask or even want for community feedback and submissions.
 
-There are lots of activities there for you to use if you're Zoom facilitating in the meantime. Whether you're looking to [surface emotions](https://virtual.facilitator.cards/for/emotion), [brainstorm ideas](https://virtual.facilitator.cards/for/ideation), [get clarification](https://virtual.facilitator.cards/for/clarification) from the group, or [execute on decisions](https://virtual.facilitator.cards/for/execution), you'll find abundant inspiration.
+There's already a good bunch of activities there for you to use if you're Zoom facilitating in the meantime. Whether you're looking to [surface emotions](https://virtual.facilitator.cards/for/emotion), [brainstorm ideas](https://virtual.facilitator.cards/for/ideation), [get clarification](https://virtual.facilitator.cards/for/clarification) from the group, or [execute on decisions](https://virtual.facilitator.cards/for/execution), you'll find abundant inspiration.
 
 I've also written up a couple of agendas stitching together a few of the published activities with detailed instructions you can use. There's one [agenda that's great for facilitating deep introspection](https://www.facilitator.cards/blog/virtual-facilitation-minute-papers-10-10-10-analysis/), and [one that sets your participants up for a decision the whole group will feel invested in](https://www.facilitator.cards/blog/virtual-facilitation-strike-a-pose-i-know-i-wonder-case-studies-dot-voting/).
 
