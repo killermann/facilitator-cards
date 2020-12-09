@@ -13,7 +13,7 @@ facebook_discussion = ""
 +++
 2020 has been a rough eleven years. Among infinite sources of roughness, this year forced many of us to pivot to virtual facilitation. It also forced us to get comfy with the word "pivot," even to the point of using it ourselves (unironically -- _how dare you, 2020!_). As the exhaustion mounts from pivoting and using the word pivoting, we thought it best to take a break.
 
-Until 2021, we're not going to say the word "pivoting" again. Oh, and we're also pausing the updates to the Virtual Facilitation Guide. That's latter one is what I'm actually here to say.
+Until 2021, we're not going to take a break from saying the word "pivoting." Oh, and we're also pausing the updates to the Virtual Facilitation Guide. That latter one is what I'm actually here to say.
 
 When we launched the [Virtual Facilitator Cards Facilitation Guide](https://virtual.facilitator.cards/) a few months ago, it was a learning experience for all of us, on every front. 
 
