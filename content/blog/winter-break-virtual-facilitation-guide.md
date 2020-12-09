@@ -13,7 +13,7 @@ facebook_discussion = ""
 +++
 2020 has been a rough eleven years. Among infinite sources of roughness, this year forced many of us to pivot to virtual facilitation. It also forced us to get comfy with the word "pivot," even to the point of using it ourselves (unironically -- _how dare you, 2020!_). As the exhaustion mounts from pivoting and using the word pivoting, we thought it best to take a break.
 
-Until 2021, we're going to take a break from saying the word "pivoting." Oh, and we're also pausing the updates to the Virtual Facilitation Guide. That latter one is what I'm actually here to say.
+Until 2021, we're going to take a break from saying the word "pivoting." Oh, and we're also pausing the updates to the [Virtual Facilitation Guide](https://virtual.facilitator.cards). That latter one is what I'm actually here to say.
 
 When we launched the [Virtual Facilitator Cards Facilitation Guide](https://virtual.facilitator.cards/) a few months ago, it was a learning experience for all of us, on every front. 
 
@@ -21,13 +21,13 @@ We wanted what we created to be helpful to all of you, of course. But more impor
 
 Like you (I assume), virtual facilitation is still new territory for Meg and I, that we're actively exploring. We learn an uncomfortable amount every time we lead another workshop on Zoom.
 
-It took about a decade of in-person facilitation, leading hundreds of workshops (thousands?), before I felt comfy facilitating train-the-trainers. Knowing I could anticipate the needs of most of the facilitators in the room, identify the gaps in their abilities and knowledge, and competently guide them to the other side of the ravine, building a bridge together.
+It took about a decade of in-person facilitation, leading hundreds of workshops (thousands?), before I felt comfy facilitating train-the-trainers. Knowing I could anticipate the needs of most of the would-be facilitators in the room, identify the gaps in their abilities and knowledge, and competently guide them to the other side of the ravine, building a bridge together.
 
 I don't have anywhere close to that much experience in virtual facilitation. Most of us don't. So we need to make up for individual years of experience with collective insight.
 
 When we publish a new virtual facilitation activity, like this [10/10/10 Analysis on Zoom](https://virtual.facilitator.cards/10-10-10-analysis-on-zoom-sam-killermann) I wrote up a few weeks ago, we've tested it ourselves. It worked. _For us._ In our setting. With our people. 
 
-Without hearing back about the activities we're publishing, we can't be confident they're helpful for you. Or more broadly, for most facilitators, in most settings (which is the bar we set for ourselves to clear). We don't even know if the app itself is at all useful (we have traffic numbers, but no story to make sense of them).
+Without hearing back about the activities we're publishing, we can't be confident they're helpful for you. Or more broadly, for most facilitators in most settings (which is the bar we set for ourselves to clear). We don't even know if the app itself is at all useful (we have traffic numbers, but no story to make sense of them).
 
 Since we launched the guide, **we've gotten zero activity submissions and zero replies to the activities we published.** No constructive criticism. No stories of resounding success. No anything. Now, I'm not sharing those stats in the spirit of pressure or shame or even negatively-valenced encouragement -- but merely _I get it._
 
