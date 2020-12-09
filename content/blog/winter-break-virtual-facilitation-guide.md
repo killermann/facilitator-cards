@@ -11,7 +11,7 @@ keywords = ["zoom", "digital facilitation", "facilitation tools", "virtual facil
 title = "Declaring Winter Break on the Virtual Facilitation Guide"
 facebook_discussion = ""
 +++
-2020 has been a rough eleven years. Among infinite sources of roughness, this year forced many of us had to pivot to virtual facilitation. It also forced us to get comfy with the word "pivot," even to the point of using it ourselves (unironically -- _how dare you, 2020!_). As the exhaustion mounts from pivoting and using the word pivoting, we thought it best to take a break.
+2020 has been a rough eleven years. Among infinite sources of roughness, this year forced many of us to pivot to virtual facilitation. It also forced us to get comfy with the word "pivot," even to the point of using it ourselves (unironically -- _how dare you, 2020!_). As the exhaustion mounts from pivoting and using the word pivoting, we thought it best to take a break.
 
 Until 2021, we're not going to say the word "pivoting" again. Oh, and we're also pausing the updates to the Virtual Facilitation Guide. That's latter one is what I'm actually here to say.
 
