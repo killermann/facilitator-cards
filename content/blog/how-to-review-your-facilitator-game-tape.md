@@ -114,8 +114,6 @@ I knew if I stopped my review there, I’d never look at those four pages again.
 
 I read back through my four pages of notes looking for themes and recurring issues and came up with six major takeaways. (If you’re curious what that final page of notes looked like you can check it out [here](https://docs.google.com/document/d/1lq8CvYZ0viwMqnU7HHIY8OGG8k9Y1XQ7cb9c1sjjS_4/edit?usp=sharing).)
 
-![](/img/blog/tiny-preview-of-notes.png)
-
 When I reviewed that final list, nothing was necessarily a big surprise to me but because they were sourced from watching the tape it all felt so... _real_.
 
 I knew how it sounded when I gave unclear directions, what confusion looked like on my participants’ faces, and how much time I wasted repeating and cleaning up confusing directions. I had seen it. And seeing it all first-hand, made my takeaways feel clarifying and motivating in a completely different way then when I received feedback from participants or co-facilitators in the past.
