@@ -21,7 +21,7 @@ Recently, after a facilitation I led, I got some feedback from a long-time co-fa
 
 It’s hard to know how you’re doing as a facilitator. Helpful feedback from participants is hard to get, and when you do, it’s tough to say whether they truly benefited from the facilitation or if they’re just being kind. Even when you have a co-facilitator giving you feedback, when it doesn’t line up with how you saw the situation yourself, sometimes it’s just hard to believe it.
 
-Until you see it.
+**Until you see it.**
 
 In the sports world they’ve known this for years, which is why so many athletes and coaches watch their game tape. Reviewing a tape lets the players see what they really looked like on the field. Exactly what they were doing with their body, posture, positioning, and more — from a third-person perspective. They see what other people were seeing, which helps them receive coaching, constructive criticism, and grow as an athlete.
 
