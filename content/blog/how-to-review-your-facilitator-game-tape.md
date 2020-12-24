@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "resources"
 date = 2020-12-24T21:00:00Z
 description = "Why watching yourself facilitate can help you improve everything"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/gametapereview.jpg"
 images = ["/img/blog/gametapereview.jpg", "/img/blog/tiny-preview-of-notes.png"]
