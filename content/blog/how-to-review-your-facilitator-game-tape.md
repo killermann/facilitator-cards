@@ -132,4 +132,4 @@ Is it awkward? It can be.
 
 Cringe-inducing? Where’s that fast-forward button.
 
-But is it worth it? Will it make you a better facilitator? Absolutely.
+But will it make you a better facilitator? Absolutely.
