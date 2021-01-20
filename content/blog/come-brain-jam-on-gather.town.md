@@ -1,7 +1,7 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-01-20T08:00:00Z
+date = 2021-01-20T20:00:00Z
 description = "Have you ever explored how you might use a proximity-based video-conferencing platform in your workshops?"
 facebook_discussion = ""
 featured_image = "/img/blog/screen-shot-2021-01-14-at-12-07pm-1.png"
