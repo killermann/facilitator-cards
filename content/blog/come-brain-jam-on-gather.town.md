@@ -6,15 +6,15 @@ description = "Explore and brainstorm new ways to facilitate on Gather, a proxim
 draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/screen-shot-2021-01-14-at-12-07pm-1.png"
-images = []
-keywords = ["facilitator tools", "facilitation tools", "online facilitation", "digital facilitation", "virtual facilitation"]
+images = ["/img/blog/gather-room.jpg"]
+keywords = ["remote learning", "gather.town", "facilitator", "facilitation", "facilitator tools", "facilitation tools", "online facilitation", "digital facilitation", "virtual facilitation"]
 photo_cred = ""
 title = "Come Brain Jam on Gather.Town "
 
 +++
 Join us for our first Brain Jams of 2021!
 
-Brain Jams are Facilitator Cards community events where we bring together facilitators from across our community to explore and crowdsource creative ways to use new tools and technologies to enhance our facilitation.
+Brain Jams are free Facilitator Cards events where we bring together facilitators from across our community to explore and crowdsource creative ways to use new tools and technologies to enhance our facilitation.
 
 This round we’ll be exploring [Gather.town,](https://gather.town/) a proximity-based video chat platform, and how we might use it to open up new possibilities in our facilitations. The Brain Jams will take place Feb 3rd at 2pm Los Angeles (5pm New York, 9am Feb 4th Sydney) and Feb 4th at 9am Los Angeles (12pm New York, 5pm London) and you can [RSVP here](https://hues.typeform.com/to/JsdzcHFy).
 
@@ -22,15 +22,17 @@ For more deets, read on.
 
 ## What is Gather.Town?
 
-Gather.town is a video-conferencing interface that differs significantly from the Zooms and Google Meets of the world. When you arrive in a Gather room, you appear as a 2D avatar that you can move around the room. When you walk up to another person in the room, you’ll start to see that person’s video and hear their audio and they will be able to hear and see you. When one of you walks away, your audio and video will fade and eventually disappear. This allows for a ton of unique interactions and facilitation processes that aren’t possible in Zoom ([Spectrum Questions](https://www.facilitator.cards/cards/spectrum-questions/) anyone?). Here’s [a demo](https://youtu.be/8orexZsFRxs?t=19) of what this looks like in action.
+Gather.town is a video-conferencing interface that differs significantly from the Zooms and Google Meets of the world. When you arrive in a Gather room, you appear as a 2D avatar that you can move around the room. When you walk up to another person in the room, you’ll start to see that person’s video and hear their audio and they will be able to hear and see you. When one of you walks away, your audio and video will fade and eventually disappear. Here’s [a demo](https://youtu.be/8orexZsFRxs?t=19) of what this looks like in action.
 
 {{< youtube 8orexZsFRxs?t=46 >}}
 
 Gather also integrates objects that you can use with others while you’re in the space, like whiteboards, Google Docs, and even YouTube videos. If you want to get a taste of what it looks like to move around a room in Gather, you can [explore this example room](https://gather.town/app/jtguOJTf6LYk71me/facilitate), and if you run into anyone in the space, know they are part of our Facilitator Cards community too!
 
+![](/img/blog/gather-room.jpg)
+
 ## Details for the Brain Jam
 
-While our past Brain Jams, including the ones on [MURAL](https://www.facilitator.cards/blog/using-mural-for-virtual-facilitation-canning-the-brain-jam/) and [AhaSlides](https://www.facilitator.cards/blog/using-ahaslides-for-virtual-facilitation-canning-the-brain-jam/), have been hosted on Zoom, this one will be hosted on Gather so we can explore and experience all of its functionalities as a video hosting platform.
+While our past Brain Jams, including the ones on [MURAL](https://www.facilitator.cards/blog/using-mural-for-virtual-facilitation-canning-the-brain-jam/) and [AhaSlides](https://www.facilitator.cards/blog/using-ahaslides-for-virtual-facilitation-canning-the-brain-jam/), have been hosted on Zoom, this one will be hosted on Gather so we can explore and experience all of its functionalities as a video hosting platform. We'll explore Gather's powerful integrations and crowdsource what new possibilities the proximity-based platforms opens up for facilitation ([Spectrum Questions](https://www.facilitator.cards/cards/spectrum-questions/) anyone?). 
 
 ### TIME / DATE
 
@@ -58,7 +60,7 @@ Please note that it’s important for the Gather Brain Jams to be on time. Gathe
 
 ## See you there!
 
-Connect with us anytime at hello@facilitator.cards with any questions. Otherwise, I hope to see you at the Jam!
+Connect with us anytime at hello@facilitator.cards with any questions. Otherwise, I hope to see you at the Jam.
 
 ***
 
