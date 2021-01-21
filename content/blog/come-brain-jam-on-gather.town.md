@@ -25,7 +25,7 @@ When you arrive in a Gather room, you appear as a 2D avatar that you can move ar
 
 Here’s [a demo](https://youtu.be/8orexZsFRxs?t=19) of what this looks like in action:
 
-{{< youtube 8orexZsFRxs?t=46 >}}
+{{< youtube 8orexZsFRxs >}}
 
 Gather also integrates objects that you can use with others while you’re in the space, like whiteboards, Google Docs, and even YouTube videos. If you want to get a taste of what it looks like to move around a room in Gather, you can [explore this example room](https://gather.town/app/jtguOJTf6LYk71me/facilitate). (Bonus: if you run into anyone in that Gathering, know they are part of our Facilitator Cards community as well!).
 
