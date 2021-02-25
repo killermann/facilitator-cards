@@ -7,7 +7,7 @@ facebook_discussion = ""
 featured_image = "/img/blog/breakout-rooms-blog-post-image.jpg"
 images = ["/img/blog/breakout-rooms-blog-post-image.jpg"]
 keywords = ["breakout rooms", "Zoom facilitation", "facilitation best practices", "facilitator tools", "digital facilitation", "virtual facilitation"]
-photo_cred = "Photo by Philipp Berndt on Unsplash"
+photo_cred = "Photo by Philipp Berndt"
 title = "March Brain Jam: Virtual Breakout Room Best Practices"
 
 +++
