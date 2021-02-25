@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "resources"
 date = 2021-02-24T08:00:00Z
 description = "Breakout rooms are a go-to feature for facilitators nowadays, so what do we need to do to make the most of them? "
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/breakout-rooms-blog-post-image.jpg"
 images = ["/img/blog/breakout-rooms-blog-post-image.jpg"]
