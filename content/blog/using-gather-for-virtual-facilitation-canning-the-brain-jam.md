@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "resources"
 date = 2021-03-02T16:00:00Z
 description = "How sharing a virtual world can help us get closer to in-person facilitating than we initially thought possible."
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/blog-cover-image-v2.jpg"
 images = ["/img/blog/screen-shot-2021-02-28-at-7-07pm.png", "/img/blog/screen-shot-2021-02-28-at-6-59pm.png", "/img/blog/screen-shot-2021-02-28-at-7-00pm.png", "/img/blog/arrival-in-gather.png"]
@@ -22,8 +21,9 @@ In the February Brain Jams we explored Gather and discovered so many ways to use
 
 You might have heard of other virtual-world platforms like [Remo](https://www.youtube.com/watch?v=7MULDTn909k) (more expensive and restrictive than Gather) or [Topia](https://www.youtube.com/watch?v=0ud_MpHL41M) (more artsy and dreamy feeling) and there are sure to be others I don’t know about yet. The biggest thing with these platforms is that they increase the level of independence and autonomy that participants have over their experiences and re-create the feeling of being in a real (non-Zoom) room together.
 
-This is what our Brain Jammers saw when they first arrived in the Brain Jam:  
-![](https://lh4.googleusercontent.com/G-IWiTM-SmNkzk37WHpNn0BnccBp-yte7CfZQO1n8xnLu_WJiDxBZ2VSpAqbmNGFIpncd5WBuk6_GWKjpPdOcO4s3OagGVBixeNPE6DxXdniYXVOXzq9HrTlwpmivKxs5dEiNVDG =591x366)
+This is what our Brain Jammers saw when they first arrived in the Brain Jam:
+
+![](/img/blog/arrival-in-gather.png)
 
 They appeared as little avatars in a courtyard. As you can see here, when you walk up to someone in Gather), their video/audio comes online and you can chat. When one of you walks away, the video/audio connection between you disappears. This proximity interaction feature and the ability for anyone in the space to be able to control their own movements are what makes this type of shared virtual world so powerful for us facilitators.
 
@@ -69,7 +69,7 @@ As a facilitator, I felt less intrusive when I checked in on groups, and it was 
 
 _FYI: The speech bubble feature is a very recent update in Gather, so you won’t see this in the recording. But this is what it looks like:_
 
-![](https://lh6.googleusercontent.com/a3PvcnPxpXPweTFDHEoLITFwO8y8W1RN0KQowxuWRR_Wmt1-ejyiRNkwJtG4hlPQho0gHET_BK1NWgLDTzRUP_JI4HtH8UwW1ZPXYPwDUUZDhDTFw_qkrd_01H5luKwmX3OMKeny =672x401)
+![](/img/blog/screen-shot-2021-02-28-at-7-00pm.png)
 
 ### **Aha #3: We Can Build Physical Places in Virtual Spaces**
 
@@ -97,7 +97,7 @@ The video-game-like visuals of Gather transform the feeling of being online into
 
 We even tried out some group games where we made shapes on the carpet which worked okay. Making a [Birthday Line Up](https://www.sessionlab.com/methods/birthday-lineup) worked well and I suspect would be even more fun with more people.
 
-![](https://lh3.googleusercontent.com/1nEAlaKvJ2uEkBQNc0uig-0m_CYAHYJbDWDkvcsYmjv1R9DPS0q4YaTyvmopfbpyz-PjC1r5KVIFDAvlxApFvDWW6_FWLsyOYTmPqB1NVwMZMJUH08ccosoah3kcohGi-jermKQt =660x237)
+![](/img/blog/screen-shot-2021-02-28-at-6-59pm.png)
 
 Remembering that our sessions can and should be fun is important for any of us who are feeling burnt out after a year of facilitating virtually.
 
@@ -113,7 +113,7 @@ If you go to [Gather’s home page](http://gather.town) you’ll find a link to 
 
 Gather has a ton of pre-built templates that you can try out. I’ve learned a lot just from seeing how they set up their spaces. This [classroom space](https://gather.town/app/0O4ZYMJRn94A2VpF/school), for example, helped me see that private areas don’t always have to be grouped together.
 
-![](https://lh5.googleusercontent.com/LkHNhw-10o0ZOaQrCgdY3azgqAI8J6xtKZ8FEY5pLszj-V8ZXk8eqTok4l98RjsoReZqDmBmHMLrp0dJC4xc7HD2T-6rfO5cGtRcRNutn34kgjpQdOjht8GTgqkTlGjufysLFgkY =672x469)
+![](/img/blog/screen-shot-2021-02-28-at-7-07pm.png)
 
 If you don’t want to create a million spaces to explore all the Gather maps, check out [this bit](https://youtu.be/texCoyr__C0?t=2590) on how to manage spaces in our Brain Jam Encore.
 
