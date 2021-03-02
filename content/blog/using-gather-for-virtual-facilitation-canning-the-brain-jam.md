@@ -57,7 +57,7 @@ This happened in the Brain Jams. Participants showed up early and asked question
 
 One Brain Jammer reflected that even though they didn’t see themselves using Gather for the bulk of their facilitations, they did see themselves using a platform like this as a break space or a place to connect with others during lunch. Some of my favorite parts of facilitations are the lingering conversations that happen after a session.Spaces like this feel more casual and therefore these interactions become more likely.
 
-## **Aha #2: Interactions Feel (More) Normal**
+### **Aha #2: Interactions Feel (More) Normal**
 
 Hopping into a Zoom breakout room as a facilitator has always felt intrusive to me, like I’m crashing a conversation. There is that moment where people are disoriented because they didn’t see you coming and it can throw off their groove.
 
