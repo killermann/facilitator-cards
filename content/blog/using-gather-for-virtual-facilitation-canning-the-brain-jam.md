@@ -3,6 +3,7 @@ author = "Meg Bolger"
 categories = "resources"
 date = 2021-03-02T16:00:00Z
 description = "How sharing a virtual world can help us get closer to in-person facilitating than we initially thought possible."
+draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/blog-cover-image-v2.jpg"
 images = ["/img/blog/screen-shot-2021-02-28-at-7-07pm.png", "/img/blog/screen-shot-2021-02-28-at-6-59pm.png", "/img/blog/screen-shot-2021-02-28-at-7-00pm.png", "/img/blog/arrival-in-gather.png"]
