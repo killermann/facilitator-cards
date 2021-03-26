@@ -54,15 +54,26 @@ So what will our OBS Brain Jam look like?
 
 Brain Jams are a 60/60 format. The first 60 minutes is getting to know, learn, and try out whatever we're focusing on that month. The second 60 minutes are totally optional time to actively experiment, get into the weeds, and bounce ideas off of other facilitators.
 
-The first hour of our OBS Brain Jam will be all about building scenes (like a few of the ones above) in OBS, learning how to switch between them, and using OBS as our Zoom camera. No prior OBS experience required.
+The first hour of our OBS Brain Jam will be all about getting familiar and practicing with OBS. 
 
-The second (optional) hour of the Brain Jam will be all about experimenting and trying things out with OBS. What are creative things we can do, now that we know the basics of OBS? How can we use it to make our lives simpler as facilitators? How can this change how we facilitate in Zoom when we're working with other presenters or co-facilitators? What are hidden advantages to no longer having to screen share? We’ll have a chance to explore all of this and more in our second hour together.
+* How to build multiple scenes (like the images above) 
+* How to switch between them 
+* How to use OBS as our Zoom camera 
+
+No prior OBS experience required.
+
+The second (optional) hour of the Brain Jam will be all about experimenting and trying things out with OBS. Where we might explore questions like: 
+
+* What are creative things we can do, now that we know the basics of OBS? 
+* How can we use it to make our lives simpler as facilitators? 
+* How can this change how we facilitate in Zoom when we're working with other presenters or co-facilitators? 
+* What are hidden advantages to no longer having to screen share? 
 
 ## What You’ll Need for the Brain Jam
 
-To join this Brain Jam you do need to install the OBS software on your computer and run a few tests to make sure that the software has all the permissions that it needs to work.
+To join this Brain Jam you do need to install the OBS software on your computer. When you RSVP for the Brain Jam we’ll send you an email with some tips and advice for installing OBS. Installing OBS can be intimidating for some, but don’t worry, we’ll guide you through it. 
 
-When you RSVP for the Brain Jam we’ll send you an email with all you need to know about installing OBS. Installing OBS can be intimidating for some, but don’t worry, we’ll guide you through it. You do not need to be any sort of tech wizard to learn OBS. If you have built a slide deck or made a flyer, you can do it. (And if you’ve never built a slide deck and you’re reading this, please tell me your story.)
+You do not need to be any sort of tech wizard to learn OBS. If you have built a slide deck or made a flyer, you can do it. (And if you’ve never built a slide deck and you’re reading this, please tell me your story.)
 
 Here’s all that you’ll need to participate in the Jam:
 
@@ -79,4 +90,4 @@ Any other questions please reach out anytime at hello@facilitator.cards. Otherwi
 
 ***
 
-Note: We are not affiliated with or sponsored by OBS in any way. We’re just facilitation geeks excited about the ways OBS might improve our virtual facilitation.
+_Note: We are not affiliated with or sponsored by OBS in any way. We’re just facilitation geeks excited about the ways OBS might improve our virtual facilitation._
