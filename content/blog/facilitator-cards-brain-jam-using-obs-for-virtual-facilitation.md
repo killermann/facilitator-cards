@@ -15,7 +15,7 @@ As a facilitator, I’m entering my second year of online facilitation with mixe
 
 The more ambitious I get with my facilitations, adding in [MURAL](https://www.facilitator.cards/blog/using-mural-for-virtual-facilitation-canning-the-brain-jam/) or [AhaSlides](https://www.facilitator.cards/blog/using-ahaslides-for-virtual-facilitation-canning-the-brain-jam/) or any other piece of tech, the more I have to manage and keep track of during my facilitations. When I’m facilitating, I don’t want to have to think about where this window is, am I sharing the right thing, is this a good view of this—I just want to be present.
 
-**Last month, I was introduced to a program called** [**OBS**](https://obsproject.com/)**—Open Broadcaster Software—which is a totally free open-source software, and I’m never going back to facilitating without it.**
+**Last month, I was introduced to a program called** [**OBS**](https://obsproject.com/)**—Open Broadcaster Software—which is a totally free open-source software, and I’m never again going to facilitating online without it.**
 
 Instead of having to screen share, manage windows, turn on and off slideshows, I can set these things up ahead of time in OBS and simply switch between them with a press of a button. 🥳
 
