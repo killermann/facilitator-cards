@@ -11,7 +11,7 @@ photo_cred = ""
 title = "Facilitator Cards Brain Jam: Using OBS for Virtual Facilitation"
 
 +++
-As a facilitator, I’m entering my second year of online facilitation with mixed emotions. While I feel wholly more prepared to work with folks online, online facilitation is clunky, and the tech headaches of awkward screen shares and weird transitions are tiring. 
+As a facilitator, I’m entering my second year of online facilitation with mixed emotions. While I feel wholly more prepared to work with folks online, online facilitation is clunky, and the tech headaches of awkward screen shares and weird transitions are tiring.
 
 The more ambitious I get with my facilitations, adding in [MURAL](https://www.facilitator.cards/blog/using-mural-for-virtual-facilitation-canning-the-brain-jam/) or [AhaSlides](https://www.facilitator.cards/blog/using-ahaslides-for-virtual-facilitation-canning-the-brain-jam/) or any other piece of tech, the more I have to manage and keep track of during my facilitations. When I’m facilitating, I don’t want to have to think about where this window is, am I sharing the right thing, is this a good view of this—I just want to be present.
 
@@ -39,7 +39,6 @@ This is a live countdown timer I've been using for when people arrive early.
 
 OBS allows me to share my video and my slides without screen sharing.
 
-  
 ![](/img/blog/us-in-zoom-v3.jpg)
 
 I’ve even used OBS to help me show two camera angles at once: one using my phone pointed down at the desk and the other my normal webcam.
@@ -54,24 +53,22 @@ So what will our OBS Brain Jam look like?
 
 Brain Jams are a 60/60 format. The first 60 minutes is getting to know, learn, and try out whatever we're focusing on that month. The second 60 minutes are totally optional time to actively experiment, get into the weeds, and bounce ideas off of other facilitators.
 
-The first hour of our OBS Brain Jam will be all about getting familiar and practicing with OBS. 
+The first hour of our OBS Brain Jam will be all about getting familiar and practicing with OBS.
 
-* How to build multiple scenes (like the images above) 
-* How to switch between them 
-* How to use OBS as our Zoom camera 
+* How to build multiple scenes (like the images above)
+* How to switch between them
+* How to use OBS as our Zoom camera
 
-No prior OBS experience required.
+The second (optional) hour of the Brain Jam will be all about experimenting and trying things out with OBS. Where we might explore questions like:
 
-The second (optional) hour of the Brain Jam will be all about experimenting and trying things out with OBS. Where we might explore questions like: 
-
-* What are creative things we can do, now that we know the basics of OBS? 
-* How can we use it to make our lives simpler as facilitators? 
-* How can this change how we facilitate in Zoom when we're working with other presenters or co-facilitators? 
-* What are hidden advantages to no longer having to screen share? 
+* What are creative things we can do, now that we know the basics of OBS?
+* How can we use it to make our lives simpler as facilitators?
+* How can this change how we facilitate in Zoom when we're working with other presenters or co-facilitators?
+* What are hidden advantages to no longer having to screen share?
 
 ## What You’ll Need for the Brain Jam
 
-To join this Brain Jam you do need to install the OBS software on your computer. When you RSVP for the Brain Jam we’ll send you an email with some tips and advice for installing OBS. Installing OBS can be intimidating for some, but don’t worry, we’ll guide you through it. 
+To join this Brain Jam you do need to install the OBS software on your computer. When you RSVP for the Brain Jam we’ll send you an email with some tips and advice for installing OBS. Installing OBS can be intimidating for some, but don’t worry, we’ll guide you through it.
 
 You do not need to be any sort of tech wizard to learn OBS. If you have built a slide deck or made a flyer, you can do it. (And if you’ve never built a slide deck and you’re reading this, please tell me your story.)
 
