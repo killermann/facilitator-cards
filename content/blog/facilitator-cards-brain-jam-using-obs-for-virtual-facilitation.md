@@ -31,7 +31,9 @@ For more info on what OBS is and what you can expect in the Brain Jam, read on!
 
 One of the clunkiest elements of virtual facilitation is managing all the technology. In a single facilitation I might have two different windows I want to share, an opening slide deck I want to use for the first 5 minutes, and be trying to remember to make eye contact with my camera and monitor the chat.
 
-OBS has helped with all of this because it allows me to prepare ahead of time for all the changes I want to make to a workshop and then switch between those “scenes” directly in my webcam in Zoom. Here are a few examples and setups I’ve been using in some of my sessions this last month. Keep in mind: in all of these images **I’m not screen sharing;** this is what people are seeing instead of my usual video window.
+OBS has helped with all of this because it allows me to prepare ahead of time for all the changes I want to make to a workshop and then switch between those “scenes” directly in my webcam in Zoom. To help you get a taste of how you might use OBS as a facilitator [here's a quick demo](https://youtu.be/YBNl4Es3iKU) of OBS I did for some fellow facilitators. 
+
+Below are a few examples and setups I’ve been using in some of my sessions this last month. Keep in mind: in all of these images **I’m not screen sharing;** this is what people are seeing instead of my usual video window.
 
 This is a live countdown timer I've been using for when people arrive early.
 
