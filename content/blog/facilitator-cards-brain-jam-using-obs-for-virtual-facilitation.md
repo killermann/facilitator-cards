@@ -75,8 +75,7 @@ You do not need to be any sort of tech wizard to learn OBS. If you have built a 
 Here’s all that you’ll need to participate in the Jam:
 
 * OBS installed on your computer (it’s totally free)
-* Webcam
-* Microphone
+* Webcam / microphone
 * Ability to tune into Zoom on your computer (as we’ll be using/building in OBS throughout the Jam)
 
 While it’s not required, it’ll be super handy to have two monitors for this Brain Jam if possible, your laptop set up next to a single external monitor will work perfectly.
