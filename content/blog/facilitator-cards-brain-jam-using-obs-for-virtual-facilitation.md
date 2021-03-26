@@ -1,7 +1,7 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-03-26T06:00:00Z
+date = 2021-03-26T04:00:00Z
 description = "Can one piece of software eliminate 90% of our tech headaches for free?"
 facebook_discussion = ""
 featured_image = "/img/blog/april-brain-jam-cover-image.jpg"
