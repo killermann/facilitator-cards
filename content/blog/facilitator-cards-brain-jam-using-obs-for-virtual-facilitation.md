@@ -74,7 +74,7 @@ You do not need to be any sort of tech wizard to learn OBS. If you have built a 
 
 Here’s all that you’ll need to participate in the Jam:
 
-* OBS installed on your computer (it’s totally free)
+* [OBS](https://obsproject.com/) installed on your computer (it’s totally free)
 * Webcam / microphone
 * Ability to tune into Zoom on your computer (as we’ll be using/building in OBS throughout the Jam)
 
