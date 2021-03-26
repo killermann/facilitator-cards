@@ -11,11 +11,9 @@ photo_cred = ""
 title = "Facilitator Cards Brain Jam: Using OBS for Virtual Facilitation"
 
 +++
-As a facilitator, I’m entering my second year of online facilitation with mixed emotions.
+As a facilitator, I’m entering my second year of online facilitation with mixed emotions. While I feel wholly more prepared to work with folks online, online facilitation is clunky, and the tech headaches of awkward screen shares and weird transitions are tiring. 
 
-While I feel wholly more prepared to work with folks online, online facilitation is clunky, and the tech headaches of awkward screen shares and weird transitions are tiring. The more ambitious I get with my facilitations, adding in [MURAL](https://www.facilitator.cards/blog/using-mural-for-virtual-facilitation-canning-the-brain-jam/) or [AhaSlides](https://www.facilitator.cards/blog/using-ahaslides-for-virtual-facilitation-canning-the-brain-jam/) or any other piece of tech, the more I have to manage and keep track of during my facilitations.
-
-When I’m actively facilitating, I don’t want to have to think about where this window is, am I sharing the right thing, is this a good view of this—I just want to be present.
+The more ambitious I get with my facilitations, adding in [MURAL](https://www.facilitator.cards/blog/using-mural-for-virtual-facilitation-canning-the-brain-jam/) or [AhaSlides](https://www.facilitator.cards/blog/using-ahaslides-for-virtual-facilitation-canning-the-brain-jam/) or any other piece of tech, the more I have to manage and keep track of during my facilitations. When I’m facilitating, I don’t want to have to think about where this window is, am I sharing the right thing, is this a good view of this—I just want to be present.
 
 **Last month, I was introduced to a program called** [**OBS**](https://obsproject.com/)**—Open Broadcaster Software—which is a totally free open-source software, and I’m never going back to facilitating without it.**
 
