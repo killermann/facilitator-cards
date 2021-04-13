@@ -49,11 +49,11 @@ Be sure to follow the directions to add your camera in OBS (and have it not work
 
 In our [April Brain Jam on OBS](https://www.facilitator.cards/blog/facilitator-cards-brain-jam-using-obs-for-virtual-facilitation/) we spent time learning how screen sharing and using OBS to facilitate felt different than screen sharing in Zoom. We also built our first scenes in OBS. Watch the recording of the April Brain Jam on OBS for virtual facilitation here.
 
-**{{< youtube** XzBFHvP-Pgk **>}}**
+{{< youtube XzBFHvP-Pgk >}}
 
 Or if you want to skip right to the building part of the Brain Jam, check out this step-by-step walkthrough for setting up your first scenes in OBS.
 
-**{{< youtube** c_Xf7fq4cwE **>}}**
+{{< youtube c_Xf7fq4cwE >}}
 
 Here are a few common issues that people have when they start to build.
 
