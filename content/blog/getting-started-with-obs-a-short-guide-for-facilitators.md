@@ -97,4 +97,6 @@ Happy Facilitating!
 
 ***
 
+Also big shout out to [Vivian Vaillant](https://vivian.vaillant.ca/) who helped contribute to this guide and who supported the Brain Jam with awesome troubleshooting and technical support! 
+
 Facilitator Cards is not sponsored by or associated with OBS in any way. We simply think this is a really neat piece of software that we’re excited to use and explore as facilitators.
