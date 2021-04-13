@@ -2,7 +2,7 @@
 author = "Meg Bolger"
 categories = "resources"
 date = 2021-04-13T15:00:00Z
-description = "How to properly install, build your first scenes, and get ready to start using Open Broadcaster Software in your virtual facilitations"
+description = "From downloading OBS, to building your first scenes, to using it in your next facilitation."
 facebook_discussion = ""
 featured_image = "/img/blog/screen-shot-2021-04-12-at-2-27pm-copy.png"
 images = ["/img/blog/screen-shot-2021-04-12-at-2-27pm-copy.png", "/img/blog/screen-shot-2021-04-12-at-12-28pm.png", "/img/blog/screen-shot-2021-04-12-at-12-12pm.png", "/img/blog/screen-shot-2021-04-12-at-12-28pm-1.png", "/img/blog/screen-shot-2021-04-12-at-12-14pm.png"]
