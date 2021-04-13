@@ -55,7 +55,7 @@ In our [April Brain Jam on OBS](https://www.facilitator.cards/blog/facilitator-c
 
 {{< youtube XzBFHvP-Pgk >}}
 
-Or if you want to skip right to the building part of the Brain Jam, check out this step-by-step walkthrough for setting up your first scenes in OBS.
+If you're wanting to jump right into building in OBS, you can do that too. Below is a step-by-step walkthrough for setting up your first scenes in OBS. At the end of the 10 minutes you'll have the ability to use OBS to share your screen (no more screen shares!) and much more. We'll go over how to add your camera, window captures (for screen shares), images, text, and how to easily crop and resize any element you add to your OBS.
 
 {{< youtube c_Xf7fq4cwE >}}
 
