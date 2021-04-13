@@ -33,7 +33,9 @@ The first thing you need to do is to [download OBS](https://obsproject.com/) and
 
 For some people, as soon as they land on the OBS website they think, “Whoa this looks really techy, I don’t know if I can do this.” I felt really intimidated by OBS the first time I discovered it and a few months later I can’t imagine facilitating without it, so don’t fear, you can get there too!
 
-Once you have it downloaded and installed and you open it up for the first time, you’re going to hit something called the “auto-configuration wizard.” Some people see this and panic because they don’t know the answers to the initial questions. Not to worry. Simply select the second option down (Optimize just for recording) and then click “next” until it’s done and then hit “apply settings.” Know that if you want to dig more into these settings, you can always change them later.
+Once you have it downloaded and installed and you open it up for the first time, you’re going to hit something called the “auto-configuration wizard.” Some people see this and panic because they don’t know the answers to the initial questions. Not to worry. Simply select the second option down (Optimize just for recording) and then click “next” until it’s done and then hit “apply settings.” 
+
+Know that if you want to dig more into these settings, you can always change them later.
 
 ![auto-configuration window pop-up](/img/blog/screen-shot-2021-04-12-at-12-12pm.png)
 
