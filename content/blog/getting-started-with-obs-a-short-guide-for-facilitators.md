@@ -11,7 +11,9 @@ photo_cred = "John Schnobrich"
 title = "Getting Started with OBS: A short guide for facilitators"
 
 +++
-If you’re looking to improve your virtual facilitations, no matter what platform or service you’re using, OBS can be a new best friend. OBS, [Open Broadcaster Software](https://obsproject.com/), is a powerful tool for anyone who wants to improve the experience of their virtual facilitations for their participants. OBS can allow you to transform and manipulate your video feed so that you can screen share, share videos, add your logo, do split screen with yourself and instructions, and so much more, anywhere you’re using a webcam.
+If you’re looking to improve your virtual facilitations, no matter what platform or service you’re using, OBS can be a new best friend. 
+
+OBS, [Open Broadcaster Software](https://obsproject.com/), is a powerful tool for anyone who wants to improve the experience of their virtual facilitations for their participants. OBS can allow you to transform and manipulate your video feed so that you can screen share, share videos, add your logo, do split screen with yourself and instructions, and so much more, anywhere you’re using a webcam.
 
 If after checking out OBS you want to spend some time exploring OBS with other facilitators join our OBS Brain Jam Encore, a totally free drop-in session on Tuesday April 20th at 10am PT (3pm ET | 6pm GMT) [RSVP here](https://airtable.com/shrVWPmwEsQPdooe4).
 
